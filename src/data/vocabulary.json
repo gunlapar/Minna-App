@@ -1,0 +1,8688 @@
+{
+  "bab 1": [
+    {
+      "japanese": "Watashi",
+      "meaning": "saya"
+    },
+    {
+      "japanese": "Anata",
+      "meaning": "anda / kamu (‘sayang’ untuk pacar cewek ke cowok)"
+    },
+    {
+      "japanese": "ano hito/kata",
+      "meaning": "orang/beliau itu"
+    },
+    {
+      "japanese": "~jin",
+      "meaning": "orang ~"
+    },
+    {
+      "japanese": "Sensei",
+      "meaning": "guru (panggilan)"
+    },
+    {
+      "japanese": "Kyoushi",
+      "meaning": "guru (pekerjaan)"
+    },
+    {
+      "japanese": "Gakusei",
+      "meaning": "murid"
+    },
+    {
+      "japanese": "Kaishain",
+      "meaning": "pegawai perusahaan"
+    },
+    {
+      "japanese": "Shain",
+      "meaning": "pegawai"
+    },
+    {
+      "japanese": "Ginkouin",
+      "meaning": "pegawai bank"
+    },
+    {
+      "japanese": "Isha",
+      "meaning": "dokter"
+    },
+    {
+      "japanese": "Kenkyuusha",
+      "meaning": "peneliti"
+    },
+    {
+      "japanese": "Daigaku",
+      "meaning": "universitas"
+    },
+    {
+      "japanese": "Byouin",
+      "meaning": "rumah sakit"
+    },
+    {
+      "japanese": "dare / donata",
+      "meaning": "siapa ?"
+    },
+    {
+      "japanese": "~sai",
+      "meaning": "(umur) ~tahun"
+    },
+    {
+      "japanese": "nansai / oikutsu",
+      "meaning": "umurnya berapa?"
+    },
+    {
+      "japanese": "amerika",
+      "meaning": "America"
+    },
+    {
+      "japanese": "igirisu",
+      "meaning": "England / UK"
+    },
+    {
+      "japanese": "indo",
+      "meaning": "India"
+    },
+    {
+      "japanese": "indoneshia",
+      "meaning": "Indonesia"
+    },
+    {
+      "japanese": "tai",
+      "meaning": "Thailand"
+    },
+    {
+      "japanese": "doitsu",
+      "meaning": "Germany"
+    },
+    {
+      "japanese": "burajiru",
+      "meaning": "Brazil"
+    }
+  ],
+  "bab 2": [
+    {
+      "japanese": "Enpitsu",
+      "meaning": "pensil"
+    },
+    {
+      "japanese": "Kagi",
+      "meaning": "kunci"
+    },
+    {
+      "japanese": "Tokei",
+      "meaning": "jam"
+    },
+    {
+      "japanese": "Kasa",
+      "meaning": "payung"
+    },
+    {
+      "japanese": "Kaban",
+      "meaning": "tas"
+    },
+    {
+      "japanese": "Kuruma",
+      "meaning": "mobil"
+    },
+    {
+      "japanese": "Tsukue",
+      "meaning": "meja (desk)"
+    },
+    {
+      "japanese": "Isu",
+      "meaning": "bangku"
+    },
+    {
+      "japanese": "miyage",
+      "meaning": "oleh-oleh"
+    },
+    {
+      "japanese": "Eigo",
+      "meaning": "Bahasa inggris"
+    },
+    {
+      "japanese": "Nihongo",
+      "meaning": "Bahasa jepang"
+    },
+    {
+      "japanese": "~go",
+      "meaning": "Bahasa~"
+    },
+    {
+      "japanese": "nani / nan",
+      "meaning": "apa?"
+    },
+    {
+      "japanese": "sou desu ka",
+      "meaning": "oh gitu"
+    },
+    {
+      "japanese": "Anou",
+      "meaning": "permisi / maaf (saat mau mulai percakapan)"
+    },
+    {
+      "japanese": "Enpitsu",
+      "meaning": "pensil"
+    },
+    {
+      "japanese": "Kagi",
+      "meaning": "kunci"
+    },
+    {
+      "japanese": "Tokei",
+      "meaning": "jam"
+    },
+    {
+      "japanese": "Kasa",
+      "meaning": "payung"
+    },
+    {
+      "japanese": "Kaban",
+      "meaning": "tas"
+    },
+    {
+      "japanese": "Kuruma",
+      "meaning": "mobil"
+    },
+    {
+      "japanese": "Tsukue",
+      "meaning": "meja (desk)"
+    },
+    {
+      "japanese": "Isu",
+      "meaning": "bangku"
+    },
+    {
+      "japanese": "miyage",
+      "meaning": "oleh-oleh"
+    },
+    {
+      "japanese": "Eigo",
+      "meaning": "Bahasa inggris"
+    },
+    {
+      "japanese": "Nihongo",
+      "meaning": "Bahasa jepang"
+    },
+    {
+      "japanese": "~go",
+      "meaning": "Bahasa~"
+    },
+    {
+      "japanese": "nani / nan",
+      "meaning": "apa?"
+    },
+    {
+      "japanese": "sou desu ka",
+      "meaning": "oh gitu"
+    },
+    {
+      "japanese": "Anou",
+      "meaning": "permisi / maaf (saat mau mulai percakapan)"
+    },
+    {
+      "japanese": "nooto",
+      "meaning": "note"
+    },
+    {
+      "japanese": "kaado",
+      "meaning": "card"
+    },
+    {
+      "japanese": "boorupen",
+      "meaning": "ballpoint pen"
+    },
+    {
+      "japanese": "shaapupenshiru",
+      "meaning": "mechanical pencil"
+    },
+    {
+      "japanese": "cd",
+      "meaning": "CD"
+    },
+    {
+      "japanese": "terebi",
+      "meaning": "television"
+    },
+    {
+      "japanese": "rajio",
+      "meaning": "radio"
+    },
+    {
+      "japanese": "kamera",
+      "meaning": "camera"
+    },
+    {
+      "japanese": "konpyuutaa",
+      "meaning": "computer"
+    },
+    {
+      "japanese": "chokoreeto",
+      "meaning": "chocolate"
+    },
+    {
+      "japanese": "koohii",
+      "meaning": "coffee"
+    }
+  ],
+  "bab 3": [
+    {
+      "japanese": "koko",
+      "meaning": "di sini"
+    },
+    {
+      "japanese": "soko",
+      "meaning": "di situ"
+    },
+    {
+      "japanese": "asoko",
+      "meaning": "di sana"
+    },
+    {
+      "japanese": "doko",
+      "meaning": "di mana"
+    },
+    {
+      "japanese": "dochira",
+      "meaning": "yang mana / di mana"
+    },
+    {
+      "japanese": "kochira",
+      "meaning": "di sini / yang ini (sopan)"
+    },
+    {
+      "japanese": "sochira",
+      "meaning": "di situ / yang itu (sopan)"
+    },
+    {
+      "japanese": "achira",
+      "meaning": "di sana / yang sana (sopan)"
+    },
+    {
+      "japanese": "kyoushitsu",
+      "meaning": "ruang kelas"
+    },
+    {
+      "japanese": "shokudou",
+      "meaning": "kantin"
+    },
+    {
+      "japanese": "jimusho",
+      "meaning": "kantor"
+    },
+    {
+      "japanese": "kaigishitsu",
+      "meaning": "ruang rapat"
+    },
+    {
+      "japanese": "kaigi",
+      "meaning": "rapat"
+    },
+    {
+      "japanese": "uketsuke",
+      "meaning": "resepsionis"
+    },
+    {
+      "japanese": "heya",
+      "meaning": "kamar"
+    },
+    {
+      "japanese": "otearai",
+      "meaning": "toilet"
+    },
+    {
+      "japanese": "kaidan",
+      "meaning": "tangga"
+    },
+    {
+      "japanese": "jidouhanbaiki",
+      "meaning": "mesin penjual otomatis"
+    },
+    {
+      "japanese": "denwa",
+      "meaning": "telepon"
+    },
+    {
+      "japanese": "kuni",
+      "meaning": "negara (milik orang lain/sopan)"
+    },
+    {
+      "japanese": "kaisha",
+      "meaning": "perusahaan"
+    },
+    {
+      "japanese": "kaishain",
+      "meaning": "karyawan perusahaan"
+    },
+    {
+      "japanese": "uchi",
+      "meaning": "rumah"
+    },
+    {
+      "japanese": "kutsu",
+      "meaning": "sepatu"
+    },
+    {
+      "japanese": "uriba",
+      "meaning": "tempat penjualan"
+    },
+    {
+      "japanese": "chika",
+      "meaning": "lantai bawah tanah"
+    },
+    {
+      "japanese": "~kai / ~gai",
+      "meaning": "lantai ~"
+    },
+    {
+      "japanese": "nankai",
+      "meaning": "lantai berapa"
+    },
+    {
+      "japanese": "~en",
+      "meaning": "~yen"
+    },
+    {
+      "japanese": "ikura",
+      "meaning": "berapa harga"
+    },
+    {
+      "japanese": "hyaku",
+      "meaning": "seratus"
+    },
+    {
+      "japanese": "sen",
+      "meaning": "seribu"
+    },
+    {
+      "japanese": "man",
+      "meaning": "sepuluh ribu"
+    },
+    {
+      "japanese": "shin",
+      "meaning": "oosaka = Shin-Osaka"
+    },
+    {
+      "japanese": "robii",
+      "meaning": "lobi"
+    },
+    {
+      "japanese": "toire",
+      "meaning": "toilet"
+    },
+    {
+      "japanese": "erebeetaa",
+      "meaning": "lift"
+    },
+    {
+      "japanese": "esukareetaa",
+      "meaning": "eskalator"
+    },
+    {
+      "japanese": "nekutai",
+      "meaning": "dasi"
+    },
+    {
+      "japanese": "wain",
+      "meaning": "anggur (wine)"
+    },
+    {
+      "japanese": "itaria",
+      "meaning": "Italia"
+    },
+    {
+      "japanese": "suisu",
+      "meaning": "Swiss"
+    },
+    {
+      "japanese": "furansu",
+      "meaning": "Prancis"
+    },
+    {
+      "japanese": "jakaruta",
+      "meaning": "Jakarta"
+    },
+    {
+      "japanese": "bankoku",
+      "meaning": "Bangkok"
+    },
+    {
+      "japanese": "berurin",
+      "meaning": "Berlin"
+    }
+  ],
+  "bab 4": [
+    {
+      "japanese": "okimasu",
+      "meaning": "bangun"
+    },
+    {
+      "japanese": "nemasu",
+      "meaning": "tidur"
+    },
+    {
+      "japanese": "hatarakimasu",
+      "meaning": "bekerja"
+    },
+    {
+      "japanese": "yasumimasu",
+      "meaning": "beristirahat, libur"
+    },
+    {
+      "japanese": "benkyoushimasu",
+      "meaning": "belajar"
+    },
+    {
+      "japanese": "owarimasu",
+      "meaning": "selesai"
+    },
+    {
+      "japanese": "ginkou",
+      "meaning": "bank"
+    },
+    {
+      "japanese": "yuubinkyoku",
+      "meaning": "kantor pos"
+    },
+    {
+      "japanese": "toshokan",
+      "meaning": "perpustakaan"
+    },
+    {
+      "japanese": "bijyutsukan",
+      "meaning": "gedung kesenian"
+    },
+    {
+      "japanese": "ima",
+      "meaning": "sekarang"
+    },
+    {
+      "japanese": "~ji",
+      "meaning": "jam ~, pukul ~"
+    },
+    {
+      "japanese": "~pun (~fun)",
+      "meaning": "~ menit"
+    },
+    {
+      "japanese": "han",
+      "meaning": "setengah"
+    },
+    {
+      "japanese": "nanji",
+      "meaning": "jam berapa"
+    },
+    {
+      "japanese": "nanpun",
+      "meaning": "berapa menit"
+    },
+    {
+      "japanese": "gozen",
+      "meaning": "a.m. (sebelum jam 12 siang)"
+    },
+    {
+      "japanese": "gogo",
+      "meaning": "p.m. (setelah jam 12 siang)"
+    },
+    {
+      "japanese": "asa",
+      "meaning": "pagi"
+    },
+    {
+      "japanese": "hiru",
+      "meaning": "siang"
+    },
+    {
+      "japanese": "ban (yoru)",
+      "meaning": "malam"
+    },
+    {
+      "japanese": "ototoi",
+      "meaning": "dua hari yang lalu, kemarin lusa"
+    },
+    {
+      "japanese": "kinou",
+      "meaning": "kemarin"
+    },
+    {
+      "japanese": "kyou",
+      "meaning": "hari ini"
+    },
+    {
+      "japanese": "ashita",
+      "meaning": "besok"
+    },
+    {
+      "japanese": "asatte",
+      "meaning": "lusa"
+    },
+    {
+      "japanese": "kesa",
+      "meaning": "pagi ini"
+    },
+    {
+      "japanese": "konban",
+      "meaning": "malam ini"
+    },
+    {
+      "japanese": "yasumi",
+      "meaning": "istirahat, cuti, libur"
+    },
+    {
+      "japanese": "hiruyasumi",
+      "meaning": "istirahat siang"
+    },
+    {
+      "japanese": "shiken",
+      "meaning": "ujian"
+    },
+    {
+      "japanese": "kaigi",
+      "meaning": "rapat"
+    },
+    {
+      "japanese": "eiga",
+      "meaning": "film"
+    },
+    {
+      "japanese": "maiasa",
+      "meaning": "setiap pagi"
+    },
+    {
+      "japanese": "maiban",
+      "meaning": "setiap malam"
+    },
+    {
+      "japanese": "mainichi",
+      "meaning": "setiap hari"
+    },
+    {
+      "japanese": "getsuyoubi",
+      "meaning": "hari Senin"
+    },
+    {
+      "japanese": "kayoubi",
+      "meaning": "hari Selasa"
+    },
+    {
+      "japanese": "suiyoubi",
+      "meaning": "hari Rabu"
+    },
+    {
+      "japanese": "mokuyoubi",
+      "meaning": "hari Kamis"
+    },
+    {
+      "japanese": "kinyoubi",
+      "meaning": "hari Jumat"
+    },
+    {
+      "japanese": "doyoubi",
+      "meaning": "hari Sabtu"
+    },
+    {
+      "japanese": "nichiyoubi",
+      "meaning": "hari Minggu"
+    },
+    {
+      "japanese": "nanyoubi",
+      "meaning": "hari apa"
+    },
+    {
+      "japanese": "~kara",
+      "meaning": "dari ~"
+    },
+    {
+      "japanese": "~made",
+      "meaning": "sampai ~"
+    },
+    {
+      "japanese": "~ to ~",
+      "meaning": "~ dan ~"
+    },
+    {
+      "japanese": "depaato",
+      "meaning": "toserba"
+    }
+  ],
+  "bab 5": [
+    {
+      "japanese": "ikimasu",
+      "meaning": "pergi"
+    },
+    {
+      "japanese": "kimasu",
+      "meaning": "datang"
+    },
+    {
+      "japanese": "kaerimasu",
+      "meaning": "pulang"
+    },
+    {
+      "japanese": "gakkou",
+      "meaning": "sekolah"
+    },
+    {
+      "japanese": "eki",
+      "meaning": "stasiun"
+    },
+    {
+      "japanese": "hikouki",
+      "meaning": "pesawat terbang"
+    },
+    {
+      "japanese": "fune",
+      "meaning": "kapal laut"
+    },
+    {
+      "japanese": "densha",
+      "meaning": "kereta (listrik)"
+    },
+    {
+      "japanese": "chikatetsu",
+      "meaning": "kereta bawah tanah"
+    },
+    {
+      "japanese": "shinkansen",
+      "meaning": "Shinkansen"
+    },
+    {
+      "japanese": "jitensha",
+      "meaning": "sepeda"
+    },
+    {
+      "japanese": "aruite",
+      "meaning": "(dengan) berjalan kaki"
+    },
+    {
+      "japanese": "hito",
+      "meaning": "orang"
+    },
+    {
+      "japanese": "tomodachi",
+      "meaning": "teman"
+    },
+    {
+      "japanese": "kare",
+      "meaning": "dia (laki-laki)"
+    },
+    {
+      "japanese": "kanojo",
+      "meaning": "dia (perempuan)"
+    },
+    {
+      "japanese": "kazoku",
+      "meaning": "keluarga"
+    },
+    {
+      "japanese": "hitoride",
+      "meaning": "sendirian"
+    },
+    {
+      "japanese": "senshuu",
+      "meaning": "minggu lalu"
+    },
+    {
+      "japanese": "konshuu",
+      "meaning": "minggu ini"
+    },
+    {
+      "japanese": "raishuu",
+      "meaning": "minggu depan"
+    },
+    {
+      "japanese": "sengetsu",
+      "meaning": "bulan lalu"
+    },
+    {
+      "japanese": "kongetsu",
+      "meaning": "bulan ini"
+    },
+    {
+      "japanese": "raigetsu",
+      "meaning": "bulan depan"
+    },
+    {
+      "japanese": "kyonen",
+      "meaning": "tahun lalu"
+    },
+    {
+      "japanese": "kotoshi",
+      "meaning": "tahun ini"
+    },
+    {
+      "japanese": "rainen",
+      "meaning": "tahun depan"
+    },
+    {
+      "japanese": "~nen",
+      "meaning": "tahun ~"
+    },
+    {
+      "japanese": "nannen",
+      "meaning": "tahun berapa"
+    },
+    {
+      "japanese": "~gatsu",
+      "meaning": "bulan ~"
+    },
+    {
+      "japanese": "nangatsu",
+      "meaning": "bulan apa"
+    },
+    {
+      "japanese": "tsuitachi",
+      "meaning": "tanggal satu"
+    },
+    {
+      "japanese": "futsuka",
+      "meaning": "tanggal dua"
+    },
+    {
+      "japanese": "mikka",
+      "meaning": "tanggal tiga"
+    },
+    {
+      "japanese": "yokka",
+      "meaning": "tanggal empat"
+    },
+    {
+      "japanese": "itsuka",
+      "meaning": "tanggal lima"
+    },
+    {
+      "japanese": "muika",
+      "meaning": "tanggal enam"
+    },
+    {
+      "japanese": "nanoka",
+      "meaning": "tanggal tujuh"
+    },
+    {
+      "japanese": "youka",
+      "meaning": "tanggal delapan"
+    },
+    {
+      "japanese": "kokonoka",
+      "meaning": "tanggal sembilan"
+    },
+    {
+      "japanese": "tooka",
+      "meaning": "tanggal sepuluh"
+    },
+    {
+      "japanese": "juuyokka",
+      "meaning": "tanggal empat belas"
+    },
+    {
+      "japanese": "hatsuka",
+      "meaning": "tanggal dua puluh"
+    },
+    {
+      "japanese": "nijuuyokka",
+      "meaning": "tanggal dua puluh empat"
+    },
+    {
+      "japanese": "~nichi",
+      "meaning": "tanggal ~"
+    },
+    {
+      "japanese": "nannichi",
+      "meaning": "tanggal berapa"
+    },
+    {
+      "japanese": "itsu",
+      "meaning": "kapan"
+    },
+    {
+      "japanese": "tanjoubi",
+      "meaning": "hari ulang tahun"
+    },
+    {
+      "japanese": "suupaa",
+      "meaning": "pasar swalayan"
+    },
+    {
+      "japanese": "basu",
+      "meaning": "bus"
+    },
+    {
+      "japanese": "takushii",
+      "meaning": "taksi"
+    }
+  ],
+  "bab 6": [
+    {
+      "japanese": "tabemasu",
+      "meaning": "makan"
+    },
+    {
+      "japanese": "nomimasu",
+      "meaning": "minum"
+    },
+    {
+      "japanese": "suimasu",
+      "meaning": "mengisap, merokok"
+    },
+    {
+      "japanese": "mimasu",
+      "meaning": "melihat, menonton"
+    },
+    {
+      "japanese": "kikimasu",
+      "meaning": "mendengar"
+    },
+    {
+      "japanese": "yomimasu",
+      "meaning": "membaca"
+    },
+    {
+      "japanese": "kakimasu",
+      "meaning": "menulis"
+    },
+    {
+      "japanese": "kaimasu",
+      "meaning": "membeli"
+    },
+    {
+      "japanese": "torimasu",
+      "meaning": "mengambil foto"
+    },
+    {
+      "japanese": "shimasu",
+      "meaning": "melakukan, mengerjakan"
+    },
+    {
+      "japanese": "aimasu",
+      "meaning": "bertemu"
+    },
+    {
+      "japanese": "gohan",
+      "meaning": "nasi"
+    },
+    {
+      "japanese": "asagohan",
+      "meaning": "sarapan"
+    },
+    {
+      "japanese": "hirugohan",
+      "meaning": "makan siang"
+    },
+    {
+      "japanese": "bangohan",
+      "meaning": "makan malam"
+    },
+    {
+      "japanese": "tamago",
+      "meaning": "telur"
+    },
+    {
+      "japanese": "niku",
+      "meaning": "daging"
+    },
+    {
+      "japanese": "sakana",
+      "meaning": "ikan"
+    },
+    {
+      "japanese": "yasai",
+      "meaning": "sayur"
+    },
+    {
+      "japanese": "kudamono",
+      "meaning": "buah-buahan"
+    },
+    {
+      "japanese": "mizu",
+      "meaning": "air"
+    },
+    {
+      "japanese": "ocha",
+      "meaning": "teh Jepang (teh hijau)"
+    },
+    {
+      "japanese": "koucha",
+      "meaning": "teh"
+    },
+    {
+      "japanese": "gyuunyuu",
+      "meaning": "susu"
+    },
+    {
+      "japanese": "sake",
+      "meaning": "minuman keras"
+    },
+    {
+      "japanese": "tabako",
+      "meaning": "rokok"
+    },
+    {
+      "japanese": "mise",
+      "meaning": "toko"
+    },
+    {
+      "japanese": "niwa",
+      "meaning": "halaman"
+    },
+    {
+      "japanese": "shukudai",
+      "meaning": "PR"
+    },
+    {
+      "japanese": "shashin",
+      "meaning": "foto"
+    },
+    {
+      "japanese": "nani",
+      "meaning": "apa"
+    },
+    {
+      "japanese": "issho ni",
+      "meaning": "bersama-sama"
+    },
+    {
+      "japanese": "chotto",
+      "meaning": "sebentar, sedikit"
+    },
+    {
+      "japanese": "itsumo",
+      "meaning": "selalu"
+    },
+    {
+      "japanese": "tokidoki",
+      "meaning": "kadang-kadang"
+    },
+    {
+      "japanese": "sorekara",
+      "meaning": "setelah itu"
+    },
+    {
+      "japanese": "ee",
+      "meaning": "ya"
+    },
+    {
+      "japanese": "ii desu ne",
+      "meaning": "bagus ya"
+    },
+    {
+      "japanese": "wakarimashita",
+      "meaning": "mengerti"
+    },
+    {
+      "japanese": "nan desu ka",
+      "meaning": "apa?"
+    },
+    {
+      "japanese": "jaa, mata ashita",
+      "meaning": "sampai jumpa besok"
+    },
+    {
+      "japanese": "pan",
+      "meaning": "roti"
+    },
+    {
+      "japanese": "juusu",
+      "meaning": "jus"
+    },
+    {
+      "japanese": "biiru",
+      "meaning": "bir"
+    },
+    {
+      "japanese": "bideo",
+      "meaning": "video"
+    },
+    {
+      "japanese": "repooto",
+      "meaning": "laporan"
+    },
+    {
+      "japanese": "tenisu",
+      "meaning": "tenis"
+    },
+    {
+      "japanese": "sakkaa",
+      "meaning": "sepak bola"
+    },
+    {
+      "japanese": "mekishiko",
+      "meaning": "Meksiko"
+    }
+  ],
+  "bab 7": [
+    {
+      "japanese": "kirimasu",
+      "meaning": "memotong, menggunting"
+    },
+    {
+      "japanese": "okurimasu",
+      "meaning": "mengirim"
+    },
+    {
+      "japanese": "agemasu",
+      "meaning": "memberikan"
+    },
+    {
+      "japanese": "moraimasu",
+      "meaning": "mendapatkan, menerima"
+    },
+    {
+      "japanese": "kashimasu",
+      "meaning": "meminjamkan, menyewakan"
+    },
+    {
+      "japanese": "karimasu",
+      "meaning": "meminjam, menyewa"
+    },
+    {
+      "japanese": "oshiemasu",
+      "meaning": "mengajar"
+    },
+    {
+      "japanese": "naraimasu",
+      "meaning": "belajar"
+    },
+    {
+      "japanese": "kakemasu",
+      "meaning": "menelepon"
+    },
+    {
+      "japanese": "te",
+      "meaning": "tangan"
+    },
+    {
+      "japanese": "hashi",
+      "meaning": "sumpit"
+    },
+    {
+      "japanese": "hasami",
+      "meaning": "gunting"
+    },
+    {
+      "japanese": "nengajou",
+      "meaning": "kartu tahun baru"
+    },
+    {
+      "japanese": "keshigomu",
+      "meaning": "penghapus karet"
+    },
+    {
+      "japanese": "kami",
+      "meaning": "kertas"
+    },
+    {
+      "japanese": "hana",
+      "meaning": "bunga"
+    },
+    {
+      "japanese": "nimotsu",
+      "meaning": "barang"
+    },
+    {
+      "japanese": "okane",
+      "meaning": "uang"
+    },
+    {
+      "japanese": "kippu",
+      "meaning": "karcis"
+    },
+    {
+      "japanese": "chichi",
+      "meaning": "bapak, ayah"
+    },
+    {
+      "japanese": "haha",
+      "meaning": "ibu"
+    },
+    {
+      "japanese": "otousan",
+      "meaning": "bapak, ayah"
+    },
+    {
+      "japanese": "okaasan",
+      "meaning": "ibu"
+    },
+    {
+      "japanese": "mou",
+      "meaning": "sudah"
+    },
+    {
+      "japanese": "mada",
+      "meaning": "belum"
+    },
+    {
+      "japanese": "korekara",
+      "meaning": "mulai dari sekarang"
+    },
+    {
+      "japanese": "supuun",
+      "meaning": "sendok"
+    },
+    {
+      "japanese": "naifu",
+      "meaning": "pisau"
+    },
+    {
+      "japanese": "fooku",
+      "meaning": "garpu"
+    },
+    {
+      "japanese": "pasokon",
+      "meaning": "komputer, PC"
+    },
+    {
+      "japanese": "keetai",
+      "meaning": "HP"
+    },
+    {
+      "japanese": "meeru",
+      "meaning": "e-mail"
+    },
+    {
+      "japanese": "panchi",
+      "meaning": "pelubang kertas"
+    },
+    {
+      "japanese": "hocchikisu",
+      "meaning": "stapler"
+    },
+    {
+      "japanese": "seroteepu",
+      "meaning": "selotip"
+    },
+    {
+      "japanese": "shatsu",
+      "meaning": "kemeja"
+    },
+    {
+      "japanese": "purezento",
+      "meaning": "kado, hadiah"
+    },
+    {
+      "japanese": "kurisumasu",
+      "meaning": "Natal"
+    }
+  ],
+  "bab 8": [
+    {
+      "japanese": "kireiな",
+      "meaning": "cantik, bersih"
+    },
+    {
+      "japanese": "shizukaな",
+      "meaning": "sunyi, tenang"
+    },
+    {
+      "japanese": "nigiyakaな",
+      "meaning": "ramai"
+    },
+    {
+      "japanese": "yuumeiな",
+      "meaning": "terkenal"
+    },
+    {
+      "japanese": "shinsetsuな",
+      "meaning": "baik hati"
+    },
+    {
+      "japanese": "genkiな",
+      "meaning": "sehat walafiat"
+    },
+    {
+      "japanese": "himaな",
+      "meaning": "senggang"
+    },
+    {
+      "japanese": "benriな",
+      "meaning": "praktis"
+    },
+    {
+      "japanese": "sutekiな",
+      "meaning": "bagus"
+    },
+    {
+      "japanese": "ookii",
+      "meaning": "besar"
+    },
+    {
+      "japanese": "chiisai",
+      "meaning": "kecil"
+    },
+    {
+      "japanese": "atarashii",
+      "meaning": "baru"
+    },
+    {
+      "japanese": "furui",
+      "meaning": "lama, tua"
+    },
+    {
+      "japanese": "ii (yoi)",
+      "meaning": "baik, bagus"
+    },
+    {
+      "japanese": "warui",
+      "meaning": "buruk, jelek"
+    },
+    {
+      "japanese": "atsui",
+      "meaning": "panas"
+    },
+    {
+      "japanese": "samui",
+      "meaning": "dingin (udara)"
+    },
+    {
+      "japanese": "tsumetai",
+      "meaning": "dingin (benda)"
+    },
+    {
+      "japanese": "muzukashii",
+      "meaning": "sulit, susah"
+    },
+    {
+      "japanese": "yasashii",
+      "meaning": "mudah, gampang"
+    },
+    {
+      "japanese": "takai",
+      "meaning": "mahal, tinggi"
+    },
+    {
+      "japanese": "yasui",
+      "meaning": "murah"
+    },
+    {
+      "japanese": "hikui",
+      "meaning": "rendah"
+    },
+    {
+      "japanese": "omoshiroi",
+      "meaning": "menarik"
+    },
+    {
+      "japanese": "oishii",
+      "meaning": "enak"
+    },
+    {
+      "japanese": "isogashii",
+      "meaning": "sibuk"
+    },
+    {
+      "japanese": "tanoshii",
+      "meaning": "senang"
+    },
+    {
+      "japanese": "shiroi",
+      "meaning": "putih"
+    },
+    {
+      "japanese": "kuroi",
+      "meaning": "hitam"
+    },
+    {
+      "japanese": "akai",
+      "meaning": "merah"
+    },
+    {
+      "japanese": "aoi",
+      "meaning": "biru"
+    },
+    {
+      "japanese": "midori",
+      "meaning": "hijau"
+    },
+    {
+      "japanese": "murasaki",
+      "meaning": "ungu"
+    },
+    {
+      "japanese": "kiiro",
+      "meaning": "kuning"
+    },
+    {
+      "japanese": "chairo",
+      "meaning": "coklat"
+    },
+    {
+      "japanese": "sakura",
+      "meaning": "sakura"
+    },
+    {
+      "japanese": "yama",
+      "meaning": "gunung"
+    },
+    {
+      "japanese": "machi",
+      "meaning": "kota"
+    },
+    {
+      "japanese": "tabemono",
+      "meaning": "makanan"
+    },
+    {
+      "japanese": "tokoro",
+      "meaning": "tempat"
+    },
+    {
+      "japanese": "ryou",
+      "meaning": "asrama"
+    },
+    {
+      "japanese": "seikatsu",
+      "meaning": "kehidupan"
+    },
+    {
+      "japanese": "oshigoto",
+      "meaning": "pekerjaan"
+    },
+    {
+      "japanese": "dou",
+      "meaning": "bagaimana"
+    },
+    {
+      "japanese": "donna",
+      "meaning": "yang bagaimana"
+    },
+    {
+      "japanese": "totemo",
+      "meaning": "sangat"
+    },
+    {
+      "japanese": "amari",
+      "meaning": "kurang begitu, tidak begitu"
+    },
+    {
+      "japanese": "soshite",
+      "meaning": "kemudian, dan"
+    },
+    {
+      "japanese": "～ga、～",
+      "meaning": "～tetapi～"
+    },
+    {
+      "japanese": "hansamuな",
+      "meaning": "tampan, ganteng"
+    },
+    {
+      "japanese": "pinku",
+      "meaning": "merah muda"
+    },
+    {
+      "japanese": "orenji",
+      "meaning": "orange"
+    },
+    {
+      "japanese": "haiiro",
+      "meaning": "abu-abu"
+    },
+    {
+      "japanese": "guree",
+      "meaning": "abu-abu"
+    },
+    {
+      "japanese": "beejyu",
+      "meaning": "krem, beige"
+    },
+    {
+      "japanese": "resutoran",
+      "meaning": "restoran"
+    }
+  ],
+  "Bab 9": [
+    {
+      "japanese": "wakarimasu",
+      "meaning": "mengerti"
+    },
+    {
+      "japanese": "arimasu",
+      "meaning": "ada, mempunyai"
+    },
+    {
+      "japanese": "suki(な)",
+      "meaning": "suka, gemar"
+    },
+    {
+      "japanese": "kirai(な)",
+      "meaning": "tidak suka"
+    },
+    {
+      "japanese": "jouzu(な)",
+      "meaning": "pandai, pintar"
+    },
+    {
+      "japanese": "heta(な)",
+      "meaning": "tidak pandai, tidak pintar"
+    },
+    {
+      "japanese": "nomimono",
+      "meaning": "minuman"
+    },
+    {
+      "japanese": "ryouri",
+      "meaning": "masakan"
+    },
+    {
+      "japanese": "supootsu",
+      "meaning": "olahraga"
+    },
+    {
+      "japanese": "yakyuu",
+      "meaning": "baseball"
+    },
+    {
+      "japanese": "dansu",
+      "meaning": "dansa"
+    },
+    {
+      "japanese": "ryokou",
+      "meaning": "tamasya"
+    },
+    {
+      "japanese": "ongaku",
+      "meaning": "musik"
+    },
+    {
+      "japanese": "uta",
+      "meaning": "lagu"
+    },
+    {
+      "japanese": "kurashikku",
+      "meaning": "klasik"
+    },
+    {
+      "japanese": "jazu",
+      "meaning": "jaz"
+    },
+    {
+      "japanese": "konsaato",
+      "meaning": "konser"
+    },
+    {
+      "japanese": "karaoke",
+      "meaning": "karaoke"
+    },
+    {
+      "japanese": "kabuki",
+      "meaning": "Kabuki"
+    },
+    {
+      "japanese": "e",
+      "meaning": "gambar"
+    },
+    {
+      "japanese": "ji",
+      "meaning": "huruf"
+    },
+    {
+      "japanese": "kanji",
+      "meaning": "Kanji"
+    },
+    {
+      "japanese": "hiragana",
+      "meaning": "Hiragana"
+    },
+    {
+      "japanese": "katakana",
+      "meaning": "Katakana"
+    },
+    {
+      "japanese": "roomaji",
+      "meaning": "huruf latin"
+    },
+    {
+      "japanese": "komakai okane",
+      "meaning": "uang kecil, receh"
+    },
+    {
+      "japanese": "chiketto",
+      "meaning": "tiket"
+    },
+    {
+      "japanese": "kome",
+      "meaning": "beras"
+    },
+    {
+      "japanese": "tamago",
+      "meaning": "telur"
+    },
+    {
+      "japanese": "jikan",
+      "meaning": "jam, waktu"
+    },
+    {
+      "japanese": "youji",
+      "meaning": "urusan"
+    },
+    {
+      "japanese": "yakusoku",
+      "meaning": "janji"
+    },
+    {
+      "japanese": "arubaito",
+      "meaning": "kerja paruh waktu"
+    },
+    {
+      "japanese": "goshujin",
+      "meaning": "suami"
+    },
+    {
+      "japanese": "otto / shujin",
+      "meaning": "suami"
+    },
+    {
+      "japanese": "okusan",
+      "meaning": "istri"
+    },
+    {
+      "japanese": "tsuma / kanai",
+      "meaning": "istri"
+    },
+    {
+      "japanese": "kodomo",
+      "meaning": "anak"
+    },
+    {
+      "japanese": "yoku",
+      "meaning": "dengan baik"
+    },
+    {
+      "japanese": "daitai",
+      "meaning": "kira-kira"
+    },
+    {
+      "japanese": "takusan",
+      "meaning": "banyak"
+    },
+    {
+      "japanese": "sukoshi",
+      "meaning": "sedikit"
+    },
+    {
+      "japanese": "zenzen",
+      "meaning": "sama sekali"
+    },
+    {
+      "japanese": "hayaku",
+      "meaning": "dengan cepat"
+    },
+    {
+      "japanese": "kara",
+      "meaning": "karena, sebab"
+    },
+    {
+      "japanese": "doushite",
+      "meaning": "kenapa"
+    },
+    {
+      "japanese": "poppusu",
+      "meaning": "musik pop"
+    },
+    {
+      "japanese": "rokku",
+      "meaning": "musik rock"
+    },
+    {
+      "japanese": "jazu",
+      "meaning": "musik jaz"
+    },
+    {
+      "japanese": "raten",
+      "meaning": "musik Latin"
+    },
+    {
+      "japanese": "kurashikku",
+      "meaning": "musik klasik"
+    },
+    {
+      "japanese": "minyou",
+      "meaning": "musik rakyat"
+    },
+    {
+      "japanese": "enka",
+      "meaning": "lagu tradisional Jepang"
+    },
+    {
+      "japanese": "myuujikaru",
+      "meaning": "drama musikal"
+    },
+    {
+      "japanese": "opera",
+      "meaning": "opera"
+    },
+    {
+      "japanese": "SF",
+      "meaning": "film fiksi ilmiah"
+    },
+    {
+      "japanese": "horaa",
+      "meaning": "film horor"
+    },
+    {
+      "japanese": "anime",
+      "meaning": "film animasi"
+    },
+    {
+      "japanese": "dokyumentarii",
+      "meaning": "film dokumenter"
+    },
+    {
+      "japanese": "renai",
+      "meaning": "film percintaan"
+    },
+    {
+      "japanese": "misuterii",
+      "meaning": "film misteri"
+    },
+    {
+      "japanese": "bungaku",
+      "meaning": "film kesusastraan"
+    },
+    {
+      "japanese": "sensou",
+      "meaning": "film peperangan"
+    },
+    {
+      "japanese": "akushon",
+      "meaning": "film action"
+    },
+    {
+      "japanese": "kigeki",
+      "meaning": "film komedi"
+    },
+    {
+      "japanese": "sofutobooru",
+      "meaning": "softball"
+    },
+    {
+      "japanese": "sakkaa",
+      "meaning": "sepak bola"
+    },
+    {
+      "japanese": "ragubii",
+      "meaning": "rugby"
+    },
+    {
+      "japanese": "bareebooru",
+      "meaning": "voli"
+    },
+    {
+      "japanese": "basukettobooru",
+      "meaning": "basket"
+    },
+    {
+      "japanese": "tenisu",
+      "meaning": "tenis"
+    },
+    {
+      "japanese": "bouringu",
+      "meaning": "bowling"
+    },
+    {
+      "japanese": "sukii",
+      "meaning": "ski"
+    },
+    {
+      "japanese": "sukeeto",
+      "meaning": "skate"
+    },
+    {
+      "japanese": "yakyuu",
+      "meaning": "baseball"
+    },
+    {
+      "japanese": "takkyuu / pinpon",
+      "meaning": "ping-pong"
+    },
+    {
+      "japanese": "sumou",
+      "meaning": "Sumo"
+    },
+    {
+      "japanese": "juudou",
+      "meaning": "Judo"
+    },
+    {
+      "japanese": "kendou",
+      "meaning": "Kendo"
+    },
+    {
+      "japanese": "suiei",
+      "meaning": "renang"
+    },
+    {
+      "japanese": "kyuuri",
+      "meaning": "ketimun"
+    },
+    {
+      "japanese": "tomato",
+      "meaning": "tomat"
+    },
+    {
+      "japanese": "nasu",
+      "meaning": "terong"
+    },
+    {
+      "japanese": "mame",
+      "meaning": "kacang-kacangan"
+    },
+    {
+      "japanese": "kyabetsu",
+      "meaning": "kol"
+    },
+    {
+      "japanese": "negi",
+      "meaning": "daun bawang"
+    },
+    {
+      "japanese": "hakusai",
+      "meaning": "sawi"
+    },
+    {
+      "japanese": "hourensou",
+      "meaning": "bayam"
+    },
+    {
+      "japanese": "retasu",
+      "meaning": "selada"
+    },
+    {
+      "japanese": "jagaimo",
+      "meaning": "kentang"
+    },
+    {
+      "japanese": "daikon",
+      "meaning": "lobak"
+    },
+    {
+      "japanese": "tamanegi",
+      "meaning": "bawang"
+    },
+    {
+      "japanese": "ninjin",
+      "meaning": "wortel"
+    },
+    {
+      "japanese": "ichigo",
+      "meaning": "stroberi"
+    },
+    {
+      "japanese": "momo",
+      "meaning": "buah peach"
+    },
+    {
+      "japanese": "suika",
+      "meaning": "semangka"
+    },
+    {
+      "japanese": "budou",
+      "meaning": "anggur"
+    },
+    {
+      "japanese": "nashi",
+      "meaning": "pir"
+    },
+    {
+      "japanese": "kaki",
+      "meaning": "buah kesemek"
+    },
+    {
+      "japanese": "mikan",
+      "meaning": "jeruk"
+    },
+    {
+      "japanese": "ringo",
+      "meaning": "apel"
+    },
+    {
+      "japanese": "banana",
+      "meaning": "pisang"
+    },
+    {
+      "japanese": "gyuuniku",
+      "meaning": "daging sapi"
+    },
+    {
+      "japanese": "toriniku",
+      "meaning": "daging ayam"
+    },
+    {
+      "japanese": "butaniku",
+      "meaning": "daging babi"
+    },
+    {
+      "japanese": "sooseeji",
+      "meaning": "sosis"
+    },
+    {
+      "japanese": "hamu",
+      "meaning": "ham"
+    },
+    {
+      "japanese": "aji",
+      "meaning": "ikan horse mackerel"
+    },
+    {
+      "japanese": "iwashi",
+      "meaning": "ikan sarden"
+    },
+    {
+      "japanese": "saba",
+      "meaning": "ikan kembung"
+    },
+    {
+      "japanese": "sanma",
+      "meaning": "ikan sauri pasifik"
+    },
+    {
+      "japanese": "sake",
+      "meaning": "ikan salmon"
+    },
+    {
+      "japanese": "maguro",
+      "meaning": "ikan tuna"
+    },
+    {
+      "japanese": "tai",
+      "meaning": "ikan kakap"
+    },
+    {
+      "japanese": "tara",
+      "meaning": "ikan gabus"
+    },
+    {
+      "japanese": "ebi",
+      "meaning": "udang"
+    },
+    {
+      "japanese": "kani",
+      "meaning": "kepiting"
+    },
+    {
+      "japanese": "ika",
+      "meaning": "cumi-cumi"
+    },
+    {
+      "japanese": "tako",
+      "meaning": "gurita"
+    },
+    {
+      "japanese": "kai",
+      "meaning": "kerang"
+    },
+    {
+      "japanese": "amai",
+      "meaning": "manis"
+    },
+    {
+      "japanese": "karai",
+      "meaning": "pedas"
+    },
+    {
+      "japanese": "nigai",
+      "meaning": "pahit"
+    },
+    {
+      "japanese": "koi",
+      "meaning": "tebal, kental"
+    },
+    {
+      "japanese": "usui",
+      "meaning": "tipis, rasanya tidak begitu terasa"
+    },
+    {
+      "japanese": "suppai",
+      "meaning": "asam"
+    },
+    {
+      "japanese": "shoppai",
+      "meaning": "asin"
+    }
+  ],
+  "Bab 10": [
+    {
+      "japanese": "arimasu",
+      "meaning": "ada (untuk benda mati)"
+    },
+    {
+      "japanese": "imasu",
+      "meaning": "ada (untuk makhluk hidup)"
+    },
+    {
+      "japanese": "iroiro(な)",
+      "meaning": "berbagai"
+    },
+    {
+      "japanese": "otoko no hito",
+      "meaning": "orang laki-laki"
+    },
+    {
+      "japanese": "onna no hito",
+      "meaning": "orang perempuan"
+    },
+    {
+      "japanese": "otoko no ko",
+      "meaning": "anak laki-laki"
+    },
+    {
+      "japanese": "onna no ko",
+      "meaning": "anak perempuan"
+    },
+    {
+      "japanese": "inu",
+      "meaning": "anjing"
+    },
+    {
+      "japanese": "neko",
+      "meaning": "kucing"
+    },
+    {
+      "japanese": "panda",
+      "meaning": "panda"
+    },
+    {
+      "japanese": "zou",
+      "meaning": "gajah"
+    },
+    {
+      "japanese": "ki",
+      "meaning": "pohon"
+    },
+    {
+      "japanese": "mono",
+      "meaning": "barang"
+    },
+    {
+      "japanese": "denchi",
+      "meaning": "baterai"
+    },
+    {
+      "japanese": "hako",
+      "meaning": "kotak"
+    },
+    {
+      "japanese": "suicchi",
+      "meaning": "tombol, sakelar"
+    },
+    {
+      "japanese": "reizouko",
+      "meaning": "kulkas, lemari es"
+    },
+    {
+      "japanese": "teeburu",
+      "meaning": "meja makan"
+    },
+    {
+      "japanese": "beddo",
+      "meaning": "tempat tidur"
+    },
+    {
+      "japanese": "tana",
+      "meaning": "lemari"
+    },
+    {
+      "japanese": "doa",
+      "meaning": "pintu"
+    },
+    {
+      "japanese": "mado",
+      "meaning": "jendela"
+    },
+    {
+      "japanese": "posuto",
+      "meaning": "kotak surat"
+    },
+    {
+      "japanese": "biru",
+      "meaning": "gedung"
+    },
+    {
+      "japanese": "ATM",
+      "meaning": "ATM"
+    },
+    {
+      "japanese": "konbini",
+      "meaning": "toko 24 jam"
+    },
+    {
+      "japanese": "kouen",
+      "meaning": "taman"
+    },
+    {
+      "japanese": "kissaten",
+      "meaning": "coffee shop"
+    },
+    {
+      "japanese": "~ya",
+      "meaning": "toko ~"
+    },
+    {
+      "japanese": "noriba",
+      "meaning": "tempat naik"
+    },
+    {
+      "japanese": "ken",
+      "meaning": "prefektur"
+    },
+    {
+      "japanese": "ue",
+      "meaning": "atas"
+    },
+    {
+      "japanese": "shita",
+      "meaning": "bawah"
+    },
+    {
+      "japanese": "mae",
+      "meaning": "depan, muka"
+    },
+    {
+      "japanese": "ushiro",
+      "meaning": "belakang"
+    },
+    {
+      "japanese": "migi",
+      "meaning": "kanan"
+    },
+    {
+      "japanese": "hidari",
+      "meaning": "kiri"
+    },
+    {
+      "japanese": "naka",
+      "meaning": "dalam"
+    },
+    {
+      "japanese": "soto",
+      "meaning": "luar"
+    },
+    {
+      "japanese": "tonari",
+      "meaning": "sebelah"
+    },
+    {
+      "japanese": "chikaku",
+      "meaning": "dekat"
+    },
+    {
+      "japanese": "aida",
+      "meaning": "antara"
+    },
+    {
+      "japanese": "~ya ~ nado",
+      "meaning": "~ dan ~ dan lain-lain"
+    }
+  ],
+  "Bab 11": [
+    {
+      "japanese": "imasu",
+      "meaning": "ada, mempunyai anak"
+    },
+    {
+      "japanese": "imasu",
+      "meaning": "ada di Jepang"
+    },
+    {
+      "japanese": "kakarimasu",
+      "meaning": "memakan, memerlukan (waktu/uang)"
+    },
+    {
+      "japanese": "yasumimasu",
+      "meaning": "tidak masuk kerja"
+    },
+    {
+      "japanese": "hitotsu",
+      "meaning": "satu"
+    },
+    {
+      "japanese": "futatsu",
+      "meaning": "dua"
+    },
+    {
+      "japanese": "mittsu",
+      "meaning": "tiga"
+    },
+    {
+      "japanese": "yottsu",
+      "meaning": "empat"
+    },
+    {
+      "japanese": "itsutsu",
+      "meaning": "lima"
+    },
+    {
+      "japanese": "muttsu",
+      "meaning": "enam"
+    },
+    {
+      "japanese": "nanatsu",
+      "meaning": "tujuh"
+    },
+    {
+      "japanese": "yattsu",
+      "meaning": "delapan"
+    },
+    {
+      "japanese": "kokonotsu",
+      "meaning": "sembilan"
+    },
+    {
+      "japanese": "too",
+      "meaning": "sepuluh"
+    },
+    {
+      "japanese": "ikutsu",
+      "meaning": "berapa"
+    },
+    {
+      "japanese": "hitori",
+      "meaning": "seorang"
+    },
+    {
+      "japanese": "futari",
+      "meaning": "dua orang"
+    },
+    {
+      "japanese": "~nin",
+      "meaning": "~orang"
+    },
+    {
+      "japanese": "~dai",
+      "meaning": "~buah (untuk mesin/kendaraan)"
+    },
+    {
+      "japanese": "~mai",
+      "meaning": "~lembar, helai"
+    },
+    {
+      "japanese": "~kai",
+      "meaning": "~kali"
+    },
+    {
+      "japanese": "ringo",
+      "meaning": "apel"
+    },
+    {
+      "japanese": "mikan",
+      "meaning": "jeruk"
+    },
+    {
+      "japanese": "sandoicchi",
+      "meaning": "sandwich"
+    },
+    {
+      "japanese": "raisu",
+      "meaning": "nasi kare"
+    },
+    {
+      "japanese": "aisukuriimu",
+      "meaning": "es krim"
+    },
+    {
+      "japanese": "kitte",
+      "meaning": "perangko"
+    },
+    {
+      "japanese": "hagaki",
+      "meaning": "kartu pos"
+    },
+    {
+      "japanese": "fuutou",
+      "meaning": "amplop"
+    },
+    {
+      "japanese": "ryoushin",
+      "meaning": "orang tua"
+    },
+    {
+      "japanese": "kyoudai",
+      "meaning": "saudara, saudari"
+    },
+    {
+      "japanese": "ani",
+      "meaning": "kakak laki-laki (sendiri)"
+    },
+    {
+      "japanese": "oniisan",
+      "meaning": "kakak laki-laki (orang lain)"
+    },
+    {
+      "japanese": "ane",
+      "meaning": "kakak perempuan (sendiri)"
+    },
+    {
+      "japanese": "oneesan",
+      "meaning": "kakak perempuan (orang lain)"
+    },
+    {
+      "japanese": "otouto",
+      "meaning": "adik laki-laki (sendiri)"
+    },
+    {
+      "japanese": "otoutosan",
+      "meaning": "adik laki-laki (orang lain)"
+    },
+    {
+      "japanese": "imouto",
+      "meaning": "adik perempuan (sendiri)"
+    },
+    {
+      "japanese": "imoutosan",
+      "meaning": "adik perempuan (orang lain)"
+    },
+    {
+      "japanese": "gaikoku",
+      "meaning": "luar negeri"
+    },
+    {
+      "japanese": "ryuugakusei",
+      "meaning": "pelajar asing"
+    },
+    {
+      "japanese": "kurasu",
+      "meaning": "kelas"
+    },
+    {
+      "japanese": "~jikan",
+      "meaning": "jam ~"
+    },
+    {
+      "japanese": "~shuukan",
+      "meaning": "~minggu"
+    },
+    {
+      "japanese": "~kagetsu",
+      "meaning": "~bulan"
+    },
+    {
+      "japanese": "~nen",
+      "meaning": "~tahun"
+    },
+    {
+      "japanese": "~gurai",
+      "meaning": "kira-kira~"
+    },
+    {
+      "japanese": "dono kurai",
+      "meaning": "berapa lama"
+    },
+    {
+      "japanese": "zenbu de",
+      "meaning": "semuanya"
+    },
+    {
+      "japanese": "minna",
+      "meaning": "semua"
+    },
+    {
+      "japanese": "~dake",
+      "meaning": "hanya saja"
+    }
+  ],
+  "Bab 12": [
+    {
+      "japanese": "kantan(な)",
+      "meaning": "mudah, gampang"
+    },
+    {
+      "japanese": "chikai",
+      "meaning": "dekat"
+    },
+    {
+      "japanese": "tooi",
+      "meaning": "jauh"
+    },
+    {
+      "japanese": "hayai",
+      "meaning": "cepat"
+    },
+    {
+      "japanese": "osoi",
+      "meaning": "lambat"
+    },
+    {
+      "japanese": "ooi",
+      "meaning": "banyak"
+    },
+    {
+      "japanese": "sukunai",
+      "meaning": "sedikit"
+    },
+    {
+      "japanese": "atatakai",
+      "meaning": "hangat"
+    },
+    {
+      "japanese": "suzushii",
+      "meaning": "sejuk"
+    },
+    {
+      "japanese": "amai",
+      "meaning": "manis"
+    },
+    {
+      "japanese": "karai",
+      "meaning": "pedas"
+    },
+    {
+      "japanese": "omoi",
+      "meaning": "berat"
+    },
+    {
+      "japanese": "karui",
+      "meaning": "ringan"
+    },
+    {
+      "japanese": "ii",
+      "meaning": "lebih baik"
+    },
+    {
+      "japanese": "kisetsu",
+      "meaning": "musim"
+    },
+    {
+      "japanese": "haru",
+      "meaning": "musim semi"
+    },
+    {
+      "japanese": "natsu",
+      "meaning": "musim panas"
+    },
+    {
+      "japanese": "aki",
+      "meaning": "musim gugur"
+    },
+    {
+      "japanese": "fuyu",
+      "meaning": "musim dingin"
+    },
+    {
+      "japanese": "tenki",
+      "meaning": "cuaca"
+    },
+    {
+      "japanese": "ame",
+      "meaning": "hujan"
+    },
+    {
+      "japanese": "yuki",
+      "meaning": "salju"
+    },
+    {
+      "japanese": "kumori",
+      "meaning": "mendung"
+    },
+    {
+      "japanese": "hoteru",
+      "meaning": "hotel"
+    },
+    {
+      "japanese": "kuukou",
+      "meaning": "bandara"
+    },
+    {
+      "japanese": "umi",
+      "meaning": "laut"
+    },
+    {
+      "japanese": "sekai",
+      "meaning": "dunia"
+    },
+    {
+      "japanese": "paatii",
+      "meaning": "pesta"
+    },
+    {
+      "japanese": "omatsuri",
+      "meaning": "perayaan"
+    },
+    {
+      "japanese": "sukiyaki",
+      "meaning": "Sukiyaki"
+    },
+    {
+      "japanese": "sashimi",
+      "meaning": "Sashimi"
+    },
+    {
+      "japanese": "osushi",
+      "meaning": "Sushi"
+    },
+    {
+      "japanese": "tenpura",
+      "meaning": "Tempura"
+    },
+    {
+      "japanese": "butaniku",
+      "meaning": "daging babi"
+    },
+    {
+      "japanese": "toriniku",
+      "meaning": "daging ayam"
+    },
+    {
+      "japanese": "gyuuniku",
+      "meaning": "daging sapi"
+    },
+    {
+      "japanese": "remon",
+      "meaning": "lemon"
+    },
+    {
+      "japanese": "ikebana",
+      "meaning": "seni merangkai bunga"
+    },
+    {
+      "japanese": "momiji",
+      "meaning": "maple (daun merah)"
+    },
+    {
+      "japanese": "dochira",
+      "meaning": "yang mana"
+    },
+    {
+      "japanese": "dochiramo",
+      "meaning": "dua-duanya"
+    },
+    {
+      "japanese": "ichiban",
+      "meaning": "paling"
+    },
+    {
+      "japanese": "zutto",
+      "meaning": "jauh lebih"
+    },
+    {
+      "japanese": "hajimete",
+      "meaning": "untuk pertama kali"
+    }
+  ],
+  "Bab 13": [
+    {
+      "japanese": "asobimasu",
+      "meaning": "bermain"
+    },
+    {
+      "japanese": "oyogimasu",
+      "meaning": "berenang"
+    },
+    {
+      "japanese": "mukaemasu",
+      "meaning": "menjemput"
+    },
+    {
+      "japanese": "tsukaremasu",
+      "meaning": "(akan) lelah, tsukaremashita = lelah, capek, dll"
+    },
+    {
+      "japanese": "kekkon shimasu",
+      "meaning": "menikah"
+    },
+    {
+      "japanese": "kaimono shimasu",
+      "meaning": "berbelanja"
+    },
+    {
+      "japanese": "shokuji shimasu",
+      "meaning": "makan"
+    },
+    {
+      "japanese": "sanpo shimasu",
+      "meaning": "berjalan-jalan"
+    },
+    {
+      "japanese": "taihen(な)",
+      "meaning": "berat, susah"
+    },
+    {
+      "japanese": "hoshii",
+      "meaning": "ingin, mau"
+    },
+    {
+      "japanese": "hiroi",
+      "meaning": "luas"
+    },
+    {
+      "japanese": "semai",
+      "meaning": "sempit"
+    },
+    {
+      "japanese": "puuru",
+      "meaning": "kolam renang"
+    },
+    {
+      "japanese": "kawa",
+      "meaning": "sungai"
+    },
+    {
+      "japanese": "bijutsu",
+      "meaning": "seni"
+    },
+    {
+      "japanese": "tsuri",
+      "meaning": "memancing"
+    },
+    {
+      "japanese": "sukii",
+      "meaning": "ski"
+    },
+    {
+      "japanese": "shuumatsu",
+      "meaning": "akhir pekan"
+    },
+    {
+      "japanese": "oshougatsu",
+      "meaning": "tahun baru"
+    },
+    {
+      "japanese": "goro",
+      "meaning": "sekitar, kira-kira"
+    },
+    {
+      "japanese": "nanika",
+      "meaning": "sesuatu"
+    },
+    {
+      "japanese": "dokoka",
+      "meaning": "suatu tempat"
+    },
+    {
+      "japanese": "hakubutsukan",
+      "meaning": "museum"
+    },
+    {
+      "japanese": "bijutsukan",
+      "meaning": "gedung kesenian"
+    },
+    {
+      "japanese": "toshokan",
+      "meaning": "perpustakaan"
+    },
+    {
+      "japanese": "eigakan",
+      "meaning": "gedung bioskop"
+    },
+    {
+      "japanese": "doubutsuen",
+      "meaning": "kebun binatang"
+    },
+    {
+      "japanese": "shokubutsuen",
+      "meaning": "kebun raya"
+    },
+    {
+      "japanese": "yuuenchi",
+      "meaning": "taman bermain"
+    },
+    {
+      "japanese": "otera",
+      "meaning": "kuil Buddha"
+    },
+    {
+      "japanese": "jinja",
+      "meaning": "kuil Shinto"
+    },
+    {
+      "japanese": "kyoukai",
+      "meaning": "gereja"
+    },
+    {
+      "japanese": "taiikukan",
+      "meaning": "gedung olahraga"
+    },
+    {
+      "japanese": "kouen",
+      "meaning": "taman"
+    },
+    {
+      "japanese": "taishikan",
+      "meaning": "kedutaan besar"
+    },
+    {
+      "japanese": "nyuukokukanrikyoku",
+      "meaning": "kantor imigrasi"
+    },
+    {
+      "japanese": "shiyakusho",
+      "meaning": "kantor balai kota"
+    },
+    {
+      "japanese": "keisatsusho",
+      "meaning": "kantor polisi"
+    },
+    {
+      "japanese": "kouban",
+      "meaning": "pos polisi"
+    },
+    {
+      "japanese": "shoubousho",
+      "meaning": "kantor pemadam kebakaran"
+    },
+    {
+      "japanese": "chuushajou",
+      "meaning": "tempat parkir"
+    },
+    {
+      "japanese": "daigaku",
+      "meaning": "universitas"
+    },
+    {
+      "japanese": "koukou",
+      "meaning": "SMA"
+    },
+    {
+      "japanese": "chuugakkou",
+      "meaning": "SMP"
+    },
+    {
+      "japanese": "shougakkou",
+      "meaning": "SD"
+    },
+    {
+      "japanese": "youchien",
+      "meaning": "TK"
+    },
+    {
+      "japanese": "nikuya",
+      "meaning": "toko daging"
+    },
+    {
+      "japanese": "panya",
+      "meaning": "toko roti"
+    },
+    {
+      "japanese": "sakanaya",
+      "meaning": "toko ikan"
+    },
+    {
+      "japanese": "sakaya",
+      "meaning": "toko minuman keras"
+    },
+    {
+      "japanese": "yaoya",
+      "meaning": "toko sayur"
+    },
+    {
+      "japanese": "kissaten",
+      "meaning": "coffee shop"
+    },
+    {
+      "japanese": "mosuku",
+      "meaning": "masjid"
+    },
+    {
+      "japanese": "puuru",
+      "meaning": "kolam renang"
+    },
+    {
+      "japanese": "konbini",
+      "meaning": "toko 24 jam"
+    },
+    {
+      "japanese": "suupaa",
+      "meaning": "supermarket, pasar swalayan"
+    },
+    {
+      "japanese": "depaato",
+      "meaning": "toko serba ada"
+    }
+  ],
+  "Bab 14": [
+    {
+      "japanese": "tsukemasu",
+      "meaning": "menyalakan, memasang, menghidupkan (benda)"
+    },
+    {
+      "japanese": "keshimasu",
+      "meaning": "mematikan, memadamkan (benda)"
+    },
+    {
+      "japanese": "akemasu",
+      "meaning": "membuka"
+    },
+    {
+      "japanese": "shimemasu",
+      "meaning": "menutup"
+    },
+    {
+      "japanese": "isogimasu",
+      "meaning": "buru-buru"
+    },
+    {
+      "japanese": "machimasu",
+      "meaning": "menunggu"
+    },
+    {
+      "japanese": "mochimasu",
+      "meaning": "membawa"
+    },
+    {
+      "japanese": "torimasu",
+      "meaning": "mengambil"
+    },
+    {
+      "japanese": "tetsudaimasu",
+      "meaning": "membantu"
+    },
+    {
+      "japanese": "yobimasu",
+      "meaning": "memanggil"
+    },
+    {
+      "japanese": "hanashimasu",
+      "meaning": "berbicara"
+    },
+    {
+      "japanese": "tsukaimasu",
+      "meaning": "memakai"
+    },
+    {
+      "japanese": "tomemasu",
+      "meaning": "menghentikan, memarkir"
+    },
+    {
+      "japanese": "misemasu",
+      "meaning": "memperlihatkan"
+    },
+    {
+      "japanese": "oshiemasu",
+      "meaning": "memberitahukan, mengajar"
+    },
+    {
+      "japanese": "suwarimasu",
+      "meaning": "duduk"
+    },
+    {
+      "japanese": "tachimasu",
+      "meaning": "berdiri"
+    },
+    {
+      "japanese": "hairimasu",
+      "meaning": "masuk"
+    },
+    {
+      "japanese": "demasu",
+      "meaning": "keluar"
+    },
+    {
+      "japanese": "furimasu",
+      "meaning": "turun (hujan)"
+    },
+    {
+      "japanese": "kopii shimasu",
+      "meaning": "memfotokopi"
+    },
+    {
+      "japanese": "denki",
+      "meaning": "listrik, lampu"
+    },
+    {
+      "japanese": "eakon",
+      "meaning": "AC"
+    },
+    {
+      "japanese": "pasupooto",
+      "meaning": "paspor"
+    },
+    {
+      "japanese": "namae",
+      "meaning": "nama"
+    },
+    {
+      "japanese": "juusho",
+      "meaning": "alamat"
+    },
+    {
+      "japanese": "chizu",
+      "meaning": "peta"
+    },
+    {
+      "japanese": "shio",
+      "meaning": "garam"
+    },
+    {
+      "japanese": "satou",
+      "meaning": "gula"
+    },
+    {
+      "japanese": "mondai",
+      "meaning": "masalah, soal"
+    },
+    {
+      "japanese": "kotae",
+      "meaning": "jawaban"
+    },
+    {
+      "japanese": "yomikata",
+      "meaning": "cara membaca"
+    },
+    {
+      "japanese": "~kata",
+      "meaning": "cara~"
+    },
+    {
+      "japanese": "massugu",
+      "meaning": "lurus"
+    },
+    {
+      "japanese": "yukkuri",
+      "meaning": "pelan-pelan, perlahan"
+    },
+    {
+      "japanese": "sugu",
+      "meaning": "segera, langsung"
+    },
+    {
+      "japanese": "mata",
+      "meaning": "lagi"
+    },
+    {
+      "japanese": "ato de",
+      "meaning": "nanti"
+    },
+    {
+      "japanese": "mou sukoshi",
+      "meaning": "sedikit lagi"
+    },
+    {
+      "japanese": "mou~",
+      "meaning": "lagi~ / sudah ~"
+    },
+    {
+      "japanese": "kippu uriba",
+      "meaning": "loket tiket / tempat jual tiket"
+    },
+    {
+      "japanese": "jidouhanbaiki",
+      "meaning": "mesin penjual otomatis"
+    },
+    {
+      "japanese": "seisanki",
+      "meaning": "mesin penyesuai (dipakai buat ngisi saldo misal kurang pas di gate)"
+    },
+    {
+      "japanese": "kaisatsu guchi",
+      "meaning": "gate karcis kereta"
+    },
+    {
+      "japanese": "deguchi",
+      "meaning": "pintu keluar"
+    },
+    {
+      "japanese": "iriguchi",
+      "meaning": "pintu masuk"
+    },
+    {
+      "japanese": "higashi guchi",
+      "meaning": "pintu timur"
+    },
+    {
+      "japanese": "nishi guchi",
+      "meaning": "pintu barat"
+    },
+    {
+      "japanese": "minami guchi",
+      "meaning": "pintu selatan"
+    },
+    {
+      "japanese": "kita guchi",
+      "meaning": "pintu utara"
+    },
+    {
+      "japanese": "chuuou guchi",
+      "meaning": "pintu tengah"
+    },
+    {
+      "japanese": "purattohoomu",
+      "meaning": "peron"
+    },
+    {
+      "japanese": "baiten",
+      "meaning": "kios, kedai"
+    },
+    {
+      "japanese": "koinrokkaa",
+      "meaning": "loker koin"
+    },
+    {
+      "japanese": "takushii noriba",
+      "meaning": "tempat naik taksi"
+    },
+    {
+      "japanese": "basu taaminaru",
+      "meaning": "terminal bus"
+    },
+    {
+      "japanese": "basu tei",
+      "meaning": "halte bus"
+    },
+    {
+      "japanese": "shinkansen",
+      "meaning": "kereta shinkansen (lebih cepat dari tokkyuu)"
+    },
+    {
+      "japanese": "tokkyuu",
+      "meaning": "kereta api super cepat"
+    },
+    {
+      "japanese": "kyuukou",
+      "meaning": "kereta cepat"
+    },
+    {
+      "japanese": "kaisoku",
+      "meaning": "kereta cepat (lebih murah dibanding kyuukou)"
+    },
+    {
+      "japanese": "futsuu",
+      "meaning": "kereta biasa"
+    },
+    {
+      "japanese": "jikokuhyou",
+      "meaning": "jadwal keberangkatan (kereta api, bis dll)"
+    },
+    {
+      "japanese": "~hatsu",
+      "meaning": "berangkat dari"
+    },
+    {
+      "japanese": "~chaku",
+      "meaning": "tiba di"
+    },
+    {
+      "japanese": "toukyou yuki",
+      "meaning": "tujuan Tokyo"
+    },
+    {
+      "japanese": "teikiken",
+      "meaning": "kartu langganan"
+    },
+    {
+      "japanese": "kaisuuken",
+      "meaning": "karcis kupon"
+    },
+    {
+      "japanese": "katamichi",
+      "meaning": "sekali jalan"
+    },
+    {
+      "japanese": "oufuku",
+      "meaning": "pulang pergi"
+    }
+  ],
+  "Bab 15": [
+    {
+      "japanese": "okimasu",
+      "meaning": "meletakkan, menaruh"
+    },
+    {
+      "japanese": "tsukurimasu",
+      "meaning": "membuat, membangun, memproduksi"
+    },
+    {
+      "japanese": "urimasu",
+      "meaning": "menjual"
+    },
+    {
+      "japanese": "shirimasu",
+      "meaning": "mengetahui, mengenal"
+    },
+    {
+      "japanese": "sumimasu",
+      "meaning": "tinggal"
+    },
+    {
+      "japanese": "kenkyuu shimasu",
+      "meaning": "meneliti"
+    },
+    {
+      "japanese": "shiryou",
+      "meaning": "data, bahan"
+    },
+    {
+      "japanese": "katarogu",
+      "meaning": "katalog"
+    },
+    {
+      "japanese": "jikokuhyou",
+      "meaning": "jadwal"
+    },
+    {
+      "japanese": "fuku",
+      "meaning": "baju"
+    },
+    {
+      "japanese": "seihin",
+      "meaning": "produk"
+    },
+    {
+      "japanese": "sofuto",
+      "meaning": "perangkat lunak"
+    },
+    {
+      "japanese": "denshi jisho",
+      "meaning": "kamus elektronik"
+    },
+    {
+      "japanese": "keizai",
+      "meaning": "ekonomi"
+    },
+    {
+      "japanese": "shiyakusho",
+      "meaning": "kantor wali kota"
+    },
+    {
+      "japanese": "koukou",
+      "meaning": "SMA"
+    },
+    {
+      "japanese": "haisha",
+      "meaning": "dokter gigi"
+    },
+    {
+      "japanese": "dokushin",
+      "meaning": "bujangan, belum berkeluarga"
+    },
+    {
+      "japanese": "sumimasen",
+      "meaning": "maaf"
+    },
+    {
+      "japanese": "kaishain",
+      "meaning": "pegawai perusahaan"
+    },
+    {
+      "japanese": "koumuin",
+      "meaning": "pegawai negeri"
+    },
+    {
+      "japanese": "ekiin",
+      "meaning": "pegawai stasiun"
+    },
+    {
+      "japanese": "ginkouin",
+      "meaning": "pegawai bank"
+    },
+    {
+      "japanese": "yuubinkyokuin",
+      "meaning": "pegawai kantor pos"
+    },
+    {
+      "japanese": "tenin",
+      "meaning": "pegawai toko"
+    },
+    {
+      "japanese": "chourishi",
+      "meaning": "tukang masak"
+    },
+    {
+      "japanese": "riyoushi",
+      "meaning": "tukang potong rambut"
+    },
+    {
+      "japanese": "biyoushi",
+      "meaning": "ahli kecantikan"
+    },
+    {
+      "japanese": "kyoushi",
+      "meaning": "guru"
+    },
+    {
+      "japanese": "bengoshi",
+      "meaning": "pengacara"
+    },
+    {
+      "japanese": "kenkyuusha",
+      "meaning": "peneliti"
+    },
+    {
+      "japanese": "isha / kangoshi",
+      "meaning": "dokter / perawat"
+    },
+    {
+      "japanese": "untenshu",
+      "meaning": "sopir"
+    },
+    {
+      "japanese": "keisatsukan",
+      "meaning": "polisi"
+    },
+    {
+      "japanese": "gaikoukan",
+      "meaning": "diplomat"
+    },
+    {
+      "japanese": "seijika",
+      "meaning": "politikus"
+    },
+    {
+      "japanese": "gaka",
+      "meaning": "pelukis"
+    },
+    {
+      "japanese": "sakka",
+      "meaning": "pengarang"
+    },
+    {
+      "japanese": "ongakuka",
+      "meaning": "musisi"
+    },
+    {
+      "japanese": "kenchikuka",
+      "meaning": "arsitek"
+    },
+    {
+      "japanese": "enjinia",
+      "meaning": "insinyur"
+    },
+    {
+      "japanese": "dezainaa",
+      "meaning": "perancang busana"
+    },
+    {
+      "japanese": "jaanarisuto",
+      "meaning": "wartawan"
+    },
+    {
+      "japanese": "kashu / haiyuu",
+      "meaning": "penyanyi / aktor aktris"
+    },
+    {
+      "japanese": "supootsu sensyu",
+      "meaning": "Atlet / olahragawan"
+    }
+  ],
+  "Bab 16": [
+    {
+      "japanese": "norimasu",
+      "meaning": "naik"
+    },
+    {
+      "japanese": "orimasu",
+      "meaning": "turun"
+    },
+    {
+      "japanese": "norikaemasu",
+      "meaning": "ganti, pindah"
+    },
+    {
+      "japanese": "abimasu",
+      "meaning": "mandi"
+    },
+    {
+      "japanese": "iremasu",
+      "meaning": "memasukkan"
+    },
+    {
+      "japanese": "dashimasu",
+      "meaning": "mengeluarkan, menyerahkan, mengirim"
+    },
+    {
+      "japanese": "oroshimasu",
+      "meaning": "mengeluarkan, mengambil uang"
+    },
+    {
+      "japanese": "hairimasu",
+      "meaning": "masuk universitas"
+    },
+    {
+      "japanese": "demasu",
+      "meaning": "tamat dari universitas"
+    },
+    {
+      "japanese": "oshimasu",
+      "meaning": "menekan"
+    },
+    {
+      "japanese": "nomimasu",
+      "meaning": "minum"
+    },
+    {
+      "japanese": "hajimemasu",
+      "meaning": "mulai"
+    },
+    {
+      "japanese": "kengaku shimasu",
+      "meaning": "mengunjungi / obsevasi / visit"
+    },
+    {
+      "japanese": "denwa shimasu",
+      "meaning": "menelepon"
+    },
+    {
+      "japanese": "wakai",
+      "meaning": "muda"
+    },
+    {
+      "japanese": "nagai",
+      "meaning": "panjang"
+    },
+    {
+      "japanese": "mijikai",
+      "meaning": "pendek"
+    },
+    {
+      "japanese": "akarui",
+      "meaning": "terang"
+    },
+    {
+      "japanese": "kurai",
+      "meaning": "gelap"
+    },
+    {
+      "japanese": "karada",
+      "meaning": "badan"
+    },
+    {
+      "japanese": "atama",
+      "meaning": "kepala"
+    },
+    {
+      "japanese": "kami",
+      "meaning": "rambut"
+    },
+    {
+      "japanese": "kao",
+      "meaning": "muka"
+    },
+    {
+      "japanese": "me",
+      "meaning": "mata"
+    },
+    {
+      "japanese": "mimi",
+      "meaning": "telinga"
+    },
+    {
+      "japanese": "hana",
+      "meaning": "hidung"
+    },
+    {
+      "japanese": "kuchi",
+      "meaning": "mulut"
+    },
+    {
+      "japanese": "ha",
+      "meaning": "gigi"
+    },
+    {
+      "japanese": "onaka",
+      "meaning": "perut"
+    },
+    {
+      "japanese": "ashi",
+      "meaning": "kaki"
+    },
+    {
+      "japanese": "se",
+      "meaning": "punggung"
+    },
+    {
+      "japanese": "saabisu",
+      "meaning": "pelayanan"
+    },
+    {
+      "japanese": "jogingu",
+      "meaning": "joging, lari pelan-pelan"
+    },
+    {
+      "japanese": "shawaa",
+      "meaning": "shower"
+    },
+    {
+      "japanese": "midori",
+      "meaning": "hijau, tumbuhan hijau"
+    },
+    {
+      "japanese": "otera",
+      "meaning": "wihara"
+    },
+    {
+      "japanese": "jinja",
+      "meaning": "kuil Shinto"
+    },
+    {
+      "japanese": "ichiban",
+      "meaning": "nomor satu, paling"
+    },
+    {
+      "japanese": "dou yatte",
+      "meaning": "dengan cara bagaimana"
+    },
+    {
+      "japanese": "dono",
+      "meaning": "yang mana"
+    },
+    {
+      "japanese": "dore",
+      "meaning": "mana"
+    }
+  ],
+  "Bab 17": [
+    {
+      "japanese": "oboemasu",
+      "meaning": "mengingat, menghafal"
+    },
+    {
+      "japanese": "wasuremasu",
+      "meaning": "lupa"
+    },
+    {
+      "japanese": "nakushimasu",
+      "meaning": "kehilangan"
+    },
+    {
+      "japanese": "haraimasu",
+      "meaning": "membayar"
+    },
+    {
+      "japanese": "kaeshimasu",
+      "meaning": "mengembalikan"
+    },
+    {
+      "japanese": "dekakemasu",
+      "meaning": "pergi, keluar, berangkat"
+    },
+    {
+      "japanese": "nugimasu",
+      "meaning": "membuka/melepas baju, sepatu, dan lain-lain"
+    },
+    {
+      "japanese": "motte ikimasu",
+      "meaning": "membawa pergi"
+    },
+    {
+      "japanese": "motte kimasu",
+      "meaning": "membawa datang"
+    },
+    {
+      "japanese": "shinpai shimasu",
+      "meaning": "mengkhawatirkan"
+    },
+    {
+      "japanese": "zangyou shimasu",
+      "meaning": "lembur"
+    },
+    {
+      "japanese": "shucchou shimasu",
+      "meaning": "pergi dinas"
+    },
+    {
+      "japanese": "nomimasu",
+      "meaning": "minum obat"
+    },
+    {
+      "japanese": "hairimasu",
+      "meaning": "mandi, masuk ofuro"
+    },
+    {
+      "japanese": "taisetsu(な)",
+      "meaning": "penting, bernilai, berharga"
+    },
+    {
+      "japanese": "daijoubu(な)",
+      "meaning": "tidak apa-apa, tidak masalah"
+    },
+    {
+      "japanese": "abunai",
+      "meaning": "berbahaya"
+    },
+    {
+      "japanese": "kinen",
+      "meaning": "dilarang merokok"
+    },
+    {
+      "japanese": "kenkou hokenshou",
+      "meaning": "kartu asuransi kesehatan"
+    },
+    {
+      "japanese": "netsu",
+      "meaning": "demam"
+    },
+    {
+      "japanese": "byouki",
+      "meaning": "sakit"
+    },
+    {
+      "japanese": "kusuri",
+      "meaning": "obat"
+    },
+    {
+      "japanese": "ofuro",
+      "meaning": "mandi, kamar mandi (yang ada bak mandinya biasanya)"
+    },
+    {
+      "japanese": "uwagi",
+      "meaning": "baju, jaket (luaran)"
+    },
+    {
+      "japanese": "shitagi",
+      "meaning": "pakaian dalam (celalan dalam dst)"
+    },
+    {
+      "japanese": "nisan nichi",
+      "meaning": "dua atau tiga hari"
+    },
+    {
+      "japanese": "~goro",
+      "meaning": "sekitar~ (waktu))"
+    },
+    {
+      "japanese": "~made ni",
+      "meaning": "sebelum~"
+    },
+    {
+      "japanese": "desukara",
+      "meaning": "oleh karena itu"
+    },
+    {
+      "japanese": "atama ga itai",
+      "meaning": "sakit kepala"
+    },
+    {
+      "japanese": "onaka ga itai",
+      "meaning": "sakit perut"
+    },
+    {
+      "japanese": "ha ga itai",
+      "meaning": "sakit gigi"
+    },
+    {
+      "japanese": "netsu ga arimasu",
+      "meaning": "demam"
+    },
+    {
+      "japanese": "seki ga demasu",
+      "meaning": "batuk"
+    },
+    {
+      "japanese": "hanamizu ga demasu",
+      "meaning": "pilek"
+    },
+    {
+      "japanese": "chi ga demasu",
+      "meaning": "berdarah"
+    },
+    {
+      "japanese": "hakike ga shimasu",
+      "meaning": "mual, mau muntah"
+    },
+    {
+      "japanese": "samuke ga shimasu",
+      "meaning": "kedinginan"
+    },
+    {
+      "japanese": "memai ga shimasu",
+      "meaning": "pening, pusing"
+    },
+    {
+      "japanese": "geri o shimasu",
+      "meaning": "diare"
+    },
+    {
+      "japanese": "benpi o shimasu",
+      "meaning": "sembelit"
+    },
+    {
+      "japanese": "kega o shimasu",
+      "meaning": "terluka"
+    },
+    {
+      "japanese": "yakedo o shimasu",
+      "meaning": "terbakar"
+    },
+    {
+      "japanese": "shokuyoku ga arimasen",
+      "meaning": "tidak nafsu makan"
+    },
+    {
+      "japanese": "karada ga darui",
+      "meaning": "badan lesu"
+    },
+    {
+      "japanese": "kayui",
+      "meaning": "gatal"
+    },
+    {
+      "japanese": "kaze",
+      "meaning": "masuk angin"
+    },
+    {
+      "japanese": "infuruenza",
+      "meaning": "flu, influenza"
+    },
+    {
+      "japanese": "mouchou",
+      "meaning": "usus buntu"
+    },
+    {
+      "japanese": "gikkuri goshi",
+      "meaning": "sakit pinggang"
+    },
+    {
+      "japanese": "nenza",
+      "meaning": "keseleo"
+    },
+    {
+      "japanese": "kossetsu",
+      "meaning": "patah tulang"
+    },
+    {
+      "japanese": "futsukayoi",
+      "meaning": "efek sesudah minum alkohol (pusing, mual, lemas dll)"
+    }
+  ],
+  "Bab 18": [
+    {
+      "japanese": "dekimasu",
+      "meaning": "dapat, bisa, mampu"
+    },
+    {
+      "japanese": "araimasu",
+      "meaning": "mencuci (piring, tangan, wajah dll)"
+    },
+    {
+      "japanese": "hikimasu",
+      "meaning": "bermain alat musik"
+    },
+    {
+      "japanese": "utaimasu",
+      "meaning": "bernyanyi"
+    },
+    {
+      "japanese": "atsumemasu",
+      "meaning": "mengumpulkan"
+    },
+    {
+      "japanese": "sutemasu",
+      "meaning": "membuang"
+    },
+    {
+      "japanese": "kaemasu",
+      "meaning": "mengganti, menukar"
+    },
+    {
+      "japanese": "unten shimasu",
+      "meaning": "menyetir, mengendarai"
+    },
+    {
+      "japanese": "yoyaku shimasu",
+      "meaning": "booking / memesan"
+    },
+    {
+      "japanese": "piano",
+      "meaning": "piano"
+    },
+    {
+      "japanese": "meetoru",
+      "meaning": "meter"
+    },
+    {
+      "japanese": "genkin",
+      "meaning": "uang tunai"
+    },
+    {
+      "japanese": "shumi",
+      "meaning": "hobi, kegemaran"
+    },
+    {
+      "japanese": "nikki",
+      "meaning": "catatan harian"
+    },
+    {
+      "japanese": "oinori",
+      "meaning": "doa"
+    },
+    {
+      "japanese": "kachou",
+      "meaning": "kepala seksi"
+    },
+    {
+      "japanese": "buchou",
+      "meaning": "kepala bagian"
+    },
+    {
+      "japanese": "shachou",
+      "meaning": "direktur utama"
+    },
+    {
+      "japanese": "doubutsu",
+      "meaning": "hewan, binatang"
+    },
+    {
+      "japanese": "uma",
+      "meaning": "kuda"
+    },
+    {
+      "japanese": "intaanetto",
+      "meaning": "internet"
+    },
+    {
+      "japanese": "tobimasu",
+      "meaning": "terbang"
+    },
+    {
+      "japanese": "tobimasu",
+      "meaning": "meloncat"
+    },
+    {
+      "japanese": "noborimasu",
+      "meaning": "memanjat / mendaki"
+    },
+    {
+      "japanese": "hashirimasu",
+      "meaning": "berlari"
+    },
+    {
+      "japanese": "oyogimasu",
+      "meaning": "berenang"
+    },
+    {
+      "japanese": "mogurimasu",
+      "meaning": "menyelam"
+    },
+    {
+      "japanese": "tobikomimasu",
+      "meaning": "terjun"
+    },
+    {
+      "japanese": "sakadachi shimasu",
+      "meaning": "berjungkir balik"
+    },
+    {
+      "japanese": "haimasu",
+      "meaning": "merayap"
+    },
+    {
+      "japanese": "kerimasu",
+      "meaning": "menendang"
+    },
+    {
+      "japanese": "furimasu",
+      "meaning": "melambaikan"
+    },
+    {
+      "japanese": "mochiagemasu",
+      "meaning": "mengangkat"
+    },
+    {
+      "japanese": "nagemasu",
+      "meaning": "melempar"
+    },
+    {
+      "japanese": "tatakimasu",
+      "meaning": "memukul"
+    },
+    {
+      "japanese": "hikimasu",
+      "meaning": "menarik"
+    },
+    {
+      "japanese": "oshimasu",
+      "meaning": "mendorong"
+    },
+    {
+      "japanese": "magemasu",
+      "meaning": "membengkokkan"
+    },
+    {
+      "japanese": "nobashimasu",
+      "meaning": "meluruskan"
+    },
+    {
+      "japanese": "korobimasu",
+      "meaning": "jatuh / terjatuh"
+    },
+    {
+      "japanese": "furimukimasu",
+      "meaning": "menengok ke belakang"
+    }
+  ],
+  "Bab 19": [
+    {
+      "japanese": "noborimasu",
+      "meaning": "naik"
+    },
+    {
+      "japanese": "tomarimasu",
+      "meaning": "menginap"
+    },
+    {
+      "japanese": "souji shimasu",
+      "meaning": "membersihkan"
+    },
+    {
+      "japanese": "sentaku shimasu",
+      "meaning": "mencuci pakaian"
+    },
+    {
+      "japanese": "narimasu",
+      "meaning": "menjadi"
+    },
+    {
+      "japanese": "nemui",
+      "meaning": "mengantuk"
+    },
+    {
+      "japanese": "tsuyoi",
+      "meaning": "kuat"
+    },
+    {
+      "japanese": "yowai",
+      "meaning": "lemah"
+    },
+    {
+      "japanese": "renshuu",
+      "meaning": "latihan"
+    },
+    {
+      "japanese": "gorufu",
+      "meaning": "golf"
+    },
+    {
+      "japanese": "sumou",
+      "meaning": "sumo"
+    },
+    {
+      "japanese": "ocha",
+      "meaning": "upacara minum teh"
+    },
+    {
+      "japanese": "hi",
+      "meaning": "hari"
+    },
+    {
+      "japanese": "choushi",
+      "meaning": "kondisi"
+    },
+    {
+      "japanese": "ichido",
+      "meaning": "sekali"
+    },
+    {
+      "japanese": "ichido mo",
+      "meaning": "sekali-kali, satu kali pun"
+    },
+    {
+      "japanese": "dandan",
+      "meaning": "berangsur-angsur, lama-kelamaan"
+    },
+    {
+      "japanese": "mou sugu",
+      "meaning": "tidak lama lagi"
+    },
+    {
+      "japanese": "okagesama de",
+      "meaning": "atas berkat"
+    },
+    {
+      "japanese": "demo",
+      "meaning": "tetapi"
+    },
+    {
+      "japanese": "ocha",
+      "meaning": "upacara minum teh"
+    },
+    {
+      "japanese": "ikebana",
+      "meaning": "seni merangkai bunga"
+    },
+    {
+      "japanese": "shodou",
+      "meaning": "seni menulis huruf Jepang"
+    },
+    {
+      "japanese": "kabuki",
+      "meaning": "Kabuki"
+    },
+    {
+      "japanese": "nou",
+      "meaning": "Noh"
+    },
+    {
+      "japanese": "bunraku",
+      "meaning": "Bunraku"
+    },
+    {
+      "japanese": "sumou",
+      "meaning": "Sumo"
+    },
+    {
+      "japanese": "juudou",
+      "meaning": "Judo"
+    },
+    {
+      "japanese": "kendou",
+      "meaning": "Kendo"
+    },
+    {
+      "japanese": "karate",
+      "meaning": "Karate"
+    },
+    {
+      "japanese": "manzai",
+      "meaning": "lelucon, komedi"
+    },
+    {
+      "japanese": "shougi",
+      "meaning": "catur Jepang"
+    },
+    {
+      "japanese": "pachinko",
+      "meaning": "Pachinko (judi)"
+    },
+    {
+      "japanese": "karaoke",
+      "meaning": "Karaoke"
+    },
+    {
+      "japanese": "bon odori",
+      "meaning": "Tarian Bon"
+    }
+  ],
+  "Bab 20": [
+    {
+      "japanese": "irimasu",
+      "meaning": "memerlukan"
+    },
+    {
+      "japanese": "shirabemasu",
+      "meaning": "memeriksa, mengecek"
+    },
+    {
+      "japanese": "shuuri shimasu",
+      "meaning": "memperbaiki"
+    },
+    {
+      "japanese": "boku",
+      "meaning": "aku/ gua"
+    },
+    {
+      "japanese": "kimi",
+      "meaning": "kamu / lu"
+    },
+    {
+      "japanese": "un",
+      "meaning": "ya (bentuk casual dari はい)"
+    },
+    {
+      "japanese": "uun",
+      "meaning": "tidak, bukan (bentuk casual dari いいえ)"
+    },
+    {
+      "japanese": "kotoba",
+      "meaning": "kata, bahasa"
+    },
+    {
+      "japanese": "kimono",
+      "meaning": "kimono"
+    },
+    {
+      "japanese": "biza",
+      "meaning": "VISA"
+    },
+    {
+      "japanese": "hajime",
+      "meaning": "awal, mula-mula"
+    },
+    {
+      "japanese": "owari",
+      "meaning": "akhir"
+    },
+    {
+      "japanese": "kocchi",
+      "meaning": "sini (bentuk casual dariこちら)"
+    },
+    {
+      "japanese": "socchi",
+      "meaning": "situ (bentuk casual dari そちら)"
+    },
+    {
+      "japanese": "acchi",
+      "meaning": "sana (bentuk casual dari あちら)"
+    },
+    {
+      "japanese": "docchi",
+      "meaning": "mana (bentuk casual dari どちら)"
+    },
+    {
+      "japanese": "minna de ~",
+      "meaning": "kita semua, kita sama-sama"
+    },
+    {
+      "japanese": "kedo",
+      "meaning": "tetapi"
+    },
+    {
+      "japanese": "onaka ga ippai desu",
+      "meaning": "sudah kenyang"
+    }
+  ],
+  "Bab 21": [
+    {
+      "japanese": "omoimasu",
+      "meaning": "mengira, berpikir"
+    },
+    {
+      "japanese": "iimasu",
+      "meaning": "mengatakan, berkata"
+    },
+    {
+      "japanese": "kachimasu",
+      "meaning": "menang"
+    },
+    {
+      "japanese": "makemasu",
+      "meaning": "kalah"
+    },
+    {
+      "japanese": "arimasu",
+      "meaning": "ada, diadakan"
+    },
+    {
+      "japanese": "yakunitachimasu",
+      "meaning": "berguna, bermanfaat"
+    },
+    {
+      "japanese": "ugokimasu",
+      "meaning": "pindah, bergerak"
+    },
+    {
+      "japanese": "yamemasu",
+      "meaning": "berhenti kerja"
+    },
+    {
+      "japanese": "ki o tsukemasu",
+      "meaning": "berwaspada, berhati-hati"
+    },
+    {
+      "japanese": "ryuugaku shimasu",
+      "meaning": "studi di luar negeri"
+    },
+    {
+      "japanese": "muda(な)",
+      "meaning": "sia-sia, tidak berguna"
+    },
+    {
+      "japanese": "fuben(な)",
+      "meaning": "tidak praktis"
+    },
+    {
+      "japanese": "sugoi",
+      "meaning": "hebat, bukan main"
+    },
+    {
+      "japanese": "hontou",
+      "meaning": "betul, benar"
+    },
+    {
+      "japanese": "uso",
+      "meaning": "bohong"
+    },
+    {
+      "japanese": "jidousha",
+      "meaning": "mobil"
+    },
+    {
+      "japanese": "koutsuu",
+      "meaning": "lalu lintas"
+    },
+    {
+      "japanese": "bukka",
+      "meaning": "harga barang"
+    },
+    {
+      "japanese": "housou",
+      "meaning": "siaran, pengumuman"
+    },
+    {
+      "japanese": "nyuusu",
+      "meaning": "warta berita"
+    },
+    {
+      "japanese": "anime",
+      "meaning": "animasi"
+    },
+    {
+      "japanese": "manga",
+      "meaning": "manga, komik"
+    },
+    {
+      "japanese": "dezain",
+      "meaning": "desain, model"
+    },
+    {
+      "japanese": "yume",
+      "meaning": "mimpi"
+    },
+    {
+      "japanese": "tensai",
+      "meaning": "genius"
+    },
+    {
+      "japanese": "shiai",
+      "meaning": "pertandingan"
+    },
+    {
+      "japanese": "iken",
+      "meaning": "pendapat"
+    },
+    {
+      "japanese": "hanashi",
+      "meaning": "cerita, berbicara"
+    },
+    {
+      "japanese": "chikyuu",
+      "meaning": "bumi"
+    },
+    {
+      "japanese": "tsuki",
+      "meaning": "bulan"
+    },
+    {
+      "japanese": "saikin",
+      "meaning": "akhir-akhir ini"
+    },
+    {
+      "japanese": "tabun",
+      "meaning": "mungkin, barangkali"
+    },
+    {
+      "japanese": "kitto",
+      "meaning": "pasti"
+    },
+    {
+      "japanese": "hontou ni",
+      "meaning": "betul-betul"
+    },
+    {
+      "japanese": "sonna ni",
+      "meaning": "tidak begitu"
+    },
+    {
+      "japanese": "~ni tsuite",
+      "meaning": "tentang~, mengenai~"
+    }
+  ],
+  "Bab 22": [
+    {
+      "japanese": "kimasu",
+      "meaning": "memakai kemeja"
+    },
+    {
+      "japanese": "hakimasu",
+      "meaning": "memakai sepatu, celana"
+    },
+    {
+      "japanese": "kaburimasu",
+      "meaning": "memakai topi"
+    },
+    {
+      "japanese": "kakemasu",
+      "meaning": "memakai kacamata"
+    },
+    {
+      "japanese": "shimasu",
+      "meaning": "memakai dasi"
+    },
+    {
+      "japanese": "umaremasu",
+      "meaning": "lahir"
+    },
+    {
+      "japanese": "watashitachi",
+      "meaning": "kami, kita"
+    },
+    {
+      "japanese": "kooto",
+      "meaning": "mantel"
+    },
+    {
+      "japanese": "seetaa",
+      "meaning": "sweater, baju hangat"
+    },
+    {
+      "japanese": "suutsu",
+      "meaning": "pakaian setelan"
+    },
+    {
+      "japanese": "boushi",
+      "meaning": "topi"
+    },
+    {
+      "japanese": "megane",
+      "meaning": "kacamata"
+    },
+    {
+      "japanese": "keeki",
+      "meaning": "kue"
+    },
+    {
+      "japanese": "obentou",
+      "meaning": "bekal"
+    },
+    {
+      "japanese": "robotto",
+      "meaning": "robot"
+    },
+    {
+      "japanese": "yuumoa",
+      "meaning": "humor"
+    },
+    {
+      "japanese": "tsugou",
+      "meaning": "kondisi (keadaan)"
+    },
+    {
+      "japanese": "yoku",
+      "meaning": "sering kali"
+    },
+    {
+      "japanese": "suutsu",
+      "meaning": "pakaian setelan"
+    },
+    {
+      "japanese": "wanpiisu",
+      "meaning": "terusan"
+    },
+    {
+      "japanese": "uwagi",
+      "meaning": "jas"
+    },
+    {
+      "japanese": "zubon / pantsu",
+      "meaning": "celana panjang"
+    },
+    {
+      "japanese": "jiinzu",
+      "meaning": "celana jeans"
+    },
+    {
+      "japanese": "sukaato",
+      "meaning": "rok"
+    },
+    {
+      "japanese": "burausu",
+      "meaning": "blus"
+    },
+    {
+      "japanese": "waishatsu",
+      "meaning": "kemeja"
+    },
+    {
+      "japanese": "seetaa",
+      "meaning": "sweater, baju hangat"
+    },
+    {
+      "japanese": "mafuraa",
+      "meaning": "shal, selendang"
+    },
+    {
+      "japanese": "tebukuro",
+      "meaning": "sarung tangan"
+    },
+    {
+      "japanese": "shitagi",
+      "meaning": "pakaian dalam"
+    },
+    {
+      "japanese": "kutsushita",
+      "meaning": "kaos kaki"
+    },
+    {
+      "japanese": "sutokkingu",
+      "meaning": "stoking"
+    },
+    {
+      "japanese": "kimono",
+      "meaning": "kimono"
+    },
+    {
+      "japanese": "obi",
+      "meaning": "obi, ikat pinggang tradisional Jepang"
+    },
+    {
+      "japanese": "oobaa kooto",
+      "meaning": "mantel"
+    },
+    {
+      "japanese": "rein kooto",
+      "meaning": "jas hujan"
+    },
+    {
+      "japanese": "nekutai",
+      "meaning": "dasi"
+    },
+    {
+      "japanese": "beruto",
+      "meaning": "ikat pinggang"
+    },
+    {
+      "japanese": "haihiiru",
+      "meaning": "sepatu berhak tinggi"
+    },
+    {
+      "japanese": "buutsu",
+      "meaning": "sepatu bot"
+    },
+    {
+      "japanese": "undougutsu",
+      "meaning": "sepatu olahraga"
+    },
+    {
+      "japanese": "zouri",
+      "meaning": "sandal tradisional Jepang"
+    },
+    {
+      "japanese": "tabi",
+      "meaning": "kaos kaki tradisional Jepang"
+    }
+  ],
+  "Bab 23": [
+    {
+      "japanese": "kikimasu",
+      "meaning": "bertanya"
+    },
+    {
+      "japanese": "mawashimasu",
+      "meaning": "memutar"
+    },
+    {
+      "japanese": "hikimasu",
+      "meaning": "menarik"
+    },
+    {
+      "japanese": "kaemasu",
+      "meaning": "mengubah"
+    },
+    {
+      "japanese": "sawarimasu",
+      "meaning": "menyentuh"
+    },
+    {
+      "japanese": "demasu",
+      "meaning": "keluar"
+    },
+    {
+      "japanese": "arukimasu",
+      "meaning": "berjalan kaki"
+    },
+    {
+      "japanese": "watarimasu",
+      "meaning": "menyeberang"
+    },
+    {
+      "japanese": "magarimasu",
+      "meaning": "belok"
+    },
+    {
+      "japanese": "sabishii",
+      "meaning": "sepi, kesepian"
+    },
+    {
+      "japanese": "oyu",
+      "meaning": "air panas"
+    },
+    {
+      "japanese": "oto",
+      "meaning": "bunyi, suara (benda mati)"
+    },
+    {
+      "japanese": "saizu",
+      "meaning": "ukuran"
+    },
+    {
+      "japanese": "koshou",
+      "meaning": "kerusakan (barang)"
+    },
+    {
+      "japanese": "michi",
+      "meaning": "jalan"
+    },
+    {
+      "japanese": "kousaten",
+      "meaning": "perempatan"
+    },
+    {
+      "japanese": "shingou",
+      "meaning": "lampu lalu lintas"
+    },
+    {
+      "japanese": "kado",
+      "meaning": "sudut"
+    },
+    {
+      "japanese": "hashi",
+      "meaning": "jembatan"
+    },
+    {
+      "japanese": "chuushajou",
+      "meaning": "tempat parkir"
+    },
+    {
+      "japanese": "tatemono",
+      "meaning": "gedung"
+    },
+    {
+      "japanese": "nankai mo",
+      "meaning": "berkali-kali"
+    },
+    {
+      "japanese": "~me",
+      "meaning": "yang ke-"
+    },
+    {
+      "japanese": "hodou",
+      "meaning": "trotoar"
+    },
+    {
+      "japanese": "shadou",
+      "meaning": "jalan mobil"
+    },
+    {
+      "japanese": "kousoku douro",
+      "meaning": "jalan tol"
+    },
+    {
+      "japanese": "toori",
+      "meaning": "jalan"
+    },
+    {
+      "japanese": "kousaten",
+      "meaning": "perempatan"
+    },
+    {
+      "japanese": "oudan hodou",
+      "meaning": "tempat menyeberang"
+    },
+    {
+      "japanese": "hodoukyou",
+      "meaning": "jembatan penyeberangan"
+    },
+    {
+      "japanese": "kado",
+      "meaning": "belokan, tikungan"
+    },
+    {
+      "japanese": "shingou",
+      "meaning": "lampu lalu lintas"
+    },
+    {
+      "japanese": "saka",
+      "meaning": "lereng"
+    },
+    {
+      "japanese": "fumikiri",
+      "meaning": "lintasan kereta api"
+    },
+    {
+      "japanese": "gasorin sutando",
+      "meaning": "pompa bensin"
+    },
+    {
+      "japanese": "tomare",
+      "meaning": "berhenti"
+    },
+    {
+      "japanese": "shinnyuu kinshi",
+      "meaning": "dilarang masuk"
+    },
+    {
+      "japanese": "ippou tsuukou",
+      "meaning": "satu arah"
+    },
+    {
+      "japanese": "chuusha kinshi",
+      "meaning": "dilarang parkir"
+    },
+    {
+      "japanese": "usetsu kinshi",
+      "meaning": "dilarang belok kanan"
+    }
+  ],
+  "Bab 24": [
+    {
+      "japanese": "kuremasu",
+      "meaning": "diberikan"
+    },
+    {
+      "japanese": "naoshimasu",
+      "meaning": "mengoreksi, memperbaiki (pr, tulisan dll)"
+    },
+    {
+      "japanese": "tsurete ikimasu",
+      "meaning": "membawa, mengajak pergi"
+    },
+    {
+      "japanese": "tsurete kimasu",
+      "meaning": "membawa datang, mengajak datang"
+    },
+    {
+      "japanese": "okurimasu",
+      "meaning": "mengantar (orang)"
+    },
+    {
+      "japanese": "shoukai shimasu",
+      "meaning": "memperkenalkan (,orang)"
+    },
+    {
+      "japanese": "annai shimasu",
+      "meaning": "meng-guide / memandu (turis / tamu)"
+    },
+    {
+      "japanese": "setsumei shimasu",
+      "meaning": "menjelaskan, menerangkan"
+    },
+    {
+      "japanese": "ojiisan / ojiichan",
+      "meaning": "kakek"
+    },
+    {
+      "japanese": "obaasan / obaachan",
+      "meaning": "nenek"
+    },
+    {
+      "japanese": "junbi",
+      "meaning": "persiapan"
+    },
+    {
+      "japanese": "hikkoshi",
+      "meaning": "pindah rumah"
+    },
+    {
+      "japanese": "okashi",
+      "meaning": "kue"
+    },
+    {
+      "japanese": "hoomusutei",
+      "meaning": "homestay"
+    },
+    {
+      "japanese": "zenbu",
+      "meaning": "semua"
+    },
+    {
+      "japanese": "jibun de",
+      "meaning": "dengan sendiri"
+    }
+  ],
+  "Bab 25": [
+    {
+      "japanese": "kangaemasu",
+      "meaning": "berpikir, memikirkan"
+    },
+    {
+      "japanese": "tsukimasu",
+      "meaning": "tiba, sampai"
+    },
+    {
+      "japanese": "toshi wo torimasu",
+      "meaning": "berumur, lanjut usia"
+    },
+    {
+      "japanese": "tarimasu",
+      "meaning": "cukup"
+    },
+    {
+      "japanese": "inaka",
+      "meaning": "desa, kampung halaman"
+    },
+    {
+      "japanese": "chansu",
+      "meaning": "kesempatan"
+    },
+    {
+      "japanese": "oku",
+      "meaning": "ratus juta"
+    },
+    {
+      "japanese": "moshi~",
+      "meaning": "kalau~"
+    },
+    {
+      "japanese": "imi",
+      "meaning": "arti, makna"
+    }
+  ],
+  "Bab 26": [
+    {
+      "japanese": "mimasu",
+      "meaning": "melihat, memeriksa"
+    },
+    {
+      "japanese": "sagashimasu",
+      "meaning": "mencari"
+    },
+    {
+      "japanese": "okuremasu",
+      "meaning": "terlambat"
+    },
+    {
+      "japanese": "maniaimasu",
+      "meaning": "sempat"
+    },
+    {
+      "japanese": "yarimasu",
+      "meaning": "melakukan"
+    },
+    {
+      "japanese": "hiroimasu",
+      "meaning": "memungut (memungut sampah)"
+    },
+    {
+      "japanese": "renraku shimasu",
+      "meaning": "menghubungi"
+    },
+    {
+      "japanese": "kibun ga ii",
+      "meaning": "perasaan enak / segar (fresh)"
+    },
+    {
+      "japanese": "kibun ga warui",
+      "meaning": "perasaan tidak enak (seperti sedang sakit)"
+    },
+    {
+      "japanese": "undoukai",
+      "meaning": "lomba olahraga"
+    },
+    {
+      "japanese": "bon odori",
+      "meaning": "tarian Bon"
+    },
+    {
+      "japanese": "furii maaketto",
+      "meaning": "pasar rombengan / loak / barang bekas"
+    },
+    {
+      "japanese": "basho",
+      "meaning": "tempat"
+    },
+    {
+      "japanese": "borantia",
+      "meaning": "sukarelawan"
+    },
+    {
+      "japanese": "saifu",
+      "meaning": "dompet"
+    },
+    {
+      "japanese": "gomi",
+      "meaning": "sampah"
+    },
+    {
+      "japanese": "kokkaigijidou",
+      "meaning": "gedung parlemen"
+    },
+    {
+      "japanese": "heijitsu",
+      "meaning": "hari kerja (senin - jumat)"
+    },
+    {
+      "japanese": "~ben",
+      "meaning": "dialek~"
+    },
+    {
+      "japanese": "kondo",
+      "meaning": "kali ini, lain kali"
+    },
+    {
+      "japanese": "zuibun",
+      "meaning": "sangat, amat, tumben"
+    },
+    {
+      "japanese": "chokusetsu",
+      "meaning": "langsung"
+    },
+    {
+      "japanese": "itsu demo",
+      "meaning": "kapan saja"
+    },
+    {
+      "japanese": "doko demo",
+      "meaning": "di mana-mana"
+    },
+    {
+      "japanese": "dare demo",
+      "meaning": "siapa saja"
+    },
+    {
+      "japanese": "nan demo",
+      "meaning": "apa saja"
+    },
+    {
+      "japanese": "konna~",
+      "meaning": "hal begini"
+    },
+    {
+      "japanese": "sonna~",
+      "meaning": "hal begitu (konteks dari lawan bicara)"
+    },
+    {
+      "japanese": "anna~",
+      "meaning": "hal begitu (konteks dari pihak ke 3)"
+    }
+  ],
+  "Bab 27": [
+    {
+      "japanese": "kaimasu",
+      "meaning": "memelihara (hewan / kucing / anjing dll)"
+    },
+    {
+      "japanese": "hashirimasu",
+      "meaning": "berlari [di jalan]"
+    },
+    {
+      "japanese": "miemasu",
+      "meaning": "[gunung] terlihat"
+    },
+    {
+      "japanese": "kikoemasu",
+      "meaning": "[bunyi] terdengar"
+    },
+    {
+      "japanese": "dekimasu",
+      "meaning": "[jalan] dibuat/selesai"
+    },
+    {
+      "japanese": "hirakimasu",
+      "meaning": "membuka/mengadakan [kelas]"
+    },
+    {
+      "japanese": "shinpai",
+      "meaning": "khawatir"
+    },
+    {
+      "japanese": "petto",
+      "meaning": "hewan peliharaan"
+    },
+    {
+      "japanese": "tori",
+      "meaning": "burung"
+    },
+    {
+      "japanese": "koe",
+      "meaning": "suara makhkuk hidup (orang / hewan)"
+    },
+    {
+      "japanese": "nami",
+      "meaning": "ombak, gelombang"
+    },
+    {
+      "japanese": "hanabi",
+      "meaning": "kembang api"
+    },
+    {
+      "japanese": "dougu",
+      "meaning": "alat / peralatan"
+    },
+    {
+      "japanese": "kuriiningu",
+      "meaning": "laundry"
+    },
+    {
+      "japanese": "ie",
+      "meaning": "rumah"
+    },
+    {
+      "japanese": "manshon",
+      "meaning": "apartemen (lebih mewah dari アパート)"
+    },
+    {
+      "japanese": "kitchin",
+      "meaning": "dapur"
+    },
+    {
+      "japanese": "~kyoushitsu",
+      "meaning": "kelas ~"
+    },
+    {
+      "japanese": "paatii ruumu",
+      "meaning": "ruang pesta"
+    },
+    {
+      "japanese": "kata",
+      "meaning": "orang (bentuk hormat dari hito)"
+    },
+    {
+      "japanese": "~go",
+      "meaning": "setelah ~, sesudah ~"
+    },
+    {
+      "japanese": "~shika",
+      "meaning": "hanya ~ (diikuti bentuk negatif)"
+    },
+    {
+      "japanese": "hoka no",
+      "meaning": "(yang) lain"
+    },
+    {
+      "japanese": "hakkiri",
+      "meaning": "jelas / lantang"
+    }
+  ],
+  "Bab 28": [
+    {
+      "japanese": "uremasu",
+      "meaning": "[roti] terjual"
+    },
+    {
+      "japanese": "odorimasu",
+      "meaning": "menari"
+    },
+    {
+      "japanese": "kamimasu",
+      "meaning": "makan, menggigit"
+    },
+    {
+      "japanese": "erabimasu",
+      "meaning": "memilih"
+    },
+    {
+      "japanese": "kayoimasu",
+      "meaning": "pergi [ke universitas]"
+    },
+    {
+      "japanese": "memo shimasu",
+      "meaning": "mencatat"
+    },
+    {
+      "japanese": "majime",
+      "meaning": "serius"
+    },
+    {
+      "japanese": "nesshin",
+      "meaning": "tekun"
+    },
+    {
+      "japanese": "erai",
+      "meaning": "hebat"
+    },
+    {
+      "japanese": "choudo ii",
+      "meaning": "pas, cocok"
+    },
+    {
+      "japanese": "keshiki",
+      "meaning": "pemandangan"
+    },
+    {
+      "japanese": "biyouin",
+      "meaning": "salon kecantikan"
+    },
+    {
+      "japanese": "daidokoro",
+      "meaning": "dapur"
+    },
+    {
+      "japanese": "keiken",
+      "meaning": "pengalaman (~ ga arimasu = berpengalaman, ~ o shimasu = mengalami)"
+    },
+    {
+      "japanese": "chikara",
+      "meaning": "tenaga"
+    },
+    {
+      "japanese": "ninki",
+      "meaning": "populer/disenangi ([gakusei ni] ~ ga arimasu = populer [di kalangan mahasiswa])"
+    },
+    {
+      "japanese": "katachi",
+      "meaning": "bentuk, sosok"
+    },
+    {
+      "japanese": "iro",
+      "meaning": "warna"
+    },
+    {
+      "japanese": "aji",
+      "meaning": "rasa"
+    },
+    {
+      "japanese": "gamu",
+      "meaning": "permen karet"
+    },
+    {
+      "japanese": "shinamono",
+      "meaning": "barang"
+    },
+    {
+      "japanese": "nedan",
+      "meaning": "harga"
+    },
+    {
+      "japanese": "kyuuryou",
+      "meaning": "gaji"
+    },
+    {
+      "japanese": "boonasu",
+      "meaning": "bonus"
+    },
+    {
+      "japanese": "geemu",
+      "meaning": "permainan, game"
+    },
+    {
+      "japanese": "bangumi",
+      "meaning": "acara TV"
+    },
+    {
+      "japanese": "dorama",
+      "meaning": "drama"
+    },
+    {
+      "japanese": "kashu",
+      "meaning": "penyanyi"
+    },
+    {
+      "japanese": "shousetsu",
+      "meaning": "novel"
+    },
+    {
+      "japanese": "shousetsuka",
+      "meaning": "novelis"
+    },
+    {
+      "japanese": "~ka",
+      "meaning": "aliran ~"
+    },
+    {
+      "japanese": "~ki",
+      "meaning": "mesin ~"
+    },
+    {
+      "japanese": "musuko",
+      "meaning": "anak laki-laki"
+    },
+    {
+      "japanese": "musukosan",
+      "meaning": "putra"
+    },
+    {
+      "japanese": "musume",
+      "meaning": "anak perempuan"
+    },
+    {
+      "japanese": "musumesan",
+      "meaning": "putri"
+    },
+    {
+      "japanese": "jibun",
+      "meaning": "diri sendiri"
+    },
+    {
+      "japanese": "shourai",
+      "meaning": "masa depan"
+    },
+    {
+      "japanese": "shibaraku",
+      "meaning": "sebentar, sementara"
+    },
+    {
+      "japanese": "taitei",
+      "meaning": "kebanyakan"
+    },
+    {
+      "japanese": "sore ni",
+      "meaning": "dan juga"
+    },
+    {
+      "japanese": "sore de",
+      "meaning": "dan, lalu"
+    },
+    {
+      "japanese": "manshon",
+      "meaning": "Apartemen"
+    },
+    {
+      "japanese": "yachin",
+      "meaning": "Uang sewa / biaya sewa"
+    },
+    {
+      "japanese": "shikikin",
+      "meaning": "Uang jaminan / deposit"
+    },
+    {
+      "japanese": "reikin",
+      "meaning": "Uang imbalan (uang kunci untuk pemilik)"
+    },
+    {
+      "japanese": "kanrihi",
+      "meaning": "Biaya pemeliharaan / manajemen"
+    }
+  ],
+  "Bab 29": [
+    {
+      "japanese": "akimasu",
+      "meaning": "[pintu] terbuka"
+    },
+    {
+      "japanese": "shimarimasu",
+      "meaning": "[pintu] tertutup"
+    },
+    {
+      "japanese": "tsukimasu",
+      "meaning": "[lampu] menyala"
+    },
+    {
+      "japanese": "kiemasu",
+      "meaning": "[lampu] terpadam"
+    },
+    {
+      "japanese": "kowaremasu",
+      "meaning": "[kursi] rusak"
+    },
+    {
+      "japanese": "waremasu",
+      "meaning": "[gelas] pecah"
+    },
+    {
+      "japanese": "oremasu",
+      "meaning": "[pohon] patah"
+    },
+    {
+      "japanese": "yaburemasu",
+      "meaning": "[kertas] robek"
+    },
+    {
+      "japanese": "yogoremasu",
+      "meaning": "[baju] menjadi kotor"
+    },
+    {
+      "japanese": "tsukimasu",
+      "meaning": "[kantong] terpasang"
+    },
+    {
+      "japanese": "hazuremasu",
+      "meaning": "[kancing] terlepas"
+    },
+    {
+      "japanese": "tomarimasu",
+      "meaning": "[mobil] berhenti"
+    },
+    {
+      "japanese": "machigaemasu",
+      "meaning": "bersalah / salah membuat pilihan"
+    },
+    {
+      "japanese": "otoshimasu",
+      "meaning": "menjatuhkan, kehilangan"
+    },
+    {
+      "japanese": "kakarimasu",
+      "meaning": "terkunci"
+    },
+    {
+      "japanese": "fukimasu",
+      "meaning": "mengelap"
+    },
+    {
+      "japanese": "torikaemasu",
+      "meaning": "mengganti"
+    },
+    {
+      "japanese": "katazukemasu",
+      "meaning": "membereskan / merapikan"
+    },
+    {
+      "japanese": "sara",
+      "meaning": "piring"
+    },
+    {
+      "japanese": "chawan",
+      "meaning": "mangkuk"
+    },
+    {
+      "japanese": "koppu",
+      "meaning": "mug / gelas kopi ・teh"
+    },
+    {
+      "japanese": "garasu",
+      "meaning": "kaca"
+    },
+    {
+      "japanese": "fukuro",
+      "meaning": "kantong"
+    },
+    {
+      "japanese": "shorui",
+      "meaning": "dokumen / berkas"
+    },
+    {
+      "japanese": "eda",
+      "meaning": "ranting"
+    },
+    {
+      "japanese": "ekiin",
+      "meaning": "petugas stasiun"
+    },
+    {
+      "japanese": "kouban",
+      "meaning": "pos polisi"
+    },
+    {
+      "japanese": "supiichi",
+      "meaning": "pidato (~ o shimasu = berpidato)"
+    },
+    {
+      "japanese": "futotte iru",
+      "meaning": "gemuk"
+    },
+    {
+      "japanese": "yasete iru",
+      "meaning": "kurus"
+    },
+    {
+      "japanese": "fukurande iru",
+      "meaning": "kembung (kantong/tas penuh)"
+    },
+    {
+      "japanese": "ana ga aite iru",
+      "meaning": "bolong (celana / kantong dll)"
+    },
+    {
+      "japanese": "magatte iru",
+      "meaning": "bengkok"
+    },
+    {
+      "japanese": "yugande iru",
+      "meaning": "melengkung"
+    },
+    {
+      "japanese": "hekonde iru",
+      "meaning": "penyok"
+    },
+    {
+      "japanese": "nejirete iru",
+      "meaning": "terpelintir"
+    },
+    {
+      "japanese": "kakete iru",
+      "meaning": "sumbing (gelas/mangkok dll yang ada pecah kecil)"
+    },
+    {
+      "japanese": "hibi ga haitte iru",
+      "meaning": "retak"
+    },
+    {
+      "japanese": "kusatte iru",
+      "meaning": "busuk"
+    },
+    {
+      "japanese": "kawaite iru",
+      "meaning": "kering"
+    },
+    {
+      "japanese": "nurete iru",
+      "meaning": "basah"
+    },
+    {
+      "japanese": "kootte iru",
+      "meaning": "beku"
+    }
+  ],
+  "Bab 30": [
+    {
+      "japanese": "harimasu",
+      "meaning": "menempelkan"
+    },
+    {
+      "japanese": "kakemasu",
+      "meaning": "menggantungkan"
+    },
+    {
+      "japanese": "kazarimasu",
+      "meaning": "menghiasi"
+    },
+    {
+      "japanese": "narabemasu",
+      "meaning": "menata"
+    },
+    {
+      "japanese": "uemasu",
+      "meaning": "menanam"
+    },
+    {
+      "japanese": "modoshimasu",
+      "meaning": "mengembalikan"
+    },
+    {
+      "japanese": "matomemasu",
+      "meaning": "merangkumkan"
+    },
+    {
+      "japanese": "shimaimasu",
+      "meaning": "menyimpan"
+    },
+    {
+      "japanese": "kimemasu",
+      "meaning": "menentukan"
+    },
+    {
+      "japanese": "yoshuu shimasu",
+      "meaning": "belajar persiapan"
+    },
+    {
+      "japanese": "fukushuu shimasu",
+      "meaning": "belajar pengulangan"
+    },
+    {
+      "japanese": "sono mama ni shimasu",
+      "meaning": "membiarkan begitu"
+    },
+    {
+      "japanese": "jugyou",
+      "meaning": "kelas, pelajaran"
+    },
+    {
+      "japanese": "kougi",
+      "meaning": "kuliah"
+    },
+    {
+      "japanese": "miitingu",
+      "meaning": "rapat"
+    },
+    {
+      "japanese": "yotei",
+      "meaning": "acara"
+    },
+    {
+      "japanese": "oshirase",
+      "meaning": "pengumuman"
+    },
+    {
+      "japanese": "gaidobukku",
+      "meaning": "buku petunjuk"
+    },
+    {
+      "japanese": "karendaa",
+      "meaning": "kalender"
+    },
+    {
+      "japanese": "posutaa",
+      "meaning": "plakat, poster"
+    },
+    {
+      "japanese": "yoteihyou",
+      "meaning": "jadwal acara"
+    },
+    {
+      "japanese": "gomibako",
+      "meaning": "tempat sampah, tong sampah"
+    },
+    {
+      "japanese": "ningyou",
+      "meaning": "boneka, orang-orangan"
+    },
+    {
+      "japanese": "kabin",
+      "meaning": "vas"
+    },
+    {
+      "japanese": "kagami",
+      "meaning": "cermin"
+    },
+    {
+      "japanese": "hikidashi",
+      "meaning": "laci"
+    },
+    {
+      "japanese": "genkan",
+      "meaning": "ruang depan (tempant kecil pas setelah masuk rumah, biasanya buat naro sepatu dll)"
+    },
+    {
+      "japanese": "rouka",
+      "meaning": "koridor, gang"
+    },
+    {
+      "japanese": "kabe",
+      "meaning": "dinding"
+    },
+    {
+      "japanese": "ike",
+      "meaning": "kolam"
+    },
+    {
+      "japanese": "moto no tokoro",
+      "meaning": "tempat semula"
+    },
+    {
+      "japanese": "mawari",
+      "meaning": "sekitar"
+    },
+    {
+      "japanese": "mannaka",
+      "meaning": "tengah"
+    },
+    {
+      "japanese": "sumi",
+      "meaning": "pojok, sudut"
+    },
+    {
+      "japanese": "mada",
+      "meaning": "masih"
+    }
+  ],
+  "Bab 31": [
+    {
+      "japanese": "tsudzukemasu",
+      "meaning": "melanjutkan"
+    },
+    {
+      "japanese": "mitsukemasu",
+      "meaning": "menemukan"
+    },
+    {
+      "japanese": "torimasu (yasumi wo~)",
+      "meaning": "mengambil (cuti)"
+    },
+    {
+      "japanese": "ukemasu (shiken wo~)",
+      "meaning": "mengikuti (ujian)"
+    },
+    {
+      "japanese": "moushikomimasu",
+      "meaning": "mendaftar"
+    },
+    {
+      "japanese": "kyuukei shimasu",
+      "meaning": "beristirahat"
+    },
+    {
+      "japanese": "renkyuu",
+      "meaning": "liburan panjang / berturut turut"
+    },
+    {
+      "japanese": "sakubun",
+      "meaning": "karangan"
+    },
+    {
+      "japanese": "happyou (suru)",
+      "meaning": "(mem) presentasi (kan)"
+    },
+    {
+      "japanese": "tenrankai",
+      "meaning": "pameran"
+    },
+    {
+      "japanese": "kekkonshiki",
+      "meaning": "upacara pernikahan"
+    },
+    {
+      "japanese": "osoushiki",
+      "meaning": "upacara kematian"
+    },
+    {
+      "japanese": "~shiki",
+      "meaning": "upacara~"
+    },
+    {
+      "japanese": "honsha",
+      "meaning": "kantor pusat"
+    },
+    {
+      "japanese": "shiten",
+      "meaning": "kantor cabang"
+    },
+    {
+      "japanese": "kyoukai",
+      "meaning": "gereja"
+    },
+    {
+      "japanese": "daigakuin",
+      "meaning": "Program S2, S3"
+    },
+    {
+      "japanese": "doubutsuen",
+      "meaning": "kebun binatang"
+    },
+    {
+      "japanese": "onsen",
+      "meaning": "tempat pemandian air panas"
+    },
+    {
+      "japanese": "kaeri",
+      "meaning": "pulang"
+    },
+    {
+      "japanese": "okosan",
+      "meaning": "anak orang lain"
+    },
+    {
+      "japanese": "~gou",
+      "meaning": "nomor (untuk kereta, angin topan, dan lain-lain)"
+    },
+    {
+      "japanese": "~no hou",
+      "meaning": "sebelah~"
+    },
+    {
+      "japanese": "zutto",
+      "meaning": "seterusnya"
+    }
+  ],
+  "Bab 32": [
+    {
+      "japanese": "undou shimasu",
+      "meaning": "berolahraga"
+    },
+    {
+      "japanese": "seikou shimasu",
+      "meaning": "berhasil"
+    },
+    {
+      "japanese": "shippai shimasu",
+      "meaning": "gagal [ujian]"
+    },
+    {
+      "japanese": "goukaku shimasu",
+      "meaning": "lulus [ujian]"
+    },
+    {
+      "japanese": "yamimasu",
+      "meaning": "[hujan] berhenti"
+    },
+    {
+      "japanese": "haremasu",
+      "meaning": "cerah"
+    },
+    {
+      "japanese": "kumorimasu",
+      "meaning": "mendung"
+    },
+    {
+      "japanese": "tsuzukimasu",
+      "meaning": "[demam] berlangsung / berlanjut"
+    },
+    {
+      "japanese": "hikimasu",
+      "meaning": "masuk [angin]"
+    },
+    {
+      "japanese": "hiyashimasu",
+      "meaning": "mendinginkan (minuman / barang / dst)"
+    },
+    {
+      "japanese": "komimasu",
+      "meaning": "[jalan] macet"
+    },
+    {
+      "japanese": "sukimasu",
+      "meaning": "[jalan] sepi / kosong"
+    },
+    {
+      "japanese": "demasu",
+      "meaning": "mengikuti [pertandingan] / menghadiri [pesta]"
+    },
+    {
+      "japanese": "muri o shimasu",
+      "meaning": "memaksakan diri"
+    },
+    {
+      "japanese": "juubun",
+      "meaning": "dengan cukup"
+    },
+    {
+      "japanese": "okashii",
+      "meaning": "aneh"
+    },
+    {
+      "japanese": "urusai",
+      "meaning": "bising"
+    },
+    {
+      "japanese": "sensei",
+      "meaning": "dokter (panggilan sama seperti memanggil guru)"
+    },
+    {
+      "japanese": "yakedo",
+      "meaning": "luka bakar (~ o shimasu : menderita luka bakar)"
+    },
+    {
+      "japanese": "kega",
+      "meaning": "luka (~ o shimasu : terluka)"
+    },
+    {
+      "japanese": "seki",
+      "meaning": "batuk (~ o shimasu / ~ ga demasu : batuk - batuk)"
+    },
+    {
+      "japanese": "infuruenza",
+      "meaning": "influenza / flu"
+    },
+    {
+      "japanese": "sora",
+      "meaning": "langit"
+    },
+    {
+      "japanese": "taiyou",
+      "meaning": "matahari"
+    },
+    {
+      "japanese": "hoshi",
+      "meaning": "bintang"
+    },
+    {
+      "japanese": "kaze",
+      "meaning": "angin"
+    },
+    {
+      "japanese": "higashi",
+      "meaning": "timur"
+    },
+    {
+      "japanese": "nishi",
+      "meaning": "barat"
+    },
+    {
+      "japanese": "minami",
+      "meaning": "selatan"
+    },
+    {
+      "japanese": "kita",
+      "meaning": "utara"
+    },
+    {
+      "japanese": "kokusai~",
+      "meaning": "internasional ~"
+    },
+    {
+      "japanese": "suidou",
+      "meaning": "air PAM"
+    },
+    {
+      "japanese": "enjin",
+      "meaning": "mesin"
+    },
+    {
+      "japanese": "chiimu",
+      "meaning": "regu"
+    },
+    {
+      "japanese": "konya",
+      "meaning": "nanti malam, malam ini"
+    },
+    {
+      "japanese": "yuugata",
+      "meaning": "sore"
+    },
+    {
+      "japanese": "mae",
+      "meaning": "sebelum"
+    },
+    {
+      "japanese": "osoku",
+      "meaning": "larut malam"
+    },
+    {
+      "japanese": "konna ni",
+      "meaning": "(hal) begini"
+    },
+    {
+      "japanese": "sonna ni",
+      "meaning": "(hal) begitu (mengenai barang atau hal tentang lawan bicara)"
+    },
+    {
+      "japanese": "anna ni",
+      "meaning": "(hal) begitu (mengenai barang atau hal tentang tidak ada hubungan dengan pembicara dan lawan bicara)"
+    },
+    {
+      "japanese": "yooroppa",
+      "meaning": "Eropa"
+    },
+    {
+      "japanese": "hare",
+      "meaning": "cerah"
+    },
+    {
+      "japanese": "kumori",
+      "meaning": "mendung/berawan"
+    },
+    {
+      "japanese": "ame",
+      "meaning": "hujan"
+    },
+    {
+      "japanese": "yuki",
+      "meaning": "salju"
+    },
+    {
+      "japanese": "kaminari",
+      "meaning": "guntur"
+    },
+    {
+      "japanese": "taifuu",
+      "meaning": "angin topan"
+    },
+    {
+      "japanese": "niji",
+      "meaning": "pelangi"
+    },
+    {
+      "japanese": "kaze",
+      "meaning": "angin"
+    },
+    {
+      "japanese": "kumo",
+      "meaning": "awan"
+    }
+  ],
+  "Bab 33": [
+    {
+      "japanese": "nigemasu",
+      "meaning": "melarikan diri"
+    },
+    {
+      "japanese": "sawagimasu",
+      "meaning": "menghebohkan, membuat gaduh"
+    },
+    {
+      "japanese": "akirame masu",
+      "meaning": "putus asa, menyerah"
+    },
+    {
+      "japanese": "nagemasu",
+      "meaning": "melempar"
+    },
+    {
+      "japanese": "mamorimasu",
+      "meaning": "menjaga, melindungi, menaati (peraturan)"
+    },
+    {
+      "japanese": "hajimarimasu",
+      "meaning": "[upacara] dimulai"
+    },
+    {
+      "japanese": "shusseki shimasu",
+      "meaning": "menghadiri [rapat]"
+    },
+    {
+      "japanese": "tsutaemasu",
+      "meaning": "menyampaikan"
+    },
+    {
+      "japanese": "chuui shimasu",
+      "meaning": "berhati-hati [pada mobil]"
+    },
+    {
+      "japanese": "hazushimasu",
+      "meaning": "meninggalkan [tempat]"
+    },
+    {
+      "japanese": "modorimasu",
+      "meaning": "kembali"
+    },
+    {
+      "japanese": "arimasu",
+      "meaning": "ada [telepon]"
+    },
+    {
+      "japanese": "risaikuru shimasu",
+      "meaning": "mendaur ulang"
+    },
+    {
+      "japanese": "dame",
+      "meaning": "tidak baik"
+    },
+    {
+      "japanese": "onaji",
+      "meaning": "sama"
+    },
+    {
+      "japanese": "keisatsu",
+      "meaning": "polisi"
+    },
+    {
+      "japanese": "seki",
+      "meaning": "tempat duduk, kursi"
+    },
+    {
+      "japanese": "maaku",
+      "meaning": "tanda, cap"
+    },
+    {
+      "japanese": "booru",
+      "meaning": "bola"
+    },
+    {
+      "japanese": "shimekiri",
+      "meaning": "batas waktu"
+    },
+    {
+      "japanese": "kisoku",
+      "meaning": "peraturan"
+    },
+    {
+      "japanese": "kiken",
+      "meaning": "bahaya"
+    },
+    {
+      "japanese": "shiyou kinshi",
+      "meaning": "dilarang pakai"
+    },
+    {
+      "japanese": "tachiiri kinshi",
+      "meaning": "dilarang masuk"
+    },
+    {
+      "japanese": "jokou",
+      "meaning": "berjalan perlahan-lahan (untuk kendaraan)"
+    },
+    {
+      "japanese": "iriguchi",
+      "meaning": "pintu masuk"
+    },
+    {
+      "japanese": "deguchi",
+      "meaning": "pintu keluar"
+    },
+    {
+      "japanese": "hijouguchi",
+      "meaning": "pintu darurat"
+    },
+    {
+      "japanese": "muryou",
+      "meaning": "gratis, cuma-cuma"
+    },
+    {
+      "japanese": "waribiki",
+      "meaning": "diskon"
+    },
+    {
+      "japanese": "nomihoudai",
+      "meaning": "minum sepuasnya *tabehoudai - makan sepuasnya"
+    },
+    {
+      "japanese": "shiyouchuu",
+      "meaning": "sedang dipakai"
+    },
+    {
+      "japanese": "boshuuchuu",
+      "meaning": "sedang dicari (sedang recruitment)"
+    },
+    {
+      "japanese": "~chuu",
+      "meaning": "sedang ~"
+    },
+    {
+      "japanese": "dou iu ~",
+      "meaning": "bagaimana ~"
+    },
+    {
+      "japanese": "ikura",
+      "meaning": "bagaimana pun"
+    },
+    {
+      "japanese": "mou",
+      "meaning": "lagi (bisa digunakan bersama dengan bentuk negatif)"
+    },
+    {
+      "japanese": "ato ~ (fun/pun)",
+      "meaning": "sisa ~ (menit)"
+    },
+    {
+      "japanese": "~ hodo",
+      "meaning": "kira-kira ~"
+    },
+    {
+      "japanese": "eigyouchuu",
+      "meaning": "Buka (untuk toko dst)"
+    },
+    {
+      "japanese": "junbichuu",
+      "meaning": "Dalam Persiapan (untuk toko dst)"
+    },
+    {
+      "japanese": "heiten",
+      "meaning": "Tutup (untuk toko dst)"
+    },
+    {
+      "japanese": "teikyoubi",
+      "meaning": "Hari Libur (untuk toko dst)"
+    },
+    {
+      "japanese": "keshoushitsu",
+      "meaning": "Kamar kecil/ Toilet/ WC"
+    },
+    {
+      "japanese": "kin'enseki",
+      "meaning": "Tempat duduk bebas rokok"
+    },
+    {
+      "japanese": "yoyakuseki",
+      "meaning": "Tempat duduk yang telah dibooking"
+    },
+    {
+      "japanese": "hijouguchi",
+      "meaning": "Pintu darurat"
+    },
+    {
+      "japanese": "kakigenkin",
+      "meaning": "Mudah terbakar"
+    },
+    {
+      "japanese": "waremono chuui",
+      "meaning": "Hati-hati barang pecah belah"
+    },
+    {
+      "japanese": "unten shoshinsha chuui",
+      "meaning": "Tanda bagi pengemudi yang baru mendapatkan SIM"
+    },
+    {
+      "japanese": "koujichuu",
+      "meaning": "Sedang konstruksi"
+    },
+    {
+      "japanese": "ensokei hyouhakuzai fuka",
+      "meaning": "Jangan gunakan pemutih"
+    },
+    {
+      "japanese": "tearai",
+      "meaning": "Cuci dengan tangan"
+    },
+    {
+      "japanese": "airon (teion)",
+      "meaning": "Harus disetrika dalam suhu rendah"
+    },
+    {
+      "japanese": "dorai kuriiningu",
+      "meaning": "Hanya untuk di-dry cleaning"
+    }
+  ],
+  "Bab 34": [
+    {
+      "japanese": "migakimasu",
+      "meaning": "menggosok [gigi]"
+    },
+    {
+      "japanese": "kumitatemasu",
+      "meaning": "memasang / merakit"
+    },
+    {
+      "japanese": "orimasu",
+      "meaning": "melipat"
+    },
+    {
+      "japanese": "ki ga tsukimasu",
+      "meaning": "teringat / menyadari [barang ketinggalan]"
+    },
+    {
+      "japanese": "tsukemasu",
+      "meaning": "membubuhkan / menambahkan [kecap asin]"
+    },
+    {
+      "japanese": "mitsukarimasu",
+      "meaning": "[kunci] ditemukan"
+    },
+    {
+      "japanese": "shitsumon shimasu",
+      "meaning": "bertanya"
+    },
+    {
+      "japanese": "sashimasu",
+      "meaning": "memakai / menggunakan [payung]"
+    },
+    {
+      "japanese": "supootsu kurabu",
+      "meaning": "sports club / klub olahraga"
+    },
+    {
+      "japanese": "shiro",
+      "meaning": "istana"
+    },
+    {
+      "japanese": "setsumeisho",
+      "meaning": "buku petunjuk / panduan"
+    },
+    {
+      "japanese": "zu",
+      "meaning": "gambar"
+    },
+    {
+      "japanese": "sen",
+      "meaning": "garis"
+    },
+    {
+      "japanese": "yajirushi",
+      "meaning": "tanda panah"
+    },
+    {
+      "japanese": "kuro",
+      "meaning": "hitam (kata benda)"
+    },
+    {
+      "japanese": "shiro",
+      "meaning": "putih (kata benda)"
+    },
+    {
+      "japanese": "aka",
+      "meaning": "merah (kata benda)"
+    },
+    {
+      "japanese": "ao",
+      "meaning": "biru (kata benda)"
+    },
+    {
+      "japanese": "kon",
+      "meaning": "biru tua (kata benda)"
+    },
+    {
+      "japanese": "kiiro",
+      "meaning": "kuning (kata benda)"
+    },
+    {
+      "japanese": "chairo",
+      "meaning": "coklat (kata benda)"
+    },
+    {
+      "japanese": "shouyu",
+      "meaning": "kecap asin"
+    },
+    {
+      "japanese": "soosu",
+      "meaning": "kecap Inggris"
+    },
+    {
+      "japanese": "okyaku",
+      "meaning": "tamu"
+    },
+    {
+      "japanese": "~ ka ~",
+      "meaning": "~ atau ~"
+    },
+    {
+      "japanese": "yuube",
+      "meaning": "tadi malam"
+    },
+    {
+      "japanese": "sakki",
+      "meaning": "tadi"
+    },
+    {
+      "japanese": "sadou",
+      "meaning": "upacara teh"
+    },
+    {
+      "japanese": "ocha o tatemasu",
+      "meaning": "membuat teh pada upacara minum teh"
+    },
+    {
+      "japanese": "saki ni",
+      "meaning": "duluan"
+    },
+    {
+      "japanese": "nosemasu",
+      "meaning": "memuatkan / memasukkan / menaikkan (ke kendaraan dst)"
+    },
+    {
+      "japanese": "nigai",
+      "meaning": "pahit"
+    },
+    {
+      "japanese": "oyakodonburi",
+      "meaning": "Oyakodonburi (nama menu, daging ayam masak bersama telur dan disiram di atas nasi putih)"
+    },
+    {
+      "japanese": "zairyou",
+      "meaning": "bahan (masakan)"
+    },
+    {
+      "japanese": "~bun",
+      "meaning": "untuk ~ (menyatakan jumlah) porsi"
+    },
+    {
+      "japanese": "~guramu",
+      "meaning": "~ gram"
+    },
+    {
+      "japanese": "~ko",
+      "meaning": "~ buah (Kata Bilangan untuk menghitung benda yang kecil)"
+    },
+    {
+      "japanese": "tamanegi",
+      "meaning": "bawang bombai"
+    },
+    {
+      "japanese": "yonbun no ichi (1/4)",
+      "meaning": "seperempat"
+    },
+    {
+      "japanese": "choumiryou",
+      "meaning": "bumbu"
+    },
+    {
+      "japanese": "nabe",
+      "meaning": "panci"
+    },
+    {
+      "japanese": "hi",
+      "meaning": "api"
+    },
+    {
+      "japanese": "hi ni kakemasu",
+      "meaning": "menyalakan api"
+    },
+    {
+      "japanese": "nimasu",
+      "meaning": "merebus"
+    },
+    {
+      "japanese": "niemasu",
+      "meaning": "telah matang (sudah direbus)"
+    },
+    {
+      "japanese": "donburi",
+      "meaning": "mangkuk"
+    },
+    {
+      "japanese": "niru",
+      "meaning": "merebus"
+    },
+    {
+      "japanese": "yaku",
+      "meaning": "membakar, memanggang"
+    },
+    {
+      "japanese": "ageru",
+      "meaning": "menggoreng"
+    },
+    {
+      "japanese": "itameru",
+      "meaning": "menumis"
+    },
+    {
+      "japanese": "yuderu",
+      "meaning": "memasak, merebus (dengan memasukkan bumbu)"
+    },
+    {
+      "japanese": "musu",
+      "meaning": "mengukus"
+    },
+    {
+      "japanese": "taku",
+      "meaning": "memasak nasi/ menanak nasi"
+    },
+    {
+      "japanese": "muku",
+      "meaning": "mengupas"
+    },
+    {
+      "japanese": "kizamu",
+      "meaning": "mencincang"
+    },
+    {
+      "japanese": "kakimazeru",
+      "meaning": "mengaduk, mencampur"
+    },
+    {
+      "japanese": "shouyu",
+      "meaning": "kecap asin"
+    },
+    {
+      "japanese": "satou",
+      "meaning": "gula"
+    },
+    {
+      "japanese": "shio",
+      "meaning": "garam"
+    },
+    {
+      "japanese": "su",
+      "meaning": "cuka"
+    },
+    {
+      "japanese": "miso",
+      "meaning": "miso, tauco"
+    },
+    {
+      "japanese": "abura",
+      "meaning": "minyak"
+    },
+    {
+      "japanese": "soosu",
+      "meaning": "saus Inggris"
+    },
+    {
+      "japanese": "mayoneezu",
+      "meaning": "mayonese"
+    },
+    {
+      "japanese": "kechappu",
+      "meaning": "saus tomat"
+    },
+    {
+      "japanese": "karashi (masutaado)",
+      "meaning": "mustard"
+    },
+    {
+      "japanese": "koshou",
+      "meaning": "merica"
+    },
+    {
+      "japanese": "tougarashi",
+      "meaning": "cabai"
+    },
+    {
+      "japanese": "shouga",
+      "meaning": "jahe"
+    },
+    {
+      "japanese": "wasabi",
+      "meaning": "wasabi (lobak hijau Jepang)"
+    },
+    {
+      "japanese": "karee",
+      "meaning": "ko = tepung kare"
+    },
+    {
+      "japanese": "nabe",
+      "meaning": "panci"
+    },
+    {
+      "japanese": "yakan",
+      "meaning": "ceret, ketel"
+    },
+    {
+      "japanese": "futa",
+      "meaning": "tutup"
+    },
+    {
+      "japanese": "otama",
+      "meaning": "sendok sayur"
+    },
+    {
+      "japanese": "manaita",
+      "meaning": "talenan"
+    },
+    {
+      "japanese": "houchou",
+      "meaning": "pisau"
+    },
+    {
+      "japanese": "fukin",
+      "meaning": "kain lap"
+    },
+    {
+      "japanese": "furaipan",
+      "meaning": "penggorengan"
+    },
+    {
+      "japanese": "denshi oobunrenji",
+      "meaning": "microwave oven"
+    },
+    {
+      "japanese": "suihanki",
+      "meaning": "rice cooker"
+    },
+    {
+      "japanese": "shamoji",
+      "meaning": "sendok nasi"
+    },
+    {
+      "japanese": "kankiri",
+      "meaning": "pembuka kaleng"
+    },
+    {
+      "japanese": "sennuki",
+      "meaning": "pembuka botol"
+    },
+    {
+      "japanese": "zaru",
+      "meaning": "saringan"
+    },
+    {
+      "japanese": "potto",
+      "meaning": "termos"
+    },
+    {
+      "japanese": "gasudai",
+      "meaning": "kompor gas"
+    },
+    {
+      "japanese": "nagashi",
+      "meaning": "bak cuci piring"
+    },
+    {
+      "japanese": "kankisen",
+      "meaning": "kipas ventilasi"
+    }
+  ],
+  "Bab 35": [
+    {
+      "japanese": "sakimasu",
+      "meaning": "[bunga] mekar"
+    },
+    {
+      "japanese": "kawarimasu",
+      "meaning": "[warna] berubah"
+    },
+    {
+      "japanese": "komarimasu",
+      "meaning": "repot / kerepotan"
+    },
+    {
+      "japanese": "tsukemasu",
+      "meaning": "memberikan / memasukkan / menuliskan [tanda (benar)]"
+    },
+    {
+      "japanese": "naorimasu",
+      "meaning": "[penyakit] sembuh / [kerusakan] jadi benar"
+    },
+    {
+      "japanese": "kurikku shimasu",
+      "meaning": "klik"
+    },
+    {
+      "japanese": "nyuuryoku shimasu",
+      "meaning": "mengisi (dokumen, surat dst)"
+    },
+    {
+      "japanese": "tadashii",
+      "meaning": "benar"
+    },
+    {
+      "japanese": "mukou",
+      "meaning": "(di) sana, seberang"
+    },
+    {
+      "japanese": "shima",
+      "meaning": "pulau"
+    },
+    {
+      "japanese": "minato",
+      "meaning": "pelabuhan"
+    },
+    {
+      "japanese": "kinjo",
+      "meaning": "tetangga"
+    },
+    {
+      "japanese": "okujou",
+      "meaning": "lantai paling atas tanpa ada genteng dan sebagainya (kalo bingung bisa search di google ya)"
+    },
+    {
+      "japanese": "kaigai",
+      "meaning": "luar negeri"
+    },
+    {
+      "japanese": "yamanobori",
+      "meaning": "mendaki gunung"
+    },
+    {
+      "japanese": "rekishi",
+      "meaning": "sejarah"
+    },
+    {
+      "japanese": "kikai",
+      "meaning": "kesempatan"
+    },
+    {
+      "japanese": "kyoka",
+      "meaning": "izin"
+    },
+    {
+      "japanese": "maru",
+      "meaning": "bulat"
+    },
+    {
+      "japanese": "furigana",
+      "meaning": "cara baca kanji (biasa nya diletakkan / ada di atas tulisan kanji)"
+    },
+    {
+      "japanese": "setsubi",
+      "meaning": "fasilitas"
+    },
+    {
+      "japanese": "rebaa",
+      "meaning": "tuas"
+    },
+    {
+      "japanese": "kii",
+      "meaning": "keyboard, tombol"
+    },
+    {
+      "japanese": "kaaten",
+      "meaning": "gorden, tirai"
+    },
+    {
+      "japanese": "himo",
+      "meaning": "tali"
+    },
+    {
+      "japanese": "suihanki",
+      "meaning": "rice cooker"
+    },
+    {
+      "japanese": "ha",
+      "meaning": "daun"
+    },
+    {
+      "japanese": "mukashi",
+      "meaning": "dulu"
+    },
+    {
+      "japanese": "motto",
+      "meaning": "lebih"
+    },
+    {
+      "japanese": "kore de owarimashou.",
+      "meaning": "Mari kita selesai sampai di sini."
+    }
+  ],
+  "Bab 36": [
+    {
+      "japanese": "aimasu",
+      "meaning": "tertimpa [kecelakaan]"
+    },
+    {
+      "japanese": "chokin shimasu",
+      "meaning": "menabung"
+    },
+    {
+      "japanese": "sugimasu",
+      "meaning": "lewat [pukul tujuh]"
+    },
+    {
+      "japanese": "naremasu",
+      "meaning": "terbiasa [dengan tugas]"
+    },
+    {
+      "japanese": "kusarimasu",
+      "meaning": "[makanan] (menjadi) busuk"
+    },
+    {
+      "japanese": "kendou",
+      "meaning": "kendo (anggar gaya Jepang)"
+    },
+    {
+      "japanese": "juudou",
+      "meaning": "judo"
+    },
+    {
+      "japanese": "rasshu",
+      "meaning": "keramaian, kesibukan ＊ラッシュアワー = jam sibuk"
+    },
+    {
+      "japanese": "uchuu",
+      "meaning": "luar angkasa"
+    },
+    {
+      "japanese": "kyoku",
+      "meaning": "musik"
+    },
+    {
+      "japanese": "maishuu",
+      "meaning": "setiap minggu"
+    },
+    {
+      "japanese": "maitsuki",
+      "meaning": "setiap bulan"
+    },
+    {
+      "japanese": "maitoshi (mainen)",
+      "meaning": "setiap tahun"
+    },
+    {
+      "japanese": "konogoro",
+      "meaning": "akhir-akhir ini"
+    },
+    {
+      "japanese": "yatto",
+      "meaning": "akhirnya"
+    },
+    {
+      "japanese": "kanari",
+      "meaning": "cukup"
+    },
+    {
+      "japanese": "kanarazu",
+      "meaning": "pasti"
+    },
+    {
+      "japanese": "zettai ni",
+      "meaning": "pasti (kurang lebih sama aja sama ‘kanarazu’)"
+    },
+    {
+      "japanese": "jouzu ni",
+      "meaning": "dengan pandai"
+    },
+    {
+      "japanese": "dekiru dake",
+      "meaning": "sedapat mungkin / sebisa mungkin / semaksimalnya"
+    },
+    {
+      "japanese": "hotondo",
+      "meaning": "sebagian besar"
+    },
+    {
+      "japanese": "Shopan",
+      "meaning": "Chopin, musisi Polandia (1810-1849)"
+    },
+    {
+      "japanese": "norimono",
+      "meaning": "kendaraan"
+    },
+    {
+      "japanese": "～seiki",
+      "meaning": "abad ke ～"
+    },
+    {
+      "japanese": "tooku",
+      "meaning": "jauh (lawan nya ちかく）"
+    },
+    {
+      "japanese": "mezurashii",
+      "meaning": "langka / jarang-jarang"
+    },
+    {
+      "japanese": "kisha",
+      "meaning": "kereta api (pakai batu bara)"
+    },
+    {
+      "japanese": "kisen",
+      "meaning": "kapal api (pakai batu bara)"
+    },
+    {
+      "japanese": "oozei no ~(ひと）",
+      "meaning": "banyak ~ (orang)"
+    },
+    {
+      "japanese": "hakobimasu",
+      "meaning": "mengangkut"
+    },
+    {
+      "japanese": "riyou shimasu",
+      "meaning": "menggunakan (sama dengan つかいます)"
+    },
+    {
+      "japanese": "jiyuu ni",
+      "meaning": "dengan bebas"
+    }
+  ],
+  "Bab 37": [
+    {
+      "japanese": "homemasu",
+      "meaning": "memuji"
+    },
+    {
+      "japanese": "shikarimasu",
+      "meaning": "memarahi"
+    },
+    {
+      "japanese": "sasoimasu",
+      "meaning": "mengajak"
+    },
+    {
+      "japanese": "shoutai shimasu",
+      "meaning": "mengundang"
+    },
+    {
+      "japanese": "tanomimasu",
+      "meaning": "meminta tolong / bantuan"
+    },
+    {
+      "japanese": "chuui shimasu",
+      "meaning": "menasihati / memberi peringatan"
+    },
+    {
+      "japanese": "torimasu",
+      "meaning": "mengambil / mencuri / mencopet"
+    },
+    {
+      "japanese": "fumimasu",
+      "meaning": "menginjak"
+    },
+    {
+      "japanese": "kowashimasu",
+      "meaning": "merusak"
+    },
+    {
+      "japanese": "yogoshimasu",
+      "meaning": "mengotori"
+    },
+    {
+      "japanese": "okonaimasu",
+      "meaning": "mengadakan"
+    },
+    {
+      "japanese": "yushutsu shimasu",
+      "meaning": "mengekspor"
+    },
+    {
+      "japanese": "yunyuu shimasu",
+      "meaning": "mengimpor"
+    },
+    {
+      "japanese": "honyaku shimasu",
+      "meaning": "menerjemahkan (tulisan)"
+    },
+    {
+      "japanese": "tsuuyaku shimasu",
+      "meaning": "menerjemahkan (lisan)"
+    },
+    {
+      "japanese": "hatsumei shimasu",
+      "meaning": "menciptakan"
+    },
+    {
+      "japanese": "hakken shimasu",
+      "meaning": "menemukan"
+    },
+    {
+      "japanese": "kome",
+      "meaning": "beras"
+    },
+    {
+      "japanese": "mugi",
+      "meaning": "gandum"
+    },
+    {
+      "japanese": "sekiyu",
+      "meaning": "minyak tanah"
+    },
+    {
+      "japanese": "genryou",
+      "meaning": "bahan baku"
+    },
+    {
+      "japanese": "insutanto raamen",
+      "meaning": "mie instan"
+    },
+    {
+      "japanese": "deeto",
+      "meaning": "kencan"
+    },
+    {
+      "japanese": "dorobou",
+      "meaning": "pencuri"
+    },
+    {
+      "japanese": "keikan",
+      "meaning": "polisi"
+    },
+    {
+      "japanese": "sekaijuu",
+      "meaning": "seluruh dunia"
+    },
+    {
+      "japanese": "~juu",
+      "meaning": "seluruh ~"
+    },
+    {
+      "japanese": "~seiki",
+      "meaning": "abad ke ~"
+    },
+    {
+      "japanese": "nanigo",
+      "meaning": "bahasa apa"
+    },
+    {
+      "japanese": "dareka",
+      "meaning": "siapa"
+    },
+    {
+      "japanese": "gouka",
+      "meaning": "mewah"
+    },
+    {
+      "japanese": "choukoku",
+      "meaning": "ukiran, pahatan"
+    },
+    {
+      "japanese": "iitsutae",
+      "meaning": "tradisi"
+    },
+    {
+      "japanese": "nemurimasu",
+      "meaning": "tidur"
+    },
+    {
+      "japanese": "horimasu",
+      "meaning": "mengukir, memahat"
+    },
+    {
+      "japanese": "nakama",
+      "meaning": "teman / satu geng dst"
+    },
+    {
+      "japanese": "shikashi",
+      "meaning": "tetapi"
+    },
+    {
+      "japanese": "sono ato",
+      "meaning": "setelah itu, sesudah itu"
+    },
+    {
+      "japanese": "isshoukenmei",
+      "meaning": "sungguh-sungguh"
+    },
+    {
+      "japanese": "nezumi",
+      "meaning": "tikus"
+    },
+    {
+      "japanese": "korosu",
+      "meaning": "membunuh"
+    },
+    {
+      "japanese": "utsu",
+      "meaning": "menembak"
+    },
+    {
+      "japanese": "sasu",
+      "meaning": "menikam"
+    },
+    {
+      "japanese": "kamu",
+      "meaning": "menggigit"
+    },
+    {
+      "japanese": "hiku",
+      "meaning": "melindas"
+    },
+    {
+      "japanese": "haneru",
+      "meaning": "menabrak (orang atau benda)"
+    },
+    {
+      "japanese": "shoutotsu suru",
+      "meaning": "menabrak (saling menabrak)"
+    },
+    {
+      "japanese": "tsuitotsu suru",
+      "meaning": "menabrak dari belakang"
+    },
+    {
+      "japanese": "nusumu",
+      "meaning": "mencuri"
+    },
+    {
+      "japanese": "yuukai suru",
+      "meaning": "menculik"
+    },
+    {
+      "japanese": "haijakku suru",
+      "meaning": "membajak"
+    },
+    {
+      "japanese": "tsuiraku suru",
+      "meaning": "jatuh (dari ketinggian secara cepat misal pesawat jatuh dst)"
+    },
+    {
+      "japanese": "hakobu",
+      "meaning": "mengangkut"
+    },
+    {
+      "japanese": "tasukeru",
+      "meaning": "membantu"
+    },
+    {
+      "japanese": "bakuhatsu suru",
+      "meaning": "meledak"
+    },
+    {
+      "japanese": "chinbutsu suru",
+      "meaning": "karam / tenggelam (kapal dst)"
+    }
+  ],
+  "Bab 38": [
+    {
+      "japanese": "さんかします",
+      "meaning": "mengikuti［tamasya］"
+    },
+    {
+      "japanese": "そだてます",
+      "meaning": "membesarkan (anak)"
+    },
+    {
+      "japanese": "はこびます",
+      "meaning": "mengangkut/mengangkat"
+    },
+    {
+      "japanese": "にゅういんします",
+      "meaning": "masuk RS / opname"
+    },
+    {
+      "japanese": "たいいんします",
+      "meaning": "Keluar RS / selesai opname"
+    },
+    {
+      "japanese": "いれます",
+      "meaning": "memasukkan / menghidupkan［power supply］"
+    },
+    {
+      "japanese": "きります",
+      "meaning": "memutuskan / mematikan［power supply］"
+    },
+    {
+      "japanese": "かけます",
+      "meaning": "mengunci"
+    },
+    {
+      "japanese": "うそをつきます",
+      "meaning": "berbohong"
+    },
+    {
+      "japanese": "きもちがいい",
+      "meaning": "perasaan / rasanya enak"
+    },
+    {
+      "japanese": "きもちがわるい",
+      "meaning": "perasaan / rasanya tidak enak"
+    },
+    {
+      "japanese": "おおきな",
+      "meaning": "besar 〜"
+    },
+    {
+      "japanese": "ちいさな",
+      "meaning": "kecil 〜"
+    },
+    {
+      "japanese": "あかちゃん",
+      "meaning": "bayi"
+    },
+    {
+      "japanese": "しょうがっこう",
+      "meaning": "SD"
+    },
+    {
+      "japanese": "ちゅうがっこう",
+      "meaning": "SMP"
+    },
+    {
+      "japanese": "えきまえ",
+      "meaning": "depan stasiun"
+    },
+    {
+      "japanese": "かいがん",
+      "meaning": "pantai laut"
+    },
+    {
+      "japanese": "こうじょう",
+      "meaning": "pabrik"
+    },
+    {
+      "japanese": "むら",
+      "meaning": "desa, kampung (さとう・いなか / punya kesan kampung halaman)"
+    },
+    {
+      "japanese": "かな",
+      "meaning": "huruf Hiragana, huruf Katakana"
+    },
+    {
+      "japanese": "ゆびわ",
+      "meaning": "cincin"
+    },
+    {
+      "japanese": "でんげん",
+      "meaning": "power supply"
+    },
+    {
+      "japanese": "しゅうかん",
+      "meaning": "kebiasaan"
+    },
+    {
+      "japanese": "けんこう",
+      "meaning": "kesehatan"
+    },
+    {
+      "japanese": "せい",
+      "meaning": "buatan 〜"
+    },
+    {
+      "japanese": "おととし",
+      "meaning": "dua tahun yang lalu"
+    },
+    {
+      "japanese": "せいりします",
+      "meaning": "mengatur / merapikan"
+    },
+    {
+      "japanese": "けんきゅうしつ",
+      "meaning": "labolatorium/ruang dosen"
+    },
+    {
+      "japanese": "ほうほう",
+      "meaning": "cara"
+    },
+    {
+      "japanese": "おします",
+      "meaning": "mengecap (hangko)"
+    },
+    {
+      "japanese": "にています",
+      "meaning": "mirip"
+    },
+    {
+      "japanese": "せいかく",
+      "meaning": "sifat / kepribadian"
+    },
+    {
+      "japanese": "おとなしい",
+      "meaning": "pendiam"
+    },
+    {
+      "japanese": "やさしい",
+      "meaning": "baik hati"
+    },
+    {
+      "japanese": "せわをします (こどもを～）",
+      "meaning": "merawat (anak)"
+    },
+    {
+      "japanese": "じかんがたちます",
+      "meaning": "waktu berlalu"
+    },
+    {
+      "japanese": "だいすき",
+      "meaning": "suka sekali"
+    },
+    {
+      "japanese": "いってん",
+      "meaning": "ー point"
+    },
+    {
+      "japanese": "きがつよい",
+      "meaning": "tangguh, selalu semangat"
+    },
+    {
+      "japanese": "けんかします",
+      "meaning": "bertengkar"
+    },
+    {
+      "japanese": "ふしぎ",
+      "meaning": "aneh (tidak biasa)"
+    },
+    {
+      "japanese": "ねんれい",
+      "meaning": "usia, umur"
+    },
+    {
+      "japanese": "~しかた",
+      "meaning": "cara"
+    },
+    {
+      "japanese": "おく",
+      "meaning": "bagian dalam"
+    },
+    {
+      "japanese": "よこ・そば・となり",
+      "meaning": "Sebelah"
+    },
+    {
+      "japanese": "てまえ",
+      "meaning": "bagian depan"
+    },
+    {
+      "japanese": "すみ",
+      "meaning": "pojok/sudut"
+    },
+    {
+      "japanese": "まわり",
+      "meaning": "sekitar"
+    },
+    {
+      "japanese": "まんなか",
+      "meaning": "tengah"
+    },
+    {
+      "japanese": "ななめまえ",
+      "meaning": "bagian serong depan"
+    },
+    {
+      "japanese": "ななめうしろ",
+      "meaning": "bagian serong belakang"
+    }
+  ],
+  "Bab 39": [
+    {
+      "japanese": "こたえます",
+      "meaning": "menjawab［pada pertanyaan］"
+    },
+    {
+      "japanese": "たおれます",
+      "meaning": "［bangunan］roboh"
+    },
+    {
+      "japanese": "とおります",
+      "meaning": "lewat, melalui［jalan］"
+    },
+    {
+      "japanese": "しにます",
+      "meaning": "meninggal dunia"
+    },
+    {
+      "japanese": "びっくりします",
+      "meaning": "kaget"
+    },
+    {
+      "japanese": "がっかりします",
+      "meaning": "keccewa"
+    },
+    {
+      "japanese": "あんしんします",
+      "meaning": "lega/tenang"
+    },
+    {
+      "japanese": "けんかします",
+      "meaning": "bertengkar"
+    },
+    {
+      "japanese": "りこんします",
+      "meaning": "bercerai"
+    },
+    {
+      "japanese": "ふとります",
+      "meaning": "menjadi gemuk"
+    },
+    {
+      "japanese": "やせます*",
+      "meaning": "menjadi kurus"
+    },
+    {
+      "japanese": "ふくざつ",
+      "meaning": "rumit / ngejelimet (ya begitulah)"
+    },
+    {
+      "japanese": "じゃま",
+      "meaning": "ganggu/ngalangin"
+    },
+    {
+      "japanese": "かたい",
+      "meaning": "keras"
+    },
+    {
+      "japanese": "やわらかい*",
+      "meaning": "lembut"
+    },
+    {
+      "japanese": "きたない",
+      "meaning": "kotor"
+    },
+    {
+      "japanese": "うれしい",
+      "meaning": "senang"
+    },
+    {
+      "japanese": "かなしい",
+      "meaning": "sedih"
+    },
+    {
+      "japanese": "はずかしい",
+      "meaning": "malu"
+    },
+    {
+      "japanese": "しゅしょう",
+      "meaning": "perdana menteri"
+    },
+    {
+      "japanese": "じしん",
+      "meaning": "gempa bumi"
+    },
+    {
+      "japanese": "つなみ",
+      "meaning": "tsunami"
+    },
+    {
+      "japanese": "たいふう",
+      "meaning": "angin topan"
+    },
+    {
+      "japanese": "かみなり",
+      "meaning": "petir"
+    },
+    {
+      "japanese": "かじ",
+      "meaning": "kebakaran"
+    },
+    {
+      "japanese": "じこ",
+      "meaning": "kecelakaan"
+    },
+    {
+      "japanese": "ハイキング",
+      "meaning": "hiking"
+    },
+    {
+      "japanese": "みあい",
+      "meaning": "perjodohan/blind date"
+    },
+    {
+      "japanese": "そうさします",
+      "meaning": "mengoperasikan"
+    },
+    {
+      "japanese": "かいじょう",
+      "meaning": "venue (tempat acara)"
+    },
+    {
+      "japanese": "だい",
+      "meaning": "biaya 〜"
+    },
+    {
+      "japanese": "や",
+      "meaning": "toko 〜"
+    },
+    {
+      "japanese": "フロント",
+      "meaning": "front desk・office / resepsionis"
+    },
+    {
+      "japanese": "ーごうしつ",
+      "meaning": "kamar nomor ー"
+    },
+    {
+      "japanese": "タオル",
+      "meaning": "handuk"
+    },
+    {
+      "japanese": "せっけん",
+      "meaning": "sabun mandi"
+    },
+    {
+      "japanese": "おおぜい",
+      "meaning": "banyak (orang)"
+    },
+    {
+      "japanese": "おつかれさまでした。",
+      "meaning": "Terima kasih atas kerja samanya. (setelah selesai bekerja)"
+    },
+    {
+      "japanese": "うかがいます。",
+      "meaning": "pergi (lebih sopan dari いきます)"
+    },
+    {
+      "japanese": "とちゅうで",
+      "meaning": "di tengah-tengah/selama (perjalanan/kegiatan)"
+    },
+    {
+      "japanese": "トラック",
+      "meaning": "truk"
+    },
+    {
+      "japanese": "ぶつかります",
+      "meaning": "menabrak"
+    },
+    {
+      "japanese": "おとな",
+      "meaning": "orang dewasa"
+    },
+    {
+      "japanese": "しかし",
+      "meaning": "tetapi"
+    },
+    {
+      "japanese": "また",
+      "meaning": "dan/lalu"
+    },
+    {
+      "japanese": "ようふく",
+      "meaning": "baju ala barat (amerika)"
+    },
+    {
+      "japanese": "あいます・にあいます",
+      "meaning": "cocok"
+    },
+    {
+      "japanese": "せいじんしき",
+      "meaning": "upacara pendewasaan"
+    },
+    {
+      "japanese": "でんとうてき",
+      "meaning": "secara tradisional"
+    },
+    {
+      "japanese": "うれしい",
+      "meaning": "senang"
+    },
+    {
+      "japanese": "たのしい",
+      "meaning": "senang"
+    },
+    {
+      "japanese": "さびしい",
+      "meaning": "sepi"
+    },
+    {
+      "japanese": "かなしい",
+      "meaning": "sedih"
+    },
+    {
+      "japanese": "おもしろい",
+      "meaning": "menarik"
+    },
+    {
+      "japanese": "うらやましい",
+      "meaning": "iri hati"
+    },
+    {
+      "japanese": "はずかしい",
+      "meaning": "malu"
+    },
+    {
+      "japanese": "なつかしい",
+      "meaning": "perasaan pas keinget kenangan lama"
+    },
+    {
+      "japanese": "びっくりする",
+      "meaning": "kaget"
+    },
+    {
+      "japanese": "がっかりする",
+      "meaning": "kecewa"
+    },
+    {
+      "japanese": "うっとりする",
+      "meaning": "terpesona"
+    },
+    {
+      "japanese": "いらいらする",
+      "meaning": "jengkel/marah/sebel"
+    },
+    {
+      "japanese": "どきどきする",
+      "meaning": "deg deg an"
+    },
+    {
+      "japanese": "はらはらする",
+      "meaning": "merasa tidak nyaman・khawatir"
+    },
+    {
+      "japanese": "わくわくする",
+      "meaning": "tidak sabar ingin melakukan sesuatu atau semangat pake bangeet"
+    }
+  ],
+  "bab 40": [
+    {
+      "japanese": "かぞえます",
+      "meaning": "menghitung"
+    },
+    {
+      "japanese": "はかります",
+      "meaning": "mengukur, menimbang"
+    },
+    {
+      "japanese": "たしかめます",
+      "meaning": "mengecek"
+    },
+    {
+      "japanese": "あいます",
+      "meaning": "cocok［ukurannya］"
+    },
+    {
+      "japanese": "しゅっぱつします*",
+      "meaning": "berangkat"
+    },
+    {
+      "japanese": "とうちゃくします",
+      "meaning": "tiba"
+    },
+    {
+      "japanese": "よいます",
+      "meaning": "mabuk"
+    },
+    {
+      "japanese": "うまくいきます",
+      "meaning": "berhasil dengan baik"
+    },
+    {
+      "japanese": "でます",
+      "meaning": "diberikan［soal di ujian］"
+    },
+    {
+      "japanese": "そうだんします",
+      "meaning": "berkonsultasi"
+    },
+    {
+      "japanese": "ひつよう",
+      "meaning": "perlu"
+    },
+    {
+      "japanese": "てんきよほう",
+      "meaning": "prakiraan cuaca"
+    },
+    {
+      "japanese": "ぼうねんかい",
+      "meaning": "pesta akhir tahun"
+    },
+    {
+      "japanese": "しんねんかい*",
+      "meaning": "pesta tahun baru"
+    },
+    {
+      "japanese": "にじかい",
+      "meaning": "pesta untuk kedua kalinya"
+    },
+    {
+      "japanese": "はっぴょうかい",
+      "meaning": "mempresentasi"
+    },
+    {
+      "japanese": "たいかい",
+      "meaning": "lomba"
+    },
+    {
+      "japanese": "マラソン",
+      "meaning": "maraton"
+    },
+    {
+      "japanese": "コンテスト",
+      "meaning": "pertandingan"
+    },
+    {
+      "japanese": "おもて",
+      "meaning": "muka"
+    },
+    {
+      "japanese": "うら*",
+      "meaning": "belakang"
+    },
+    {
+      "japanese": "まちがい",
+      "meaning": "kesalahan"
+    },
+    {
+      "japanese": "きず",
+      "meaning": "cacat, luka"
+    },
+    {
+      "japanese": "ズボン",
+      "meaning": "celana"
+    },
+    {
+      "japanese": "としより",
+      "meaning": "orang lanjut usia"
+    },
+    {
+      "japanese": "ながさ*",
+      "meaning": "panjangnya"
+    },
+    {
+      "japanese": "おもさ",
+      "meaning": "beratnya"
+    },
+    {
+      "japanese": "たかさ",
+      "meaning": "tingginya"
+    },
+    {
+      "japanese": "おおきさ*",
+      "meaning": "besarnya"
+    },
+    {
+      "japanese": "せいせき",
+      "meaning": "nilai"
+    },
+    {
+      "japanese": "ところで",
+      "meaning": "ngomong - ngomong / btw"
+    },
+    {
+      "japanese": "ようす",
+      "meaning": "kondisi, suasana"
+    },
+    {
+      "japanese": "じけん",
+      "meaning": "kejadian"
+    },
+    {
+      "japanese": "オートバイ",
+      "meaning": "sepeda motor"
+    },
+    {
+      "japanese": "ばくだん",
+      "meaning": "bom"
+    },
+    {
+      "japanese": "つみます",
+      "meaning": "memuatkan"
+    },
+    {
+      "japanese": "うんてんしゅ",
+      "meaning": "sopir"
+    },
+    {
+      "japanese": "はなれた",
+      "meaning": "terpisah"
+    },
+    {
+      "japanese": "きゅうに",
+      "meaning": "mendadak, tiba - tiba"
+    },
+    {
+      "japanese": "うごかします",
+      "meaning": "menggerakkan"
+    },
+    {
+      "japanese": "いっしょうけんめい",
+      "meaning": "bersungguh sungguh"
+    },
+    {
+      "japanese": "はんにん",
+      "meaning": "pelaku"
+    },
+    {
+      "japanese": "おとこ",
+      "meaning": "laki  laki"
+    },
+    {
+      "japanese": "てに入れます",
+      "meaning": "mendapatkan"
+    },
+    {
+      "japanese": "いまでも",
+      "meaning": "sampai sekarang"
+    },
+    {
+      "japanese": "ミリ",
+      "meaning": "milimeter"
+    },
+    {
+      "japanese": "センチ",
+      "meaning": "sentimeter"
+    },
+    {
+      "japanese": "メートル",
+      "meaning": "meter"
+    },
+    {
+      "japanese": "キロ",
+      "meaning": "kilometer"
+    },
+    {
+      "japanese": "ミリグラム",
+      "meaning": "miligram"
+    },
+    {
+      "japanese": "グラム",
+      "meaning": "gram"
+    },
+    {
+      "japanese": "キロ",
+      "meaning": "kilogram"
+    },
+    {
+      "japanese": "たす",
+      "meaning": "tambah"
+    },
+    {
+      "japanese": "ひく",
+      "meaning": "kurang"
+    },
+    {
+      "japanese": "かける",
+      "meaning": "kali"
+    },
+    {
+      "japanese": "わる",
+      "meaning": "bagi"
+    },
+    {
+      "japanese": "は（イコール）",
+      "meaning": "sama dengan"
+    },
+    {
+      "japanese": "ちょくせん",
+      "meaning": "garis lurus"
+    },
+    {
+      "japanese": "えん（まる）",
+      "meaning": "bulat"
+    },
+    {
+      "japanese": "さんかく",
+      "meaning": "［bentuk］segi tiga"
+    },
+    {
+      "japanese": "しかく",
+      "meaning": "［bentuk］segi empat"
+    }
+  ],
+  "Bab 41": [
+    {
+      "japanese": "いただきます",
+      "meaning": "lebih sopan dariくれます"
+    },
+    {
+      "japanese": "くださいます",
+      "meaning": "lebih sopan dari もらいます"
+    },
+    {
+      "japanese": "やります",
+      "meaning": "lebih tidak sopan dari あげます"
+    },
+    {
+      "japanese": "あげます",
+      "meaning": "menaikkan"
+    },
+    {
+      "japanese": "さげます*",
+      "meaning": "menurunkan"
+    },
+    {
+      "japanese": "しんせつにします",
+      "meaning": "berbaik hati (memperlakukan dengan baik)"
+    },
+    {
+      "japanese": "かわいい",
+      "meaning": "lucu"
+    },
+    {
+      "japanese": "めずらしい",
+      "meaning": "langka/tidak biasa"
+    },
+    {
+      "japanese": "おいわい",
+      "meaning": "perayaan, hadiah (〜を します : merayakan)"
+    },
+    {
+      "japanese": "おとしだま",
+      "meaning": "otoshidama (angpao)"
+    },
+    {
+      "japanese": "みまい",
+      "meaning": "pembesukan (membesuk orang sakit)"
+    },
+    {
+      "japanese": "きょうみ",
+      "meaning": "minat (〜が あります )"
+    },
+    {
+      "japanese": "じょうほう",
+      "meaning": "informasi"
+    },
+    {
+      "japanese": "ぶんぽう",
+      "meaning": "tata bahasa"
+    },
+    {
+      "japanese": "はつおん",
+      "meaning": "pengucapan"
+    },
+    {
+      "japanese": "さる",
+      "meaning": "monyet"
+    },
+    {
+      "japanese": "えさ",
+      "meaning": "makanan hewan / pakan"
+    },
+    {
+      "japanese": "おもちゃ",
+      "meaning": "mainan anak"
+    },
+    {
+      "japanese": "えほん",
+      "meaning": "buku bergambar"
+    },
+    {
+      "japanese": "えはがき",
+      "meaning": "kartu pos bergambar"
+    },
+    {
+      "japanese": "ドライバー",
+      "meaning": "obeng"
+    },
+    {
+      "japanese": "ハンカチ",
+      "meaning": "sapu tangan"
+    },
+    {
+      "japanese": "くつした",
+      "meaning": "kaus kaki"
+    },
+    {
+      "japanese": "てぶくろ",
+      "meaning": "sarung tangan"
+    },
+    {
+      "japanese": "ようちえん",
+      "meaning": "TK"
+    },
+    {
+      "japanese": "だんぼう",
+      "meaning": "mode pemanas di AC"
+    },
+    {
+      "japanese": "れいぼう*",
+      "meaning": "mode pendingin"
+    },
+    {
+      "japanese": "おんど",
+      "meaning": "suhu"
+    },
+    {
+      "japanese": "そふ*",
+      "meaning": "kakek"
+    },
+    {
+      "japanese": "そぼ",
+      "meaning": "nenek"
+    },
+    {
+      "japanese": "まご",
+      "meaning": "cucu"
+    },
+    {
+      "japanese": "おまごさん",
+      "meaning": "cucu (untuk orang lain)"
+    },
+    {
+      "japanese": "おじ*",
+      "meaning": "om/paman"
+    },
+    {
+      "japanese": "おじさん*",
+      "meaning": "om/paman (untuk orang lain)"
+    },
+    {
+      "japanese": "おば",
+      "meaning": "tante"
+    },
+    {
+      "japanese": "おばさん*",
+      "meaning": "tante (untuk orang lain)"
+    },
+    {
+      "japanese": "かんりにん",
+      "meaning": "penjaga (contoh: penjaga apartmen)"
+    },
+    {
+      "japanese": "このあいだ",
+      "meaning": "beberapa saat lalu"
+    },
+    {
+      "japanese": "ひとこと",
+      "meaning": "sepatah kata"
+    },
+    {
+      "japanese": "おたく",
+      "meaning": "rumah (Kata Hormat dari うち atau いえ)"
+    },
+    {
+      "japanese": "いじめます",
+      "meaning": "membully"
+    },
+    {
+      "japanese": "かめ",
+      "meaning": "kura kura"
+    },
+    {
+      "japanese": "たすけます",
+      "meaning": "membantu, menolong"
+    },
+    {
+      "japanese": "やさしい",
+      "meaning": "baik hati"
+    },
+    {
+      "japanese": "おひめさま",
+      "meaning": "tuan putri"
+    },
+    {
+      "japanese": "くらします",
+      "meaning": "hidup (mirip dengan すんでいます）"
+    },
+    {
+      "japanese": "りく",
+      "meaning": "daratan"
+    },
+    {
+      "japanese": "けむり",
+      "meaning": "asap"
+    },
+    {
+      "japanese": "まっしろ",
+      "meaning": "putih"
+    },
+    {
+      "japanese": "なかみ",
+      "meaning": "isi (bagian isi)"
+    }
+  ],
+  "Bab 42": [
+    {
+      "japanese": "つつみます",
+      "meaning": "membungkus"
+    },
+    {
+      "japanese": "わかします",
+      "meaning": "mendidihkan"
+    },
+    {
+      "japanese": "まぜます",
+      "meaning": "mencampur"
+    },
+    {
+      "japanese": "けいさんします",
+      "meaning": "menghitung"
+    },
+    {
+      "japanese": "ならびます",
+      "meaning": "berbaris"
+    },
+    {
+      "japanese": "じょうぶ",
+      "meaning": "kuat (benda)"
+    },
+    {
+      "japanese": "アパート",
+      "meaning": "apartmen"
+    },
+    {
+      "japanese": "べんごし",
+      "meaning": "pengacara"
+    },
+    {
+      "japanese": "おんがくか",
+      "meaning": "musisi"
+    },
+    {
+      "japanese": "こどもたち",
+      "meaning": "anak-anak"
+    },
+    {
+      "japanese": "しぜん",
+      "meaning": "alam/alami"
+    },
+    {
+      "japanese": "きょういく",
+      "meaning": "pendidikan"
+    },
+    {
+      "japanese": "ぶんか",
+      "meaning": "budaya"
+    },
+    {
+      "japanese": "しゃかい",
+      "meaning": "masyarakat"
+    },
+    {
+      "japanese": "せいじ",
+      "meaning": "politik"
+    },
+    {
+      "japanese": "ほうりつ",
+      "meaning": "hukum"
+    },
+    {
+      "japanese": "せんそう*",
+      "meaning": "perang"
+    },
+    {
+      "japanese": "へいわ",
+      "meaning": "damai, perdamaian"
+    },
+    {
+      "japanese": "もくてき",
+      "meaning": "tujuan"
+    },
+    {
+      "japanese": "ろんぶん",
+      "meaning": "skripsi"
+    },
+    {
+      "japanese": "たのしみ",
+      "meaning": "kesenangan/menantikan"
+    },
+    {
+      "japanese": "ミキサー",
+      "meaning": "mixer"
+    },
+    {
+      "japanese": "やかん",
+      "meaning": "ceret, ketel"
+    },
+    {
+      "japanese": "ふた",
+      "meaning": "tutup"
+    },
+    {
+      "japanese": "せんぬき",
+      "meaning": "pembuka botol"
+    },
+    {
+      "japanese": "かんきり",
+      "meaning": "pembuka kaleng"
+    },
+    {
+      "japanese": "かんづめ",
+      "meaning": "makanan kaleng"
+    },
+    {
+      "japanese": "のしぶくろ",
+      "meaning": "amplop uang"
+    },
+    {
+      "japanese": "ふろしき",
+      "meaning": "kain untuk membungkus barang"
+    },
+    {
+      "japanese": "そろばん",
+      "meaning": "sempoa"
+    },
+    {
+      "japanese": "たいおんけい",
+      "meaning": "termometer"
+    },
+    {
+      "japanese": "ざいりょう",
+      "meaning": "bahan"
+    },
+    {
+      "japanese": "いっしょうけんめい",
+      "meaning": "sungguh-sungguh"
+    },
+    {
+      "japanese": "なぜ",
+      "meaning": "kenapa"
+    },
+    {
+      "japanese": "どのくらい",
+      "meaning": "berapa banyak"
+    },
+    {
+      "japanese": "こくれん",
+      "meaning": "PBB"
+    },
+    {
+      "japanese": "はんぶん",
+      "meaning": "setengah"
+    },
+    {
+      "japanese": "ローン",
+      "meaning": "kredit"
+    },
+    {
+      "japanese": "どんぶり",
+      "meaning": "mangkuk"
+    },
+    {
+      "japanese": "めん",
+      "meaning": "mie"
+    },
+    {
+      "japanese": "ひろめます",
+      "meaning": "menyebarluaskan"
+    },
+    {
+      "japanese": "とじる",
+      "meaning": "menjilid"
+    },
+    {
+      "japanese": "はさむ／とじる",
+      "meaning": "menjepit/menjilid"
+    },
+    {
+      "japanese": "とめる",
+      "meaning": "menyematkan"
+    },
+    {
+      "japanese": "はる",
+      "meaning": "menempelkan"
+    },
+    {
+      "japanese": "けずる",
+      "meaning": "meruncingkan"
+    },
+    {
+      "japanese": "ファイルする",
+      "meaning": "mengarsipkan"
+    },
+    {
+      "japanese": "けす",
+      "meaning": "menghapus"
+    },
+    {
+      "japanese": "あなを あける",
+      "meaning": "melubangi"
+    },
+    {
+      "japanese": "けいさんする",
+      "meaning": "menghitung"
+    },
+    {
+      "japanese": "せんを ひく／はかる",
+      "meaning": "menggaris/mengukur"
+    },
+    {
+      "japanese": "くぎを うつ",
+      "meaning": "memaku"
+    },
+    {
+      "japanese": "はさむ／まげる／きる",
+      "meaning": "menjepit/membengkokkan, melengkungkan/memotong"
+    },
+    {
+      "japanese": "ねじを しめる／ゆるめる",
+      "meaning": "mengetatkan, mengeratkan/melonggarkan［sekrup］"
+    },
+    {
+      "japanese": "ホッチキス",
+      "meaning": "stepler"
+    },
+    {
+      "japanese": "クリップ",
+      "meaning": "jepitan"
+    },
+    {
+      "japanese": "がびょう",
+      "meaning": "paku payung"
+    },
+    {
+      "japanese": "カッター",
+      "meaning": "pisau"
+    },
+    {
+      "japanese": "はさみ",
+      "meaning": "gunting"
+    },
+    {
+      "japanese": "セロテープ",
+      "meaning": "selotip"
+    },
+    {
+      "japanese": "ガムテープ",
+      "meaning": "selotip kertas"
+    },
+    {
+      "japanese": "のり",
+      "meaning": "lem"
+    },
+    {
+      "japanese": "えんぴつけずり",
+      "meaning": "peruncing pensil"
+    },
+    {
+      "japanese": "ファイル",
+      "meaning": "map"
+    },
+    {
+      "japanese": "けしゴム",
+      "meaning": "penghapus karet"
+    },
+    {
+      "japanese": "しゅうせいえき",
+      "meaning": "penghapus cair"
+    },
+    {
+      "japanese": "パンチ",
+      "meaning": "pelubang kertas"
+    },
+    {
+      "japanese": "でんたく",
+      "meaning": "kalkuator"
+    },
+    {
+      "japanese": "じょうぎ（ものさし）",
+      "meaning": "penggaris"
+    },
+    {
+      "japanese": "のこぎり",
+      "meaning": "gergaji"
+    },
+    {
+      "japanese": "かなづち",
+      "meaning": "palu"
+    },
+    {
+      "japanese": "ペンチ",
+      "meaning": "tang"
+    },
+    {
+      "japanese": "ドライバー",
+      "meaning": "obeng"
+    }
+  ],
+  "Bab 43": [
+    {
+      "japanese": "ふえます",
+      "meaning": "［ekspor］bertambah/meningkat"
+    },
+    {
+      "japanese": "へります",
+      "meaning": "［ekspor］berkurang/menurun"
+    },
+    {
+      "japanese": "あがります",
+      "meaning": "［harga］meningkat/naik"
+    },
+    {
+      "japanese": "さがります*",
+      "meaning": "［harga］menurun"
+    },
+    {
+      "japanese": "きれます",
+      "meaning": "［tali］terputus"
+    },
+    {
+      "japanese": "とれます",
+      "meaning": "［kancing］terlepas"
+    },
+    {
+      "japanese": "おちます",
+      "meaning": "［barang］terjatuh"
+    },
+    {
+      "japanese": "なくなります",
+      "meaning": "［bensin］habis"
+    },
+    {
+      "japanese": "へん",
+      "meaning": "aneh"
+    },
+    {
+      "japanese": "しあわせ",
+      "meaning": "bahagia"
+    },
+    {
+      "japanese": "らく",
+      "meaning": "senang/menyenangkan/mudah"
+    },
+    {
+      "japanese": "うまい*",
+      "meaning": "enak, lezat"
+    },
+    {
+      "japanese": "まずい",
+      "meaning": "tidak enak, tidak sedap"
+    },
+    {
+      "japanese": "つまらない",
+      "meaning": "tidak menarik, tidak berguna, percuma"
+    },
+    {
+      "japanese": "やさしい",
+      "meaning": "baik hati"
+    },
+    {
+      "japanese": "ガソリン",
+      "meaning": "bensin"
+    },
+    {
+      "japanese": "ひ",
+      "meaning": "api"
+    },
+    {
+      "japanese": "パンフレット",
+      "meaning": "pamflet"
+    },
+    {
+      "japanese": "ばら",
+      "meaning": "bunga mawar"
+    },
+    {
+      "japanese": "ドライブ",
+      "meaning": "menyetir / tamasya dengan mobil"
+    },
+    {
+      "japanese": "りゆう",
+      "meaning": "alasan"
+    },
+    {
+      "japanese": "あやまります",
+      "meaning": "memohon maaf"
+    },
+    {
+      "japanese": "しりあいます",
+      "meaning": "berkenalan"
+    },
+    {
+      "japanese": "あかるい",
+      "meaning": "ceria"
+    },
+    {
+      "japanese": "くらい",
+      "meaning": "muram"
+    },
+    {
+      "japanese": "かつぱつ",
+      "meaning": "aktif, giat"
+    },
+    {
+      "japanese": "せいじつ",
+      "meaning": "setia"
+    },
+    {
+      "japanese": "やさしい",
+      "meaning": "baik hati"
+    },
+    {
+      "japanese": "わがまま",
+      "meaning": "egois"
+    },
+    {
+      "japanese": "おとなしい",
+      "meaning": "pendiam"
+    },
+    {
+      "japanese": "まじめ",
+      "meaning": "serius, tekun"
+    },
+    {
+      "japanese": "ふまじめ",
+      "meaning": "tidak serius, sembrono"
+    },
+    {
+      "japanese": "つめたい",
+      "meaning": "kaku/dingin"
+    },
+    {
+      "japanese": "きびしい",
+      "meaning": "keras, disiplin"
+    },
+    {
+      "japanese": "きがながい",
+      "meaning": "kalem/nyantai"
+    },
+    {
+      "japanese": "がんこ",
+      "meaning": "keras kepala/kepala batu"
+    },
+    {
+      "japanese": "きがみじかい",
+      "meaning": "tidak sabar, cepat marah"
+    },
+    {
+      "japanese": "すなお",
+      "meaning": "penurut, lemah lembut"
+    },
+    {
+      "japanese": "きがつよい",
+      "meaning": "bersifat keras, galak"
+    },
+    {
+      "japanese": "きがよわい",
+      "meaning": "penakut"
+    },
+    {
+      "japanese": "いじわる",
+      "meaning": "jahat ひどい* juga sama"
+    },
+    {
+      "japanese": "かちき",
+      "meaning": "tidak mau kalah"
+    },
+    {
+      "japanese": "しんけいしつ",
+      "meaning": "gelisah, gugup"
+    }
+  ],
+  "Bab 44": [
+    {
+      "japanese": "なきます",
+      "meaning": "menangis"
+    },
+    {
+      "japanese": "わらいます",
+      "meaning": "tertawa"
+    },
+    {
+      "japanese": "ねむります",
+      "meaning": "tidur/mengantuk"
+    },
+    {
+      "japanese": "かわきます",
+      "meaning": "［kemeja］kering"
+    },
+    {
+      "japanese": "ぬれます*",
+      "meaning": "［kemeja］basah"
+    },
+    {
+      "japanese": "すべります",
+      "meaning": "licin"
+    },
+    {
+      "japanese": "おきます",
+      "meaning": "terjadi［kecelakaan］"
+    },
+    {
+      "japanese": "ちょうせつします",
+      "meaning": "mengontrol/menyetel/mengadjust"
+    },
+    {
+      "japanese": "あんぜん",
+      "meaning": "aman"
+    },
+    {
+      "japanese": "きけん",
+      "meaning": "bahaya"
+    },
+    {
+      "japanese": "こい",
+      "meaning": "(rasa) kental/kuat"
+    },
+    {
+      "japanese": "うすい",
+      "meaning": "(rasa) tawar/tipis"
+    },
+    {
+      "japanese": "あつい",
+      "meaning": "tebal"
+    },
+    {
+      "japanese": "ふとい",
+      "meaning": "gemuk/tebal"
+    },
+    {
+      "japanese": "ほそい*",
+      "meaning": "kurus/tipis"
+    },
+    {
+      "japanese": "くうき",
+      "meaning": "udara"
+    },
+    {
+      "japanese": "なみだ",
+      "meaning": "air mata"
+    },
+    {
+      "japanese": "わしょく",
+      "meaning": "makanan Jepang"
+    },
+    {
+      "japanese": "ようしょく",
+      "meaning": "makanan Barat"
+    },
+    {
+      "japanese": "おかず*",
+      "meaning": "lauk pauk"
+    },
+    {
+      "japanese": "りょう",
+      "meaning": "jumlah"
+    },
+    {
+      "japanese": "ーばい",
+      "meaning": "ー kali lipat"
+    },
+    {
+      "japanese": "シングル",
+      "meaning": "single"
+    },
+    {
+      "japanese": "ツイン",
+      "meaning": "twin"
+    },
+    {
+      "japanese": "せんたくもの",
+      "meaning": "cucian"
+    },
+    {
+      "japanese": "DVD",
+      "meaning": "DVD"
+    },
+    {
+      "japanese": "カット",
+      "meaning": "cut/potong rambut"
+    },
+    {
+      "japanese": "シャンプー",
+      "meaning": "sampo (〜を します : berkeramas)"
+    },
+    {
+      "japanese": "いやがります",
+      "meaning": "(orang lain) tidak mau/benci"
+    },
+    {
+      "japanese": "また",
+      "meaning": "dan, lalu"
+    },
+    {
+      "japanese": "うまく",
+      "meaning": "baik/bagus/(berjalan dengan) lancar"
+    },
+    {
+      "japanese": "じゅんじょ",
+      "meaning": "urutan"
+    },
+    {
+      "japanese": "あんしん",
+      "meaning": "persaan tenang"
+    },
+    {
+      "japanese": "ひょうげん",
+      "meaning": "ungkapan, ekspresi"
+    },
+    {
+      "japanese": "たとえば",
+      "meaning": "misalnya"
+    },
+    {
+      "japanese": "わかれました",
+      "meaning": "berpisah"
+    },
+    {
+      "japanese": "これら",
+      "meaning": "itu (jamak)"
+    },
+    {
+      "japanese": "えんぎが わるい",
+      "meaning": "kesan negatif"
+    },
+    {
+      "japanese": "カット",
+      "meaning": "potong rambut"
+    },
+    {
+      "japanese": "パーマ",
+      "meaning": "keriting"
+    },
+    {
+      "japanese": "シャンプー",
+      "meaning": "keramas"
+    },
+    {
+      "japanese": "トリートメント",
+      "meaning": "perawatan rambut"
+    },
+    {
+      "japanese": "ブロー",
+      "meaning": "blow"
+    },
+    {
+      "japanese": "カラー",
+      "meaning": "mengecat rambut, mewarnai rambut"
+    },
+    {
+      "japanese": "エクステ",
+      "meaning": "sambung rambut"
+    },
+    {
+      "japanese": "ネイル",
+      "meaning": "perawatan kuku"
+    },
+    {
+      "japanese": "フェイシャルマッサージ",
+      "meaning": "facial massage"
+    },
+    {
+      "japanese": "メイク",
+      "meaning": "dandan, makeup"
+    },
+    {
+      "japanese": "きつけ",
+      "meaning": "membantu mengenakan (kimono)"
+    },
+    {
+      "japanese": "みみが みえる くらいに",
+      "meaning": "sampai telinga terlihat."
+    },
+    {
+      "japanese": "かたに かかる くらいに",
+      "meaning": "sebahu."
+    },
+    {
+      "japanese": "まゆが かくれる くらいに",
+      "meaning": "sebatas alis."
+    },
+    {
+      "japanese": "１センチ くらい",
+      "meaning": "kira"
+    },
+    {
+      "japanese": "この しゃしん みたいに",
+      "meaning": "seperti foto ini."
+    },
+    {
+      "japanese": "きってください。",
+      "meaning": "Tolong potong rambut saya"
+    },
+    {
+      "japanese": "かみを とかす",
+      "meaning": "menyisir rambut"
+    },
+    {
+      "japanese": "かみを わける",
+      "meaning": "belah rambut"
+    },
+    {
+      "japanese": "かみを まとめる",
+      "meaning": "mengikat rambut"
+    },
+    {
+      "japanese": "かみを アップに する",
+      "meaning": "menyanggul"
+    },
+    {
+      "japanese": "かみを そめる",
+      "meaning": "mewarnai rambut"
+    },
+    {
+      "japanese": "ひげ／かおを そる",
+      "meaning": "mencukur kumis/bulu wajah"
+    },
+    {
+      "japanese": "けしょう／メイクする",
+      "meaning": "dandan, berdandan"
+    },
+    {
+      "japanese": "みつあみに する",
+      "meaning": "kepang"
+    },
+    {
+      "japanese": "かりあげる",
+      "meaning": "mencukur"
+    },
+    {
+      "japanese": "パーマを かける",
+      "meaning": "mengeriting rambut"
+    }
+  ],
+  "Bab 45": [
+    {
+      "japanese": "しんじます",
+      "meaning": "percaya"
+    },
+    {
+      "japanese": "キャンセルします",
+      "meaning": "membatalkan"
+    },
+    {
+      "japanese": "しらせます",
+      "meaning": "memberitahukan/menginformasikan"
+    },
+    {
+      "japanese": "ほしょうしょ",
+      "meaning": "surat garansi"
+    },
+    {
+      "japanese": "りょうしゅうしょ",
+      "meaning": "kuitansi"
+    },
+    {
+      "japanese": "キャンプ",
+      "meaning": "kemah"
+    },
+    {
+      "japanese": "ちゅうし",
+      "meaning": "pembatalan"
+    },
+    {
+      "japanese": "てん",
+      "meaning": "poin"
+    },
+    {
+      "japanese": "うめ",
+      "meaning": "bunga plum"
+    },
+    {
+      "japanese": "きゅうに",
+      "meaning": "mendadak, tiba-tiba"
+    },
+    {
+      "japanese": "むりに",
+      "meaning": "dengan memaksa"
+    },
+    {
+      "japanese": "たのしみに しています",
+      "meaning": "saya menantikan~"
+    },
+    {
+      "japanese": "いじょうです。",
+      "meaning": "Sekian."
+    },
+    {
+      "japanese": "かかりいん",
+      "meaning": "staf, petugas"
+    },
+    {
+      "japanese": "ゆうしょうします",
+      "meaning": "menang"
+    },
+    {
+      "japanese": "なやみ",
+      "meaning": "bimbang/gelisah/gundah"
+    },
+    {
+      "japanese": "めざまし",
+      "meaning": "jam weker"
+    },
+    {
+      "japanese": "めが さめます",
+      "meaning": "bangun tidur"
+    },
+    {
+      "japanese": "だいがくせい",
+      "meaning": "mahasiswa"
+    },
+    {
+      "japanese": "かいとう",
+      "meaning": "jawaban"
+    },
+    {
+      "japanese": "なります",
+      "meaning": "berbunyi"
+    },
+    {
+      "japanese": "セットします",
+      "meaning": "mengatur"
+    },
+    {
+      "japanese": "しんさつする",
+      "meaning": "memeriksa pasien"
+    },
+    {
+      "japanese": "けんさする",
+      "meaning": "memeriksa/mengecek"
+    },
+    {
+      "japanese": "ちゅうしゃする",
+      "meaning": "menyuntik"
+    },
+    {
+      "japanese": "レントゲンを とる",
+      "meaning": "meronsen"
+    },
+    {
+      "japanese": "にゅういん／たいいんする",
+      "meaning": "opname/keluar dari rumah sakit"
+    },
+    {
+      "japanese": "しゅじゅつする",
+      "meaning": "dioperasi"
+    },
+    {
+      "japanese": "ますいする",
+      "meaning": "membius"
+    },
+    {
+      "japanese": "しょほうせん",
+      "meaning": "resep dokter"
+    },
+    {
+      "japanese": "カルテ",
+      "meaning": "data pasien"
+    },
+    {
+      "japanese": "ほけんしょう",
+      "meaning": "kartu asuransi"
+    },
+    {
+      "japanese": "しんさつけん",
+      "meaning": "kartu pasien"
+    }
+  ],
+  "Bab 46": [
+    {
+      "japanese": "わたします",
+      "meaning": "menyerahkan"
+    },
+    {
+      "japanese": "かえって きます",
+      "meaning": "pulang"
+    },
+    {
+      "japanese": "でます",
+      "meaning": "［bus］berangkat"
+    },
+    {
+      "japanese": "とどきます",
+      "meaning": "［barang］sampai"
+    },
+    {
+      "japanese": "にゅうがくします",
+      "meaning": "masuk［universitas］"
+    },
+    {
+      "japanese": "そつぎょうします",
+      "meaning": "lulus/tamat［dari universitas］"
+    },
+    {
+      "japanese": "やきます",
+      "meaning": "membakar  やける* terbakar"
+    },
+    {
+      "japanese": "やけます",
+      "meaning": "［roti］dibakar, ［daging］dibakar"
+    },
+    {
+      "japanese": "るす",
+      "meaning": "tidak ada orang dirumah/menginggalkan rumah"
+    },
+    {
+      "japanese": "たくはいびん",
+      "meaning": "kirim barang kecil secara cepat"
+    },
+    {
+      "japanese": "げんいん",
+      "meaning": "penyebab"
+    },
+    {
+      "japanese": "はんとし",
+      "meaning": "setengah tahun"
+    },
+    {
+      "japanese": "ちょうど",
+      "meaning": "pas/kebetulan"
+    },
+    {
+      "japanese": "ぐあい",
+      "meaning": "kondisi (tubuh/perasaan)"
+    },
+    {
+      "japanese": "ついて います",
+      "meaning": "hoki/beruntung"
+    },
+    {
+      "japanese": "ゆか",
+      "meaning": "lantai"
+    },
+    {
+      "japanese": "ころびます",
+      "meaning": "jatuh"
+    },
+    {
+      "japanese": "ベル",
+      "meaning": "bel"
+    },
+    {
+      "japanese": "なります",
+      "meaning": "berbunyi"
+    },
+    {
+      "japanese": "あわてて",
+      "meaning": "tergesa gesa"
+    },
+    {
+      "japanese": "じゅんばんに",
+      "meaning": "sesuai dengan urutan"
+    },
+    {
+      "japanese": "できごと",
+      "meaning": "peristiwa"
+    }
+  ],
+  "Bab 47": [
+    {
+      "japanese": "ふきます",
+      "meaning": "［angin］bertiup"
+    },
+    {
+      "japanese": "もえます",
+      "meaning": "［sampah］terbakar"
+    },
+    {
+      "japanese": "なくなります",
+      "meaning": "meninggal dunia (lebih sopan dari しにます)"
+    },
+    {
+      "japanese": "あつまります",
+      "meaning": "［orang］berkumpul"
+    },
+    {
+      "japanese": "わかれます",
+      "meaning": "［orang］berpisah"
+    },
+    {
+      "japanese": "します",
+      "meaning": "(dalam keadaan) berbunyi/bersuara"
+    },
+    {
+      "japanese": "します",
+      "meaning": "terasa"
+    },
+    {
+      "japanese": "します",
+      "meaning": "berbau"
+    },
+    {
+      "japanese": "きびしい",
+      "meaning": "ketat/keras/disiplin"
+    },
+    {
+      "japanese": "ひどい",
+      "meaning": "jahat"
+    },
+    {
+      "japanese": "こわい",
+      "meaning": "menakutkan"
+    },
+    {
+      "japanese": "じっけん",
+      "meaning": "percobaan, eksperimen"
+    },
+    {
+      "japanese": "データ",
+      "meaning": "data"
+    },
+    {
+      "japanese": "じんこう",
+      "meaning": "penduduk"
+    },
+    {
+      "japanese": "におい",
+      "meaning": "bau"
+    },
+    {
+      "japanese": "かがく",
+      "meaning": "IPA"
+    },
+    {
+      "japanese": "いがく*",
+      "meaning": "ilmu kedokteran"
+    },
+    {
+      "japanese": "ぶんがく",
+      "meaning": "sastra"
+    },
+    {
+      "japanese": "パトカー",
+      "meaning": "mobil patrol"
+    },
+    {
+      "japanese": "きゅうきゅうしゃ",
+      "meaning": "mobil ambulan"
+    },
+    {
+      "japanese": "さんせい",
+      "meaning": "persetujuan"
+    },
+    {
+      "japanese": "はんたい",
+      "meaning": "menentang/kebalikan"
+    },
+    {
+      "japanese": "だいとうりょう",
+      "meaning": "Presiden"
+    },
+    {
+      "japanese": "こんやくします",
+      "meaning": "bertunangan"
+    },
+    {
+      "japanese": "こいびと",
+      "meaning": "pacar"
+    },
+    {
+      "japanese": "しりあいます",
+      "meaning": "berkenalan"
+    },
+    {
+      "japanese": "けしょう",
+      "meaning": "make up (〜を します : berdandan)"
+    },
+    {
+      "japanese": "せわを します",
+      "meaning": "merawat/membesarkan"
+    },
+    {
+      "japanese": "じょせい",
+      "meaning": "wanita"
+    },
+    {
+      "japanese": "だんせい",
+      "meaning": "pria"
+    },
+    {
+      "japanese": "ながいき",
+      "meaning": "panjang umur (〜します : berumur panjang)"
+    },
+    {
+      "japanese": "りゆう",
+      "meaning": "alasan"
+    },
+    {
+      "japanese": "かんけい",
+      "meaning": "hubungan"
+    },
+    {
+      "japanese": "ザーザー（ふる）",
+      "meaning": "lebat (hujan)"
+    },
+    {
+      "japanese": "ビュービュー（ふく）",
+      "meaning": "hyu hyu (angin)"
+    },
+    {
+      "japanese": "ゴロゴロ（なる）",
+      "meaning": "grudug (petir)"
+    },
+    {
+      "japanese": "ワンワン（ほえる）",
+      "meaning": "guk (menggonggong)"
+    },
+    {
+      "japanese": "ニャーニャー（なく）",
+      "meaning": "meong (mengeong)"
+    },
+    {
+      "japanese": "カーカー（なく）",
+      "meaning": "gak"
+    },
+    {
+      "japanese": "げらげら（わらう）",
+      "meaning": "(tertawa) terbahak bahak"
+    },
+    {
+      "japanese": "しくしく（なく）",
+      "meaning": "(menangis) tersedu sedu/terisak isak"
+    },
+    {
+      "japanese": "きょろきょろ（みる）",
+      "meaning": "gelisah (melihat)"
+    },
+    {
+      "japanese": "ぱくぱく（たべる）",
+      "meaning": "(makan) lahap"
+    },
+    {
+      "japanese": "ぐうぐう（ねる）",
+      "meaning": "(tidur) pulas"
+    },
+    {
+      "japanese": "すらすら（よむ）",
+      "meaning": "(membaca) dengan lancar"
+    },
+    {
+      "japanese": "ざらざら（している）",
+      "meaning": "(terasa) kasar"
+    },
+    {
+      "japanese": "べたべた（している）",
+      "meaning": "(terasa) lengket"
+    },
+    {
+      "japanese": "つるつる（している）",
+      "meaning": "(terasa) licin"
+    }
+  ]
+}
