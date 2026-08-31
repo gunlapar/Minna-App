@@ -2,11 +2,12 @@
 .back-button { margin-bottom: 1.5rem; }
 .kana-selector-description { color: var(--text-secondary); font-weight: 700; margin-bottom: 2rem; }
 .kana-group { margin-top: 2rem; }
-.kana-group-header { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-bottom: .8rem; }
+.kana-group-header { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 1rem; margin-bottom: .8rem; }
 .kana-group h3 { font-size: 1.2rem; }
-.kana-group-actions { display: flex; gap: .75rem; }
-.kana-group-button { border: 0; background: transparent; color: var(--primary-shadow); cursor: pointer; font: inherit; font-size: .9rem; font-weight: 800; padding: .25rem; }
-.kana-group-button:hover { text-decoration: underline; }
+.kana-group-actions { display: grid; grid-template-columns: repeat(2, max-content); gap: .5rem; }
+.kana-group-button { min-height: 36px; border: 1px solid #b6e5fb; border-radius: 9px; background: #effaff; color: var(--primary-shadow); cursor: pointer; font: inherit; font-size: .84rem; font-weight: 800; padding: .35rem .65rem; white-space: nowrap; }
+.kana-group-button:hover { background: #dff5ff; }
+.kana-group-button:focus-visible { outline: 3px solid rgba(28, 176, 246, .35); outline-offset: 2px; }
 .kana-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(78px, 1fr)); border: 1px solid #e5e5e5; border-radius: 12px; overflow: hidden; }
 .kana-option { min-height: 95px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: .1rem; border-right: 1px solid #e5e5e5; border-bottom: 1px solid #e5e5e5; cursor: pointer; transition: background .15s; }
 .kana-option:hover, .kana-option.selected { background: #f0f9ff; }
@@ -14,4 +15,22 @@
 .kana-symbol { font-size: 1.65rem; color: #111; }
 .kana-reading { color: var(--text-secondary); font-size: .95rem; font-weight: 700; }
 .kana-selector-actions { display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center; margin-top: 2rem; }
-@media (max-width: 600px) { .kana-group-header { align-items: flex-start; flex-direction: column; gap: .35rem; } .kana-grid { grid-template-columns: repeat(auto-fill, minmax(64px, 1fr)); } .kana-option { min-height: 85px; } .kana-symbol { font-size: 1.4rem; } .kana-selector-actions { gap: .7rem; } }
+
+@media (max-width: 600px) {
+  .kana-grid { grid-template-columns: repeat(auto-fill, minmax(64px, 1fr)); }
+  .kana-option { min-height: 85px; }
+  .kana-symbol { font-size: 1.4rem; }
+  .kana-selector-actions { gap: .7rem; }
+}
+
+@media (max-width: 420px) {
+  .kana-group-header { grid-template-columns: 1fr; gap: .5rem; }
+  .kana-group-actions { grid-template-columns: repeat(2, minmax(0, 1fr)); width: 100%; }
+  .kana-group-button { width: 100%; }
+}
+
+@media (max-width: 340px) {
+  .kana-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .kana-option { min-height: 80px; }
+  .kana-group-actions { grid-template-columns: 1fr; }
+}
