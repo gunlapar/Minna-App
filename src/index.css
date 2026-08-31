@@ -177,3 +177,6 @@ body {
     font-size: 0.95rem;
   }
 }
+
+.kana-entry-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; margin: 1.5rem 0 2rem; }
+@media (max-width: 600px) { .kana-entry-grid { grid-template-columns: 1fr; } }

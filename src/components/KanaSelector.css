@@ -1,0 +1,13 @@
+.kana-selector { position: relative; }
+.back-button { margin-bottom: 1.5rem; }
+.kana-selector-description { color: var(--text-secondary); font-weight: 700; margin-bottom: 2rem; }
+.kana-group { margin-top: 2rem; }
+.kana-group h3 { font-size: 1.2rem; margin-bottom: .8rem; }
+.kana-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(78px, 1fr)); border: 1px solid #e5e5e5; border-radius: 12px; overflow: hidden; }
+.kana-option { min-height: 95px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: .1rem; border-right: 1px solid #e5e5e5; border-bottom: 1px solid #e5e5e5; cursor: pointer; transition: background .15s; }
+.kana-option:hover, .kana-option.selected { background: #f0f9ff; }
+.kana-option input { accent-color: var(--primary-color); }
+.kana-symbol { font-size: 1.65rem; color: #111; }
+.kana-reading { color: var(--text-secondary); font-size: .95rem; font-weight: 700; }
+.kana-selector-actions { display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center; margin-top: 2rem; }
+@media (max-width: 600px) { .kana-grid { grid-template-columns: repeat(auto-fill, minmax(64px, 1fr)); } .kana-option { min-height: 85px; } .kana-symbol { font-size: 1.4rem; } .kana-selector-actions { gap: .7rem; } }

@@ -139,3 +139,9 @@
     font-size: 1.6rem;
   }
 }
+
+.kana-prompt { font-size: 5rem; line-height: 1; }
+.result-stats { font-size: 1.35rem; margin-bottom: .75rem; }
+.result-accuracy { color: var(--success-shadow); font-size: 2rem; font-weight: 800; }
+.result-actions { display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin-top: 2rem; }
+@media (max-width: 600px) { .kana-prompt { font-size: 3.8rem; } }
