@@ -10,7 +10,11 @@ export default function KanaSelector({ kanaSet, onStart, onBack }) {
     if (next.has(id)) { next.delete(id); } else { next.add(id); }
     return next;
   });
-
+  const updateGroup = (characters, shouldSelect) => setSelectedIds((previous) => {
+    const next = new Set(previous);
+    characters.forEach(({ id }) => shouldSelect ? next.add(id) : next.delete(id));
+    return next;
+  });
   const selectAll = () => setSelectedIds(new Set(allCharacters.map((kana) => kana.id)));
   const clearAll = () => setSelectedIds(new Set());
   const selectedKana = allCharacters.filter((kana) => selectedIds.has(kana.id));
@@ -22,7 +26,13 @@ export default function KanaSelector({ kanaSet, onStart, onBack }) {
       <p className="kana-selector-description">Pilih karakter yang ingin dilatih ({selectedKana.length} dipilih).</p>
       {kanaSet.groups.map((group) => (
         <div className="kana-group" key={group.label}>
-          <h3>{group.label}</h3>
+          <div className="kana-group-header">
+            <h3>{group.label}</h3>
+            <div className="kana-group-actions">
+              <button type="button" className="kana-group-button" onClick={() => updateGroup(group.characters, true)}>Pilih semua</button>
+              <button type="button" className="kana-group-button" onClick={() => updateGroup(group.characters, false)}>Hapus semua</button>
+            </div>
+          </div>
           <div className="kana-grid">
             {group.characters.map((kana) => (
               <label className={`kana-option ${selectedIds.has(kana.id) ? 'selected' : ''}`} key={kana.id}>
