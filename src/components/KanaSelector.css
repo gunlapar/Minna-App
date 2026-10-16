@@ -8,12 +8,12 @@
 .kana-group-button { min-height: 36px; border: 1px solid #b6e5fb; border-radius: 9px; background: #effaff; color: var(--primary-shadow); cursor: pointer; font: inherit; font-size: .84rem; font-weight: 800; padding: .35rem .65rem; white-space: nowrap; }
 .kana-group-button:hover { background: #dff5ff; }
 .kana-group-button:focus-visible { outline: 3px solid rgba(28, 176, 246, .35); outline-offset: 2px; }
-.kana-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(78px, 1fr)); border: 1px solid #e5e5e5; border-radius: 12px; overflow: hidden; }
-.kana-option { min-height: 95px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: .1rem; border-right: 1px solid #e5e5e5; border-bottom: 1px solid #e5e5e5; cursor: pointer; transition: background .15s; }
+.kana-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(84px, 1fr)); border: 1px solid #e5e5e5; border-radius: 12px; overflow: hidden; }
+.kana-option { min-height: 95px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: .25rem; border-right: 1px solid #e5e5e5; border-bottom: 1px solid #e5e5e5; cursor: pointer; transition: background .15s; padding: .5rem .3rem; text-align: center; }
 .kana-option:hover, .kana-option.selected { background: #f0f9ff; }
 .kana-option input { accent-color: var(--primary-color); }
-.kana-symbol { font-size: 1.65rem; color: #111; }
-.kana-reading { color: var(--text-secondary); font-size: .95rem; font-weight: 700; }
+.kana-symbol { font-size: 1.65rem; color: #111; line-height: 1; }
+.kana-reading { color: var(--text-secondary); font-size: .82rem; font-weight: 700; line-height: 1.2; word-break: break-word; max-width: 100%; }
 .kana-selector-actions { display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center; margin-top: 2rem; }
 
 @media (max-width: 600px) {

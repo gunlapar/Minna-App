@@ -35,6 +35,22 @@ export default function Flashcard({ vocabList }) {
         </div>
         <div className="flashcard-back">
           <h2 className="meaning-text">{currentWord.meaning}</h2>
+          {(currentWord.onyomi || currentWord.kunyomi) && (
+            <div className="kanji-readings">
+              {currentWord.onyomi && (
+                <div className="kanji-reading-item">
+                  <span className="reading-tag">ON</span>
+                  <span className="reading-text">{currentWord.onyomi}</span>
+                </div>
+              )}
+              {currentWord.kunyomi && (
+                <div className="kanji-reading-item">
+                  <span className="reading-tag">KUN</span>
+                  <span className="reading-text">{currentWord.kunyomi}</span>
+                </div>
+              )}
+            </div>
+          )}
         </div>
       </div>
       

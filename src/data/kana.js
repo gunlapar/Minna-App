@@ -1,3 +1,5 @@
+import { kanjiSet } from './kanji';
+
 const baseRows = [
   [['あ', 'a'], ['い', 'i'], ['う', 'u'], ['え', 'e'], ['お', 'o']],
   [['か', 'ka'], ['き', 'ki'], ['く', 'ku'], ['け', 'ke'], ['こ', 'ko']],
@@ -56,4 +58,5 @@ export const kanaSets = {
       { label: 'Kombinasi Yōon', characters: toKana(yoonRows, 'katakana') },
     ],
   },
+  kanji: kanjiSet,
 };

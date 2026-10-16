@@ -29,7 +29,7 @@ function App() {
         ) : selectedKanaType ? (
           <div>
             <button className="btn btn-secondary" style={{ marginBottom: '1rem' }} onClick={() => setMode(null)}>&larr; Kembali</button>
-            {mode === 'flashcard' ? <Flashcard vocabList={selectedKana} /> : <TypingTest key={kanaSessionId} vocabList={selectedKana} isKana onRetry={() => setKanaSessionId((id) => id + 1)} onBack={() => { setMode(null); setSelectedKana([]); }} />}
+            {mode === 'flashcard' ? <Flashcard vocabList={selectedKana} /> : <TypingTest key={kanaSessionId} vocabList={selectedKana} isKana={selectedKanaType !== 'kanji'} isKanji={selectedKanaType === 'kanji'} onRetry={() => setKanaSessionId((id) => id + 1)} onBack={() => { setMode(null); setSelectedKana([]); }} />}
           </div>
         ) : !selectedChapter ? (
           <div className="card">
