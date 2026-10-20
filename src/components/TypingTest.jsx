@@ -13,6 +13,14 @@ export default function TypingTest({ vocabList, isKana = false, isKanji = false,
   const inputRef = useRef(null);
   const currentWord = questions[currentIndex];
 
+  const feedbackTimerRef = useRef(null);
+
+  useEffect(() => {
+    return () => {
+      if (feedbackTimerRef.current) clearTimeout(feedbackTimerRef.current);
+    };
+  }, []);
+
   useEffect(() => { if (inputRef.current) inputRef.current.focus(); }, [currentIndex]);
   const advance = () => { setInputValue(''); if (currentIndex < questions.length - 1) setCurrentIndex(currentIndex + 1); else setIsComplete(true); };
   const handleSubmit = (event) => {
@@ -21,16 +29,30 @@ export default function TypingTest({ vocabList, isKana = false, isKanji = false,
     if (!answer) return;
     const cleanAnswer = answer.replace(/\s*\(.*?\)\s*/g, '').trim();
     const acceptedAnswers = (currentWord.answers || [currentWord.japanese]).map((value) => value.trim().toLowerCase());
+    if (feedbackTimerRef.current) clearTimeout(feedbackTimerRef.current);
+
     if (acceptedAnswers.includes(answer) || (cleanAnswer && acceptedAnswers.includes(cleanAnswer))) {
       setFeedback('correct');
-      setTimeout(() => { setFeedback(null); advance(); }, 700);
+      feedbackTimerRef.current = setTimeout(() => { setFeedback(null); advance(); }, 700);
     } else {
       setMistakes((previous) => new Set(previous).add(currentIndex));
       setFeedback('incorrect');
-      setTimeout(() => setFeedback(null), 700);
+      feedbackTimerRef.current = setTimeout(() => setFeedback(null), 2500);
     }
   };
-  const handleSkip = () => { setMistakes((previous) => new Set(previous).add(currentIndex)); setFeedback(null); advance(); };
+  const handleInputChange = (event) => {
+    setInputValue(event.target.value);
+    if (feedback === 'incorrect') {
+      setFeedback(null);
+      if (feedbackTimerRef.current) clearTimeout(feedbackTimerRef.current);
+    }
+  };
+  const handleSkip = () => {
+    if (feedbackTimerRef.current) clearTimeout(feedbackTimerRef.current);
+    setMistakes((previous) => new Set(previous).add(currentIndex));
+    setFeedback(null);
+    advance();
+  };
   if (!currentWord && !isComplete) return <div>No words available.</div>;
   if (isComplete) {
     const correct = questions.length - mistakes.size;
@@ -46,7 +68,7 @@ export default function TypingTest({ vocabList, isKana = false, isKanji = false,
         <div className="progress">{currentIndex + 1} / {questions.length}</div>
         <h2 className={`meaning-prompt ${isCharacterPrompt ? 'kana-prompt' : ''}`}>{isCharacterPrompt ? currentWord.japanese : currentWord.meaning}</h2>
         <form onSubmit={handleSubmit} className="typing-form">
-          <input ref={inputRef} type="text" className={`typing-input ${feedback || ''}`} value={inputValue} onChange={(event) => setInputValue(event.target.value)} placeholder={placeholderText} disabled={feedback === 'correct'} autoComplete="off" />
+          <input ref={inputRef} type="text" className={`typing-input ${feedback || ''}`} value={inputValue} onChange={handleInputChange} placeholder={placeholderText} disabled={feedback === 'correct'} autoComplete="off" />
           <button type="submit" className="btn" disabled={feedback === 'correct' || !inputValue.trim()}>Submit</button>
         </form>
         {feedback === 'incorrect' && (
