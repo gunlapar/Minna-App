@@ -37,15 +37,11 @@ export default function TypingTest({ vocabList, isKana = false, isKanji = false,
     } else {
       setMistakes((previous) => new Set(previous).add(currentIndex));
       setFeedback('incorrect');
-      feedbackTimerRef.current = setTimeout(() => setFeedback(null), 2500);
+      feedbackTimerRef.current = setTimeout(() => setFeedback(null), 4000);
     }
   };
   const handleInputChange = (event) => {
     setInputValue(event.target.value);
-    if (feedback === 'incorrect') {
-      setFeedback(null);
-      if (feedbackTimerRef.current) clearTimeout(feedbackTimerRef.current);
-    }
   };
   const handleSkip = () => {
     if (feedbackTimerRef.current) clearTimeout(feedbackTimerRef.current);
@@ -60,7 +56,7 @@ export default function TypingTest({ vocabList, isKana = false, isKanji = false,
     return <div className="typing-test-container"><div className="typing-card results-card"><p className="progress">Sesi selesai</p><h2 className="meaning-prompt">Hasil latihan</h2><div className="result-stats"><strong>{correct}</strong> benar · <strong>{mistakes.size}</strong> salah</div><p className="result-accuracy">Akurasi {accuracy}%</p><div className="result-actions"><button className="btn" onClick={onRetry || (() => window.location.reload())}>Ulangi</button>{onBack && <button className="btn btn-secondary" onClick={onBack}>Kembali</button>}</div></div></div>;
   }
   const isCharacterPrompt = isKana || isKanji;
-  const placeholderText = isKanji ? 'Ketik salah satu: arti atau romaji...' : isKana ? 'Ketik romaji...' : 'Type the Japanese reading...';
+  const placeholderText = isKanji ? 'Ketik arti atau romaji...' : isKana ? 'Ketik romaji...' : 'Type the Japanese reading...';
 
   return (
     <div className="typing-test-container">
@@ -73,11 +69,8 @@ export default function TypingTest({ vocabList, isKana = false, isKanji = false,
         </form>
         {feedback === 'incorrect' && (
           <div className="hint-container">
-            <p className="hint-label">{isKanji ? 'Jawaban benar (cukup ketik salah satu):' : 'Correct answer:'}</p>
+            <p className="hint-label">Jawaban:</p>
             <p className="hint-answer">{isCharacterPrompt ? currentWord.meaning : currentWord.japanese}</p>
-            {isKanji && currentWord.romaji && (
-              <p className="hint-sub">atau romaji: {currentWord.romaji}</p>
-            )}
           </div>
         )}
       </div>
