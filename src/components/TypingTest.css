@@ -92,8 +92,16 @@
 
 .hint-answer {
   color: var(--error);
-  font-size: 2.2rem;
+  font-size: 2rem;
   font-weight: 800;
+  line-height: 1.2;
+}
+
+.hint-sub {
+  color: #c93b3b;
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-top: 0.4rem;
 }
 
 @keyframes bounce {

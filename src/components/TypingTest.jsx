@@ -19,9 +19,16 @@ export default function TypingTest({ vocabList, isKana = false, isKanji = false,
     event.preventDefault();
     const answer = inputValue.trim().toLowerCase();
     if (!answer) return;
+    const cleanAnswer = answer.replace(/\s*\(.*?\)\s*/g, '').trim();
     const acceptedAnswers = (currentWord.answers || [currentWord.japanese]).map((value) => value.trim().toLowerCase());
-    if (acceptedAnswers.includes(answer)) { setFeedback('correct'); setTimeout(() => { setFeedback(null); advance(); }, 700); }
-    else { setMistakes((previous) => new Set(previous).add(currentIndex)); setFeedback('incorrect'); setTimeout(() => setFeedback(null), 700); }
+    if (acceptedAnswers.includes(answer) || (cleanAnswer && acceptedAnswers.includes(cleanAnswer))) {
+      setFeedback('correct');
+      setTimeout(() => { setFeedback(null); advance(); }, 700);
+    } else {
+      setMistakes((previous) => new Set(previous).add(currentIndex));
+      setFeedback('incorrect');
+      setTimeout(() => setFeedback(null), 700);
+    }
   };
   const handleSkip = () => { setMistakes((previous) => new Set(previous).add(currentIndex)); setFeedback(null); advance(); };
   if (!currentWord && !isComplete) return <div>No words available.</div>;
@@ -31,8 +38,7 @@ export default function TypingTest({ vocabList, isKana = false, isKanji = false,
     return <div className="typing-test-container"><div className="typing-card results-card"><p className="progress">Sesi selesai</p><h2 className="meaning-prompt">Hasil latihan</h2><div className="result-stats"><strong>{correct}</strong> benar · <strong>{mistakes.size}</strong> salah</div><p className="result-accuracy">Akurasi {accuracy}%</p><div className="result-actions"><button className="btn" onClick={onRetry || (() => window.location.reload())}>Ulangi</button>{onBack && <button className="btn btn-secondary" onClick={onBack}>Kembali</button>}</div></div></div>;
   }
   const isCharacterPrompt = isKana || isKanji;
-  const placeholderText = isKanji ? 'Ketik arti atau romaji...' : isKana ? 'Ketik romaji...' : 'Type the Japanese reading...';
-  const hintAnswer = isKanji ? `${currentWord.meaning}${currentWord.romaji ? ` (${currentWord.romaji})` : ''}` : isKana ? currentWord.meaning : currentWord.japanese;
+  const placeholderText = isKanji ? 'Ketik salah satu: arti atau romaji...' : isKana ? 'Ketik romaji...' : 'Type the Japanese reading...';
 
   return (
     <div className="typing-test-container">
@@ -45,8 +51,11 @@ export default function TypingTest({ vocabList, isKana = false, isKanji = false,
         </form>
         {feedback === 'incorrect' && (
           <div className="hint-container">
-            <p className="hint-label">Correct answer:</p>
-            <p className="hint-answer">{hintAnswer}</p>
+            <p className="hint-label">{isKanji ? 'Jawaban benar (cukup ketik salah satu):' : 'Correct answer:'}</p>
+            <p className="hint-answer">{isCharacterPrompt ? currentWord.meaning : currentWord.japanese}</p>
+            {isKanji && currentWord.romaji && (
+              <p className="hint-sub">atau romaji: {currentWord.romaji}</p>
+            )}
           </div>
         )}
       </div>
