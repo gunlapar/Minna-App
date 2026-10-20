@@ -92,9 +92,9 @@
 
 .hint-answer {
   color: var(--error);
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 800;
-  line-height: 1.2;
+  line-height: 1.25;
 }
 
 @keyframes bounce {

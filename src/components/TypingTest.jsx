@@ -70,7 +70,13 @@ export default function TypingTest({ vocabList, isKana = false, isKanji = false,
         {feedback === 'incorrect' && (
           <div className="hint-container">
             <p className="hint-label">Jawaban:</p>
-            <p className="hint-answer">{isCharacterPrompt ? currentWord.meaning : currentWord.japanese}</p>
+            <p className="hint-answer">
+              {isKanji && currentWord.primaryRomaji
+                ? `${currentWord.meaning} (${currentWord.primaryRomaji})`
+                : isCharacterPrompt
+                ? currentWord.meaning
+                : currentWord.japanese}
+            </p>
           </div>
         )}
       </div>

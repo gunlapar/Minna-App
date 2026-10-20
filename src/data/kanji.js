@@ -7,6 +7,7 @@ export const kanjiSet = {
         {
           id: 'kanji-1',
           japanese: '一',
+          primaryRomaji: 'ichi',
           meaning: 'satu',
           onyomi: 'イチ, イツ',
           kunyomi: 'ひと, ひとつ',
@@ -16,6 +17,7 @@ export const kanjiSet = {
         {
           id: 'kanji-2',
           japanese: '二',
+          primaryRomaji: 'ni',
           meaning: 'dua',
           onyomi: 'ニ, ジ',
           kunyomi: 'ふた, ふたつ',
@@ -25,6 +27,7 @@ export const kanjiSet = {
         {
           id: 'kanji-3',
           japanese: '三',
+          primaryRomaji: 'san',
           meaning: 'tiga',
           onyomi: 'サン',
           kunyomi: 'み, みつ, みっつ',
@@ -34,6 +37,7 @@ export const kanjiSet = {
         {
           id: 'kanji-4',
           japanese: '四',
+          primaryRomaji: 'yon',
           meaning: 'empat',
           onyomi: 'シ',
           kunyomi: 'よ, よつ, よっつ, よん',
@@ -43,6 +47,7 @@ export const kanjiSet = {
         {
           id: 'kanji-5',
           japanese: '五',
+          primaryRomaji: 'go',
           meaning: 'lima',
           onyomi: 'ゴ',
           kunyomi: 'いつ, いつつ',
@@ -52,6 +57,7 @@ export const kanjiSet = {
         {
           id: 'kanji-6',
           japanese: '六',
+          primaryRomaji: 'roku',
           meaning: 'enam',
           onyomi: 'ロク',
           kunyomi: 'む, むつ, むっつ, むい',
@@ -61,6 +67,7 @@ export const kanjiSet = {
         {
           id: 'kanji-7',
           japanese: '七',
+          primaryRomaji: 'nana',
           meaning: 'tujuh',
           onyomi: 'シチ',
           kunyomi: 'なな, ななつ, なの',
@@ -70,6 +77,7 @@ export const kanjiSet = {
         {
           id: 'kanji-8',
           japanese: '八',
+          primaryRomaji: 'hachi',
           meaning: 'delapan',
           onyomi: 'ハチ',
           kunyomi: 'や, やつ, やっつ, よう',
@@ -79,6 +87,7 @@ export const kanjiSet = {
         {
           id: 'kanji-9',
           japanese: '九',
+          primaryRomaji: 'kyuu',
           meaning: 'sembilan',
           onyomi: 'キュウ, ク',
           kunyomi: 'ここの, ここのつ',
@@ -88,6 +97,7 @@ export const kanjiSet = {
         {
           id: 'kanji-10',
           japanese: '十',
+          primaryRomaji: 'juu',
           meaning: 'sepuluh',
           onyomi: 'ジュウ, ジッ',
           kunyomi: 'とお, と',
@@ -97,6 +107,7 @@ export const kanjiSet = {
         {
           id: 'kanji-11',
           japanese: '百',
+          primaryRomaji: 'hyaku',
           meaning: 'seratus',
           onyomi: 'ヒャク',
           kunyomi: 'もも',
@@ -106,6 +117,7 @@ export const kanjiSet = {
         {
           id: 'kanji-12',
           japanese: '千',
+          primaryRomaji: 'sen',
           meaning: 'seribu',
           onyomi: 'セン',
           kunyomi: 'ち',
@@ -115,6 +127,7 @@ export const kanjiSet = {
         {
           id: 'kanji-13',
           japanese: '万',
+          primaryRomaji: 'man',
           meaning: 'sepuluh ribu',
           onyomi: 'マン, バン',
           kunyomi: 'よろず',
@@ -124,6 +137,7 @@ export const kanjiSet = {
         {
           id: 'kanji-14',
           japanese: '円',
+          primaryRomaji: 'en',
           meaning: 'yen / lingkaran',
           onyomi: 'エン',
           kunyomi: 'まるい, まる',
@@ -133,6 +147,7 @@ export const kanjiSet = {
         {
           id: 'kanji-15',
           japanese: '半',
+          primaryRomaji: 'han',
           meaning: 'setengah',
           onyomi: 'ハン',
           kunyomi: 'なかば',
@@ -147,6 +162,7 @@ export const kanjiSet = {
         {
           id: 'kanji-16',
           japanese: '日',
+          primaryRomaji: 'nichi / hi',
           meaning: 'hari / matahari',
           onyomi: 'ニチ, ジツ',
           kunyomi: 'ひ, -び, -か',
@@ -156,6 +172,7 @@ export const kanjiSet = {
         {
           id: 'kanji-17',
           japanese: '月',
+          primaryRomaji: 'tsuki / getsu',
           meaning: 'bulan',
           onyomi: 'ゲツ, ガツ',
           kunyomi: 'つき',
@@ -165,6 +182,7 @@ export const kanjiSet = {
         {
           id: 'kanji-18',
           japanese: '年',
+          primaryRomaji: 'nen / toshi',
           meaning: 'tahun',
           onyomi: 'ネン',
           kunyomi: 'とし',
@@ -174,6 +192,7 @@ export const kanjiSet = {
         {
           id: 'kanji-19',
           japanese: '時',
+          primaryRomaji: 'ji',
           meaning: 'waktu / jam',
           onyomi: 'ジ',
           kunyomi: 'とき, -どき',
@@ -183,6 +202,7 @@ export const kanjiSet = {
         {
           id: 'kanji-20',
           japanese: '今',
+          primaryRomaji: 'ima',
           meaning: 'sekarang',
           onyomi: 'コン, キン',
           kunyomi: 'いま',
@@ -192,6 +212,7 @@ export const kanjiSet = {
         {
           id: 'kanji-21',
           japanese: '間',
+          primaryRomaji: 'aida / kan',
           meaning: 'antara / interval',
           onyomi: 'カン, ケン',
           kunyomi: 'あいだ, ま, あい',
@@ -201,6 +222,7 @@ export const kanjiSet = {
         {
           id: 'kanji-22',
           japanese: '前',
+          primaryRomaji: 'mae',
           meaning: 'depan / sebelum',
           onyomi: 'ゼン',
           kunyomi: 'まえ',
@@ -210,6 +232,7 @@ export const kanjiSet = {
         {
           id: 'kanji-23',
           japanese: '後',
+          primaryRomaji: 'ushiro / ato',
           meaning: 'belakang / setelah',
           onyomi: 'ゴ, コウ',
           kunyomi: 'のち, うしろ, あと',
@@ -219,6 +242,7 @@ export const kanjiSet = {
         {
           id: 'kanji-24',
           japanese: '午',
+          primaryRomaji: 'go',
           meaning: 'tengah hari / siang',
           onyomi: 'ゴ',
           kunyomi: 'うま',
@@ -228,6 +252,7 @@ export const kanjiSet = {
         {
           id: 'kanji-25',
           japanese: '毎',
+          primaryRomaji: 'mai',
           meaning: 'setiap',
           onyomi: 'マイ',
           kunyomi: 'ごと',
@@ -242,6 +267,7 @@ export const kanjiSet = {
         {
           id: 'kanji-26',
           japanese: '山',
+          primaryRomaji: 'yama',
           meaning: 'gunung',
           onyomi: 'サン, セン',
           kunyomi: 'やま',
@@ -251,6 +277,7 @@ export const kanjiSet = {
         {
           id: 'kanji-27',
           japanese: '川',
+          primaryRomaji: 'kawa',
           meaning: 'sungai',
           onyomi: 'セン',
           kunyomi: 'かわ',
@@ -260,6 +287,7 @@ export const kanjiSet = {
         {
           id: 'kanji-28',
           japanese: '木',
+          primaryRomaji: 'ki',
           meaning: 'pohon / kayu',
           onyomi: 'ボク, モク',
           kunyomi: 'き, こ-',
@@ -269,6 +297,7 @@ export const kanjiSet = {
         {
           id: 'kanji-29',
           japanese: '火',
+          primaryRomaji: 'hi / ka',
           meaning: 'api',
           onyomi: 'カ',
           kunyomi: 'ひ, -び, ほ-',
@@ -278,6 +307,7 @@ export const kanjiSet = {
         {
           id: 'kanji-30',
           japanese: '土',
+          primaryRomaji: 'tsuchi / do',
           meaning: 'tanah',
           onyomi: 'ド, ト',
           kunyomi: 'つち',
@@ -287,6 +317,7 @@ export const kanjiSet = {
         {
           id: 'kanji-31',
           japanese: '金',
+          primaryRomaji: 'kane / kin',
           meaning: 'emas / uang',
           onyomi: 'キン, コン, ゴン',
           kunyomi: 'かね, かな-',
@@ -296,6 +327,7 @@ export const kanjiSet = {
         {
           id: 'kanji-32',
           japanese: '水',
+          primaryRomaji: 'mizu',
           meaning: 'air',
           onyomi: 'スイ',
           kunyomi: 'みず',
@@ -305,6 +337,7 @@ export const kanjiSet = {
         {
           id: 'kanji-33',
           japanese: '雨',
+          primaryRomaji: 'ame',
           meaning: 'hujan',
           onyomi: 'ウ',
           kunyomi: 'あめ, あま-',
@@ -314,6 +347,7 @@ export const kanjiSet = {
         {
           id: 'kanji-34',
           japanese: '天',
+          primaryRomaji: 'ten',
           meaning: 'langit / surga',
           onyomi: 'テン',
           kunyomi: 'あまつ, あめ, あま-',
@@ -323,6 +357,7 @@ export const kanjiSet = {
         {
           id: 'kanji-35',
           japanese: '白',
+          primaryRomaji: 'shiro',
           meaning: 'putih',
           onyomi: 'ハク, ビャク',
           kunyomi: 'しろ, しろい',
@@ -337,6 +372,7 @@ export const kanjiSet = {
         {
           id: 'kanji-36',
           japanese: '上',
+          primaryRomaji: 'ue',
           meaning: 'atas',
           onyomi: 'ジョウ, ショウ',
           kunyomi: 'うえ, あげる, あがる, のぼる',
@@ -346,6 +382,7 @@ export const kanjiSet = {
         {
           id: 'kanji-37',
           japanese: '下',
+          primaryRomaji: 'shita',
           meaning: 'bawah',
           onyomi: 'カ, ゲ',
           kunyomi: 'した, さげる, くだる, おりる',
@@ -355,6 +392,7 @@ export const kanjiSet = {
         {
           id: 'kanji-38',
           japanese: '中',
+          primaryRomaji: 'naka',
           meaning: 'tengah / dalam',
           onyomi: 'チュウ',
           kunyomi: 'なか, うち',
@@ -364,6 +402,7 @@ export const kanjiSet = {
         {
           id: 'kanji-39',
           japanese: '外',
+          primaryRomaji: 'soto',
           meaning: 'luar',
           onyomi: 'ガイ, ゲ',
           kunyomi: 'そと, ほか, はずす',
@@ -373,6 +412,7 @@ export const kanjiSet = {
         {
           id: 'kanji-40',
           japanese: '左',
+          primaryRomaji: 'hidari',
           meaning: 'kiri',
           onyomi: 'サ, シャ',
           kunyomi: 'ひだり',
@@ -382,6 +422,7 @@ export const kanjiSet = {
         {
           id: 'kanji-41',
           japanese: '右',
+          primaryRomaji: 'migi',
           meaning: 'kanan',
           onyomi: 'ウ, ユウ',
           kunyomi: 'みぎ',
@@ -391,6 +432,7 @@ export const kanjiSet = {
         {
           id: 'kanji-42',
           japanese: '東',
+          primaryRomaji: 'higashi',
           meaning: 'timur',
           onyomi: 'トウ',
           kunyomi: 'ひがし',
@@ -400,6 +442,7 @@ export const kanjiSet = {
         {
           id: 'kanji-43',
           japanese: '西',
+          primaryRomaji: 'nishi',
           meaning: 'barat',
           onyomi: 'セイ, サイ',
           kunyomi: 'にし',
@@ -409,6 +452,7 @@ export const kanjiSet = {
         {
           id: 'kanji-44',
           japanese: '南',
+          primaryRomaji: 'minami',
           meaning: 'selatan',
           onyomi: 'ナン, ナ',
           kunyomi: 'みなみ',
@@ -418,6 +462,7 @@ export const kanjiSet = {
         {
           id: 'kanji-45',
           japanese: '北',
+          primaryRomaji: 'kita',
           meaning: 'utara',
           onyomi: 'ホク',
           kunyomi: 'きた',
@@ -432,6 +477,7 @@ export const kanjiSet = {
         {
           id: 'kanji-46',
           japanese: '人',
+          primaryRomaji: 'hito',
           meaning: 'orang',
           onyomi: 'ジン, ニン',
           kunyomi: 'ひと, -り, -と',
@@ -441,6 +487,7 @@ export const kanjiSet = {
         {
           id: 'kanji-47',
           japanese: '男',
+          primaryRomaji: 'otoko',
           meaning: 'laki-laki / pria',
           onyomi: 'ダン, ナン',
           kunyomi: 'おとこ, お',
@@ -450,6 +497,7 @@ export const kanjiSet = {
         {
           id: 'kanji-48',
           japanese: '女',
+          primaryRomaji: 'onna',
           meaning: 'wanita / perempuan',
           onyomi: 'ジョ, ニョ, ニョウ',
           kunyomi: 'おんな, め',
@@ -459,6 +507,7 @@ export const kanjiSet = {
         {
           id: 'kanji-49',
           japanese: '子',
+          primaryRomaji: 'ko',
           meaning: 'anak',
           onyomi: 'シ, ス, ツ',
           kunyomi: 'こ, -こ, ね',
@@ -468,6 +517,7 @@ export const kanjiSet = {
         {
           id: 'kanji-50',
           japanese: '父',
+          primaryRomaji: 'chichi',
           meaning: 'ayah / bapak',
           onyomi: 'フ',
           kunyomi: 'ちち',
@@ -477,6 +527,7 @@ export const kanjiSet = {
         {
           id: 'kanji-51',
           japanese: '母',
+          primaryRomaji: 'haha',
           meaning: 'ibu',
           onyomi: 'ボ',
           kunyomi: 'はは, も',
@@ -486,6 +537,7 @@ export const kanjiSet = {
         {
           id: 'kanji-52',
           japanese: '友',
+          primaryRomaji: 'tomo',
           meaning: 'teman / sahabat',
           onyomi: 'ユウ',
           kunyomi: 'とも',
@@ -495,6 +547,7 @@ export const kanjiSet = {
         {
           id: 'kanji-53',
           japanese: '名',
+          primaryRomaji: 'namae / na',
           meaning: 'nama',
           onyomi: 'メイ, ミョウ',
           kunyomi: 'な',
@@ -504,6 +557,7 @@ export const kanjiSet = {
         {
           id: 'kanji-54',
           japanese: '生',
+          primaryRomaji: 'ikiru / sei',
           meaning: 'kehidupan / lahir',
           onyomi: 'セイ, ショウ',
           kunyomi: 'いきる, うまれる, なま, き',
@@ -518,6 +572,7 @@ export const kanjiSet = {
         {
           id: 'kanji-55',
           japanese: '見',
+          primaryRomaji: 'miru',
           meaning: 'lihat / melihat',
           onyomi: 'ケン',
           kunyomi: 'みる, みえる, みせる',
@@ -527,6 +582,7 @@ export const kanjiSet = {
         {
           id: 'kanji-56',
           japanese: '出',
+          primaryRomaji: 'deru',
           meaning: 'keluar',
           onyomi: 'シュツ, スイ',
           kunyomi: 'でる, だす, いでる',
@@ -536,6 +592,7 @@ export const kanjiSet = {
         {
           id: 'kanji-57',
           japanese: '入',
+          primaryRomaji: 'hairu',
           meaning: 'masuk',
           onyomi: 'ニュウ, ジュ',
           kunyomi: 'いる, いれる, はいる',
@@ -545,6 +602,7 @@ export const kanjiSet = {
         {
           id: 'kanji-58',
           japanese: '行',
+          primaryRomaji: 'iku',
           meaning: 'pergi',
           onyomi: 'コウ, ギョウ, アン',
           kunyomi: 'いく, ゆく, おこなう',
@@ -554,6 +612,7 @@ export const kanjiSet = {
         {
           id: 'kanji-59',
           japanese: '来',
+          primaryRomaji: 'kuru',
           meaning: 'datang',
           onyomi: 'ライ, タイ',
           kunyomi: 'くる, きたる, き, こ',
@@ -563,6 +622,7 @@ export const kanjiSet = {
         {
           id: 'kanji-60',
           japanese: '食',
+          primaryRomaji: 'taberu',
           meaning: 'makan',
           onyomi: 'ショク, ジキ',
           kunyomi: 'たべる, くう, くらう',
@@ -572,6 +632,7 @@ export const kanjiSet = {
         {
           id: 'kanji-61',
           japanese: '読',
+          primaryRomaji: 'yomu',
           meaning: 'baca / membaca',
           onyomi: 'ドク, トク',
           kunyomi: 'よむ',
@@ -581,6 +642,7 @@ export const kanjiSet = {
         {
           id: 'kanji-62',
           japanese: '書',
+          primaryRomaji: 'kaku',
           meaning: 'tulis / menulis',
           onyomi: 'ショ',
           kunyomi: 'かく',
@@ -590,6 +652,7 @@ export const kanjiSet = {
         {
           id: 'kanji-63',
           japanese: '聞',
+          primaryRomaji: 'kiku',
           meaning: 'dengar / mendengar',
           onyomi: 'ブン, モン',
           kunyomi: 'きく, きこえる',
@@ -599,6 +662,7 @@ export const kanjiSet = {
         {
           id: 'kanji-64',
           japanese: '話',
+          primaryRomaji: 'hanasu',
           meaning: 'cerita / bicara',
           onyomi: 'ワ',
           kunyomi: 'はなす, はなし',
@@ -608,6 +672,7 @@ export const kanjiSet = {
         {
           id: 'kanji-65',
           japanese: '休',
+          primaryRomaji: 'yasumu',
           meaning: 'istirahat / libur',
           onyomi: 'キュウ',
           kunyomi: 'やすむ, やすまる, やすめる',
@@ -617,6 +682,7 @@ export const kanjiSet = {
         {
           id: 'kanji-66',
           japanese: '学',
+          primaryRomaji: 'manabu',
           meaning: 'belajar',
           onyomi: 'ガク',
           kunyomi: 'まなぶ',
@@ -631,6 +697,7 @@ export const kanjiSet = {
         {
           id: 'kanji-67',
           japanese: '校',
+          primaryRomaji: 'kou',
           meaning: 'sekolah',
           onyomi: 'コウ, キョウ',
           kunyomi: '-',
@@ -640,6 +707,7 @@ export const kanjiSet = {
         {
           id: 'kanji-68',
           japanese: '語',
+          primaryRomaji: 'go',
           meaning: 'bahasa / kata',
           onyomi: 'ゴ',
           kunyomi: 'かたる, かたらう',
@@ -649,6 +717,7 @@ export const kanjiSet = {
         {
           id: 'kanji-69',
           japanese: '国',
+          primaryRomaji: 'kuni',
           meaning: 'negara',
           onyomi: 'コク',
           kunyomi: 'くに',
@@ -658,6 +727,7 @@ export const kanjiSet = {
         {
           id: 'kanji-70',
           japanese: '電',
+          primaryRomaji: 'den',
           meaning: 'listrik',
           onyomi: 'デン',
           kunyomi: '-',
@@ -667,6 +737,7 @@ export const kanjiSet = {
         {
           id: 'kanji-71',
           japanese: '車',
+          primaryRomaji: 'kuruma',
           meaning: 'mobil / kendaraan',
           onyomi: 'シャ',
           kunyomi: 'くるま',
@@ -676,6 +747,7 @@ export const kanjiSet = {
         {
           id: 'kanji-72',
           japanese: '本',
+          primaryRomaji: 'hon',
           meaning: 'buku / asal',
           onyomi: 'ホン',
           kunyomi: 'もと',
@@ -685,6 +757,7 @@ export const kanjiSet = {
         {
           id: 'kanji-73',
           japanese: '気',
+          primaryRomaji: 'ki',
           meaning: 'semangat / udara / rasa',
           onyomi: 'キ, ケ',
           kunyomi: '-',
@@ -699,6 +772,7 @@ export const kanjiSet = {
         {
           id: 'kanji-74',
           japanese: '大',
+          primaryRomaji: 'ookii / dai',
           meaning: 'besar',
           onyomi: 'ダイ, タイ',
           kunyomi: 'おお-, おおきい',
@@ -708,6 +782,7 @@ export const kanjiSet = {
         {
           id: 'kanji-75',
           japanese: '小',
+          primaryRomaji: 'chiisai',
           meaning: 'kecil',
           onyomi: 'ショウ',
           kunyomi: 'ちいさい, こ-, お-',
@@ -717,6 +792,7 @@ export const kanjiSet = {
         {
           id: 'kanji-76',
           japanese: '高',
+          primaryRomaji: 'takai',
           meaning: 'tinggi / mahal',
           onyomi: 'コウ',
           kunyomi: 'たかい, たかまる',
@@ -726,6 +802,7 @@ export const kanjiSet = {
         {
           id: 'kanji-77',
           japanese: '長',
+          primaryRomaji: 'nagai',
           meaning: 'panjang / ketua',
           onyomi: 'チョウ',
           kunyomi: 'ながい, おさ',
@@ -735,6 +812,7 @@ export const kanjiSet = {
         {
           id: 'kanji-78',
           japanese: '先',
+          primaryRomaji: 'saki / sen',
           meaning: 'depan / sebelumnya',
           onyomi: 'セン',
           kunyomi: 'さき, まず',
@@ -744,6 +822,7 @@ export const kanjiSet = {
         {
           id: 'kanji-79',
           japanese: '何',
+          primaryRomaji: 'nani',
           meaning: 'apa',
           onyomi: 'カ',
           kunyomi: 'なに, なん',
@@ -753,6 +832,7 @@ export const kanjiSet = {
         {
           id: 'kanji-80',
           japanese: '分',
+          primaryRomaji: 'fun / bun',
           meaning: 'bagian / menit / paham',
           onyomi: 'ブン, フン, ブ',
           kunyomi: 'わける, わかる',
